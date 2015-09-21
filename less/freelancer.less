@@ -3,7 +3,7 @@
 
 body {
 	overflow-x: hidden;
-  background-color: @background-color;
+    background-color: @background-color;
 }
 
 p {
@@ -12,6 +12,13 @@ p {
 
 p.small {
 	font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    font-size: 20px;
 }
 
 a,
@@ -27,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	font-weight: 700;
-  color: @main-color;
+    color: @main-color;
 }
 
 hr.star-light,
@@ -139,19 +146,23 @@ header {
 }
 
 .navbar {
-  background-color: @off-color;
+    z-index: 9999999;
+    background-color: @off-color;
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	font-weight: 700;
 	a:focus {
 		outline: none;
 	}
-  a:hover, a:focus, .navbar-brand:hover, .navbar-brand:focus, .navbar-nav>li>a:hover, .navbar-nav>li>a:focus {
-    color: @accent-color;
-  }
-  .navbar-nav>.active>a {
-    background-color: lighten(@off-color, 25%)
-  }
+    a:hover, .navbar-brand:hover, .navbar-nav>li>a:hover {
+        color: @accent-color;
+    }
+    a:focus, .navbar-brand:focus, .navbar-nav>li>a:focus {
+        color: white;
+    }
+    .navbar-nav>.active>a {
+        background-color: lighten(@off-color, 25%)
+    }
 	.navbar-nav {
 		letter-spacing: 1px;
 		li {
@@ -178,7 +189,7 @@ section {
 section.success {
 	background: @main-color;
 	color: white;
-  h2 {
+  h2, h4, p {
     color: white;
   }
 
@@ -253,6 +264,11 @@ section.success {
             margin: 0 0 30px;
         }
     }
+}
+
+.rsvp {
+    font-size: 300%;
+    border-radius: 20px;
 }
 
 .btn-primary {
@@ -352,7 +368,7 @@ footer {
 	}
 	.footer-below {
 		padding: 25px 0;
-		background-color: darken(@off-color, 5%);
+		background-color: lighten(@off-color, 5%);
 	}
 }
 
@@ -365,6 +381,7 @@ footer {
 	text-align: center;
 	font-size: 20px;
 	line-height: 45px;
+  margin: 20px;
 }
 
 .btn:focus,
@@ -390,6 +407,10 @@ footer {
 	    	outline: none;
 	    }
     }
+}
+
+.maps iframe{
+    pointer-events: none;
 }
 
 .portfolio-modal {

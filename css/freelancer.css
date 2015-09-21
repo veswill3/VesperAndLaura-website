@@ -8,6 +8,12 @@ p {
 p.small {
   font-size: 16px;
 }
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+}
 a,
 a:hover,
 a:focus,
@@ -120,6 +126,7 @@ header .intro-text .skills {
   }
 }
 .navbar {
+  z-index: 9999999;
   background-color: #000000;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
@@ -129,12 +136,14 @@ header .intro-text .skills {
   outline: none;
 }
 .navbar a:hover,
-.navbar a:focus,
 .navbar .navbar-brand:hover,
-.navbar .navbar-brand:focus,
-.navbar .navbar-nav > li > a:hover,
-.navbar .navbar-nav > li > a:focus {
+.navbar .navbar-nav > li > a:hover {
   color: #e45f56;
+}
+.navbar a:focus,
+.navbar .navbar-brand:focus,
+.navbar .navbar-nav > li > a:focus {
+  color: white;
 }
 .navbar .navbar-nav > .active > a {
   background-color: #404040;
@@ -160,7 +169,9 @@ section.success {
   background: #8ac681;
   color: white;
 }
-section.success h2 {
+section.success h2,
+section.success h4,
+section.success p {
   color: white;
 }
 section.success a,
@@ -226,6 +237,10 @@ section.success a.active {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
+}
+.rsvp {
+  font-size: 300%;
+  border-radius: 20px;
 }
 .btn-primary {
   background-color: #404040;
@@ -316,7 +331,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #000000;
+  background-color: #0d0d0d;
 }
 .btn-social {
   display: inline-block;
@@ -327,6 +342,7 @@ footer .footer-below {
   text-align: center;
   font-size: 20px;
   line-height: 45px;
+  margin: 20px;
 }
 .btn:focus,
 .btn:active,
@@ -350,6 +366,9 @@ footer .footer-below {
 }
 .scroll-top .btn:focus {
   outline: none;
+}
+.maps iframe {
+  pointer-events: none;
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
