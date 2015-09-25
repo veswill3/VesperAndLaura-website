@@ -7,4 +7,5 @@ to compile less
 $ lessc less/freelancer.less css/freelancer.css
 ```
 
-The origional template that I started with was called [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) from [Start Bootstrap](http://startbootstrap.com/).
+The original template that I started the wedding website with was called [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) from [Start Bootstrap](http://startbootstrap.com/).
+I also added the [Bare template](http://startbootstrap.com/template-overviews/bare/) for the main splash page (temporarily)
