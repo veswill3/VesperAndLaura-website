@@ -59,12 +59,12 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: white;
+    border-color: @what-was-white;
 }
 
 hr.star-light:after {
     background-color: @main-color;
-    color: white;
+    color: @what-was-white;
 }
 
 hr.star-primary {
@@ -72,7 +72,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    background-color: white;
+    background-color: @what-was-white;
     color: @main-color;
 }
 
@@ -83,7 +83,7 @@ hr.star-primary:after {
 header {
 	text-align: center;
 	background: @main-color;
-	color: white;
+	color: @what-was-white;
 	.container {
 		padding-top: 100px;
 		padding-bottom: 50px;
@@ -157,10 +157,11 @@ header {
     a:hover, .navbar-brand:hover, .navbar-nav>li>a:hover {
         color: @accent-color;
     }
-    a:focus, .navbar-brand:focus, .navbar-nav>li>a:focus {
-        color: white;
+    a, a:focus, .navbar-brand, .navbar-brand:focus, .navbar-nav>li>a, .navbar-nav>li>a:focus {
+        color: @what-was-white;
     }
-    .navbar-nav>.active>a {
+    .navbar-nav>.active>a, .navbar-nav>.active>a:focus, .navbar-nav>.active>a:hover {
+        color: @what-was-white;
         background-color: lighten(@off-color, 25%)
     }
 	.navbar-nav {
@@ -188,9 +189,9 @@ section {
 
 section.success {
 	background: @main-color;
-	color: white;
+	color: @what-was-white;
   h2, h4, p {
-    color: white;
+    color: @what-was-white;
   }
 
     a,
@@ -241,7 +242,7 @@ section.success {
                     text-align: center;
                     top: 50%;
                     margin-top: -12px;
-                    color: white;
+                    color: @what-was-white;
                     i {
                         margin-top: -12px;
                     }
@@ -274,6 +275,7 @@ section.success {
 .btn-primary {
   background-color: lighten(@off-color, 25%);
   border-color: lighten(@off-color, 25%);
+  color: @what-was-white;
 }
 .btn-primary:hover, .btn-primary:focus {
   background-color: lighten(@off-color, 10%);
@@ -281,9 +283,9 @@ section.success {
 }
 
 .btn-outline {
-	color: white;
+	color: @what-was-white;
 	font-size: 20px;
-	border: solid 2px white;
+	border: solid 2px @what-was-white;
 	background: transparent;
 	transition: all 0.3s ease-in-out;
 	margin-top: 15px;
@@ -292,8 +294,8 @@ section.success {
 	&:active,
 	&.active {
 		color: @accent-color;
-		background: white;
-		border: solid 2px white;
+		background: @what-was-white;
+		border: solid 2px @what-was-white;
 	}
 }
 
@@ -355,7 +357,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-	color: white;
+	color: @what-was-white;
 	h3 {
 		margin-bottom: 30px;
 	}
@@ -376,7 +378,7 @@ footer {
 	display: inline-block;
 	height: 50px;
 	width: 50px;
-	border: 2px solid white;
+	border: 2px solid @what-was-white;
 	border-radius: 100%;
 	text-align: center;
 	font-size: 20px;
@@ -438,7 +440,7 @@ footer {
         position: absolute;
         width:75px;
         height:75px;
-        background-color:transparent;
+        background-color: transparent;
         top: 25px;
         right: 25px;
         cursor: pointer;
@@ -449,7 +451,7 @@ footer {
             height:75px;
             width:1px;
             margin-left:35px;
-            background-color:@off-color;
+            background-color: @off-color;
             transform: rotate(45deg);
             -ms-transform: rotate(45deg);
             /* IE 9 */
@@ -459,7 +461,7 @@ footer {
             .rl {
                 height:75px;
                 width:1px;
-                background-color:@off-color;
+                background-color: @off-color;
                 transform: rotate(90deg);
                 -ms-transform: rotate(90deg);
                 /* IE 9 */
