@@ -15,11 +15,7 @@ function CountDownTimer(dt, id) {
         var now = new Date();
         var distance = end - now;
         if (distance < 0) {
-
-            clearInterval(timer);
-            document.getElementById(id).innerHTML = 'EXPIRED!';
-
-            return;
+            distance = -1 * distance;
         }
         var days = Math.floor(distance / _day);
         var hours = Math.floor((distance % _day) / _hour);
