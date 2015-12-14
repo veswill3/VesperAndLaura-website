@@ -3,6 +3,7 @@ layout: page
 title: About Vesper and Laura
 image:
   feature: about.jpg
+  credit: Laura
 comments: false
 reading_time: false
 modified: 2015-12-14
