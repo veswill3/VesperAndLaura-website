@@ -34,6 +34,9 @@ image:
   <div class="entry-content">
     {{ post.content }}
   </div><!-- /.entry-content -->
+  {% if post.comments != false %}
+    <h3 class="entry-title"><a href="{{ site.url }}{{ post.url }}#disqus_thread"><i class="fa fa-comments">&nbsp&nbspAdd a comment</i></a></h3>
+  {% endif %}
 </article><!-- /.hentry -->
 {% endfor %}
 
