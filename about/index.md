@@ -2,7 +2,7 @@
 layout: page
 title: About Vesper and Laura
 image:
-  feature: about.jpg
+  feature: avatar.jpg
   credit: Laura
 comments: false
 reading_time: false
