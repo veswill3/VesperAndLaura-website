@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And so it begins&#58; A year of travel
-description:
+description: "Our year of travel has finally begun"
 modified: 2016-1-27
 tags: [travel]
 author: Vesper
