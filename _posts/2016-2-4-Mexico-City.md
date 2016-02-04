@@ -6,7 +6,7 @@ modified: 2016-2-4
 tags: [travel, North-America, Mexico]
 image:
   feature: /mexico/roof_garden.jpg
-  credit: 
+  credit: Vesper
   creditlink:
 ---
 
