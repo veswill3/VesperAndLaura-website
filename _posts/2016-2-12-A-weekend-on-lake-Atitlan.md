@@ -16,7 +16,7 @@ Exhausted from our far too early flight that morning, we promptly set out to fin
 <figure class="half">
     <a href="/images/lake_atitlan/coffee_cafe_loco.jpg"><img src="/images/lake_atitlan/coffee_cafe_loco.jpg" alt=""></a>
     <a href="/images/lake_atitlan/sunset_over_the_lake.jpg"><img src="/images/lake_atitlan/sunset_over_the_lake.jpg" alt=""></a>
-    <figcaption>Our first taste of Guatemalan coffee from Cafe loco, and the sun setting over Lake Atitlan.</figcaption>
+    <figcaption>Our first taste of Guatemalan coffee from Cafe Loco, and the sun setting over Lake Atitlan.</figcaption>
 </figure>
 
 Saturday, we spent the day exploring the small and (what turned out to be) incredibly touristy town. There were markets full of colorful souvenirs, several expat coffee shops and restaurants, and that’s about it. We probably should have taken a boat to one of the other small towns along the lake, but we didn’t know where we wanted to go to. Plus by the time we realized Panajachel didn’t have anything to do, it was late enough in the day that we wouldn’t have had more than an hour or two in another city before the boats stopped running.
