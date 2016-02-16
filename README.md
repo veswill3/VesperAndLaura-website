@@ -2,9 +2,8 @@
 A place to share our adventures
 
 ## to serve up locally
-First make sure to comment out `url` in _config.yml.
 ```sh
-$ bundle exec jekyll build && bundle exec jekyll serve
+$ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 Then browse to [http://localhost:4000/](http://localhost:4000/).
 to serve with drafts (currently has example posts) add the `--drafts` flag.
