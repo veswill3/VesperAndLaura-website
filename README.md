@@ -6,7 +6,7 @@ A place to share our adventures
 $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 Then browse to [http://localhost:4000/](http://localhost:4000/).
-to serve with drafts (currently has example posts) add the `--drafts` flag.
+to serve with drafts add the `--drafts` flag.
 
 I started with the [HPSTR Jekyll Theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
 
