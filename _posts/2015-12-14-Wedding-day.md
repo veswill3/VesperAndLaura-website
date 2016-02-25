@@ -1,9 +1,9 @@
 ---
 layout: post
-title: We're married!
+title: We're Married!
 description: "It took us a while to figure out what we wanted to do, but we had the best wedding ever."
 modified: 2015-12-14
-tags: [wedding]
+tags: []
 author: Laura
 image:
   feature: wedding-dip.jpg

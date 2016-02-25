@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Our first adventure in Asia
+title: Our First Adventure in Asia
 description: "Out first trip to Asia will definitely not be out last."
 modified: 2016-1-7
-tags: [travel, china, asia]
+tags: [China, Asia]
 image:
   feature: /china/pagoda.jpg
   credit: Lehar Kanodia

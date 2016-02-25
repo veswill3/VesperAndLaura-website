@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A week in Mexico City
+title: A Week in Mexico City
 description: "Mexico City - our first major stop - could not have gone better."
 modified: 2016-2-4
-tags: [travel, North-America, Mexico]
+tags: [North-America, Mexico]
 image:
   feature: /mexico/roof_garden.jpg
   credit: Vesper

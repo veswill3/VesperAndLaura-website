@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The trip that started it all
+title: The Trip that Started it All
 modified: 2015-12-15
 description: "While we enjoyed travel before, our trip to Peru brought us to a new level."
-tags: [travel, peru, southamerica]
+tags: [Peru, South-America]
 image:
   feature: /peru/skyline.JPG
   credit:

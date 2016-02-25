@@ -3,7 +3,7 @@ layout: post
 title: One Month of Traveling Complete
 description: "A recap of the first month of our trip around the world."
 modified: 2016-2-22
-tags: [monthly-review]
+tags: [Monthly-Review]
 image:
   feature: one-month-feature-photo.jpg
   credit: 

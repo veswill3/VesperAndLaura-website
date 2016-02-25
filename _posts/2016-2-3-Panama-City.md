@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A long layover in Panama City
+title: A Long Layover in Panama City
 description: "How should we best use a short 15 hour layover in Panama City? Sleep? No!"
 modified: 2016-2-3
-tags: [travel, Central-America, Panama]
+tags: [Central-America, Panama]
 image:
   feature: /panama/old_city_boats.jpg
   credit: Vesper

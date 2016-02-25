@@ -3,7 +3,7 @@ layout: post
 title: A Weekend on Lake Atitlán
 description: "A short weekend on a beautiful lake."
 modified: 2016-2-12
-tags: [travel, Central-America, Guatemala]
+tags: [Central-America, Guatemala]
 image:
   feature: /lake_atitlan/boats_on_the_lake.jpg
   credit:
