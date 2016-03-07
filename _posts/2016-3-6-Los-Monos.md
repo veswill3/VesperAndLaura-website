@@ -24,7 +24,7 @@ We should also mention that while the park's focus was on monkeys, there were se
 
 - [Woolly](https://en.wikipedia.org/wiki/Woolly_monkey) or Chorongo monkeys
 - [Capuchin](https://en.wikipedia.org/wiki/Capuchin_monkey) or Capuchino Blanco monkeys
-- [Tufted Capuchin](https://en.wikipedia.org/wiki/Tufted_capuchin) or Capuchino Negro monekys
+- [Tufted Capuchin](https://en.wikipedia.org/wiki/Tufted_capuchin) or Capuchino Negro monkeys
 - [Squirrel monkeys](https://en.wikipedia.org/wiki/Squirrel_monkey)
 - [Spider monkeys](https://en.wikipedia.org/wiki/Spider_monkey) (our favorites)
 - [Collared Peccarys](https://en.wikipedia.org/wiki/Collared_peccary)
