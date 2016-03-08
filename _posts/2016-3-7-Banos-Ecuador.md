@@ -3,7 +3,7 @@ layout: post
 title: Hiking and Waterfalls in Baños
 description: "Beautiful views, hiking, waterfalls, and beer."
 modified: 2016-3-7
-tags: [South-America, Ecuador]
+tags: [South-America, Ecuador, Beer]
 image:
   feature: /banos/from_bellavista.jpg
   credit: 
