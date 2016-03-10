@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Where have we been?
-  url: https://www.google.com/maps/d/embed?mid=zevbu4DM3xhk.kIdj5yC6LOKg
+- title: Map
+  url: /map/
 
 #- title: Theme Setup
 #  url: /theme-setup/
