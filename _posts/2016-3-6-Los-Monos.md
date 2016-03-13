@@ -2,7 +2,7 @@
 layout: post
 title: A Week with Monkeys!
 description: "One week volunteering at a monkey sanctuary near Puyo, Ecuador."
-modified: 2016-3-6
+modified: 2016-3-13
 tags: [South-America, Ecuador, Volunteering]
 image:
   feature: /los_monos/capachino_blancos.jpg
@@ -51,7 +51,7 @@ The next seven days usually followed this pattern:
 
 Our only real complaint about the week was the bugs, but hey, its the rain forest so what do you expect? The good news is that after a few days we were both a lot more ok with them, and eventually Laura made good sport of stomping on the cockroaches. I am told that when baby cockroaches are bad, their parents tell them tales of "Laura: the Hammer."
 
-Now what are these cage tunnels you ask? Although there are several large enclosures throughout the park for most of the monkeys, three groups of monkeys are confined to cages. Two of these cages already had "tunnels" (aka chain link tubing suspended from trees) for the monkeys to run through and spend some time out of their main cage. The third group of monkeys didn't have a tunnel to run through, so most of our time was spent assembling cylindrical tubes. The last two days we spent hanging them in trees, and our final morning we opened the monkeys' cage up and watched them explore their new tunnel! While feeding monkeys was pretty cool, it's even more awesome to be able to say we actually left a permanent mark on the park in the form of providing monkeys a new place to play.
+Now what are these cage tunnels you ask? Although there are several large enclosures throughout the park for most of the monkeys, three groups of monkeys are confined to cages. Two of these cages already had "tunnels" (aka chain link tubing suspended from trees) for the monkeys to run through and spend some time out of their main cage. The third group of monkeys didn't have a tunnel to run through, so most of our time was spent assembling cylindrical tubes. The last two days we spent hanging them in trees, and our final morning we opened the monkeys' cage up and watched them explore their new tunnel! While feeding monkeys was pretty cool, it's even more awesome to be able to say we actually left a permanent mark on the park in the form of providing monkeys a new place to play. Some of our pictures were featured on their website. You can read more about it at [LosMonos.org](http://www.losmonos.org/Blog/ver-seleccionado-en/81).
 <figure>
     <a href="/images/los_monos/cage_tunnel_construction.jpg"><img src="/images/los_monos/cage_tunnel_construction.jpg" alt=""></a>
     <figcaption>Assembling cage tunnels.</figcaption>
