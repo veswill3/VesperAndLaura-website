@@ -408,6 +408,10 @@ var tripList = [
             {
                 "locName": "Trujillo",
                 "coordinates": [-79.02153,-8.10905]
+            },
+            {
+                "locName": "Huaraz",
+                "coordinates": [-77.52877,-9.52611]
             }
         ]
     }
