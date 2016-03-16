@@ -3,7 +3,7 @@ layout: post
 title: Final Thoughts on Ecuador
 description: "A few quick observations about both the country and traveling after almost three weeks in Ecuador."
 modified: 2016-3-14
-tags: [Review]
+tags: [Review, South-America, Ecuador]
 image:
   feature: ecuador-review.jpg
   credit: Laura
