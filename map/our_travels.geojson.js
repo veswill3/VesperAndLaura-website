@@ -359,59 +359,83 @@ var tripList = [
         "locations": [
             {
                 "locName": "Saint Martin",
-                "coordinates": [-63.056592599999995,18.063853]
+                "coordinates": [-63.056592599999995,18.063853],
+                "dates": "2016-1-22:2016-1-26"
             },
             {
                 "locName": "Panama City",
-                "coordinates": [-79.4028639,9.1011785]
+                "coordinates": [-79.4028639,9.1011785],
+                "dates": "2016-1-26"
             },
             {
                 "locName": "Mexico City",
-                "coordinates": [-99.13320799999997,19.4326077]
+                "coordinates": [-99.13320799999997,19.4326077],
+                "dates": "2016-1-27:2016-2-4"
             },
             {
                 "locName": "Prismas Basalticos",
-                "coordinates": [-98.56348809999997,20.2344256]
+                "coordinates": [-98.56348809999997,20.2344256],
+                "dates": "2016-2-1"
             },
             {
                 "locName": "Panajachel, Guatemala",
-                "coordinates": [-91.16062399999998,14.740318500000003]
+                "coordinates": [-91.16062399999998,14.740318500000003],
+                "dates": "2016-2-5:2016-2-7"
             },
             {
                 "locName": "Antigua, Guatemala",
-                "coordinates": [-90.73926240000003,14.5565882]
+                "coordinates": [-90.73926240000003,14.5565882],
+                "dates": "2016-2-7:2016-"
             },
             {
                 "locName": "Bogotá",
-                "coordinates": [-74.072092,4.710988599999999]
+                "coordinates": [-74.072092,4.710988599999999],
+                "dates": "2016-2-13:2016-2-17"
             },
             {
                 "locName": "Quito",
-                "coordinates": [-78.46783820000002,-0.1806532]
+                "coordinates": [-78.46783820000002,-0.1806532],
+                "dates": "2016-2-17:2016-2-22"
             },
             {
                 "locName": "Baños",
-                "coordinates": [-78.42247,-1.39546]
+                "coordinates": [-78.42247,-1.39546],
+                "dates": ["2016-2-22:2016-2-25", "2016-3-3:2016-3-5"]
             },
             {
                 "locName": "Paseo de los Monos",
-                "coordinates": [-77.96428170000002,-1.4858575]
+                "coordinates": [-77.96428170000002,-1.4858575],
+                "dates": "2016-2-25:2016-3-3"
             },
             {
                 "locName": "Cuenca",
-                "coordinates": [-79.00451,-2.89739]
+                "coordinates": [-79.00451,-2.89739],
+                "dates": "2016-3-5:2016-3-7"
             },
             {
                 "locName": "Máncora",
-                "coordinates": [-81.0451,-4.10347]
+                "coordinates": [-81.0451,-4.10347],
+                "dates": "2016-3-8:2016-3-10"
             },
             {
                 "locName": "Trujillo",
-                "coordinates": [-79.02153,-8.10905]
+                "coordinates": [-79.02153,-8.10905],
+                "dates": "2016-3-11:2016-3-13"
             },
             {
                 "locName": "Huaraz",
-                "coordinates": [-77.52877,-9.52611]
+                "coordinates": [-77.52877,-9.52611],
+                "dates": "2016-3-14:2016-3-21"
+            },
+            {
+                "locName": "Santa Cruz Trek",
+                "coordinates": [-77.58182,-8.91228],
+                "dates": "2016-3-17:2016-3-20"
+            },
+            {
+                "locName": "Lima",
+                "coordinates": [-77.04279,-12.04637],
+                "dates": "2016-3-21"
             }
         ]
     }
