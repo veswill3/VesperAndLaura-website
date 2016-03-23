@@ -35,13 +35,27 @@ for (var i = tripList.length - 1; i >= 0; i--) {
             },
             "type": "Feature",
             "properties": {
-                "popupContent": "<strong>Trip: "+trip.tripName+"</strong><p>Location: "+loc.locName+"</p>",
+                "popupContent": "<p><strong>Trip: "+trip.tripName+"</strong><br>Location: "+loc.locName,
                 "style": {color: trip.color}
             }
         }
-        featureCollection.features.push(feature)
+
+        if (loc.dates) {
+            dateStr = loc.dates.toString();
+            dateStr = dateStr.replace(new RegExp(":", "g"), " to ");  // replace : with to
+            dateStr = dateStr.replace(new RegExp(",", "g"), " and "); // replace , with and
+            feature.properties.popupContent += "<br>Visited: " + dateStr;
+        }
+
+        feature.properties.popupContent += "</p>";
+
+        if (loc.post) {
+            feature.properties.popupContent += "<p><a href=\"/" + loc.post + "/\">See the full post for more info</a>.</p>";
+        }
+
+        featureCollection.features.push(feature);
     }
-    ourTravels.push(featureCollection)
+    ourTravels.push(featureCollection);
 }
 
 // add features to the map
