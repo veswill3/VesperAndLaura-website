@@ -75,19 +75,22 @@ var tripList = [
                 "locName": "Cusco",
                 "coordinates": [-71.96746259999998,-13.53195],
                 "dates": "2014-8-31:2014-9-4,2014-9-8:2014-8-9",
-                "post": "The-trip-that-started-it-all"
+                "post": "The-trip-that-started-it-all",
+                "image": "peru/festival.JPG"
             },
             {
                 "locName": "Inca Trail",
                 "coordinates": [-72.47557819999997,-13.2480131],
                 "dates": "2014-9-4:2014-9-7",
-                "post": "The-trip-that-started-it-all"
+                "post": "The-trip-that-started-it-all",
+                "image": "peru/start-of-inca-trail.JPG"
             },
             {
                 "locName": "Machu Picchu",
                 "coordinates": [-72.54496289999997,-13.1631412],
                 "dates": "2014-9-7",
-                "post": "The-trip-that-started-it-all"
+                "post": "The-trip-that-started-it-all",
+                "image": "peru/machu-picchu.JPG"
             },
             {
                 "locName": "Aguas Calientes",
@@ -105,19 +108,22 @@ var tripList = [
                 "locName": "Beijing",
                 "coordinates": [116.40739499999997,39.904211],
                 "dates": "2014-11-22:2014-11-24,2014-11-27:2014-11-29",
-                "post": "Our-first-adventure-in-asia"
+                "post": "Our-first-adventure-in-asia",
+                "image": "china/pagoda.jpg"
             },
             {
                 "locName": "Xi'an",
                 "coordinates": [108.94017499999995,34.341568],
                 "dates": "2014-11-24:2014-11-25",
-                "post": "Our-first-adventure-in-asia"
+                "post": "Our-first-adventure-in-asia",
+                "image": "china/army-in-formation.jpg"
             },
             {
                 "locName": "Shanghai",
                 "coordinates": [121.473701,31.230416],
                 "dates": "2014-11-25:2014-11-27",
-                "post": "Our-first-adventure-in-asia"
+                "post": "Our-first-adventure-in-asia",
+                "image": "china/shanghai-skyline-from-the-air.jpg"
             },
             {
                 "locName": "Toronto",
@@ -453,91 +459,120 @@ var tripList = [
                 "locName": "Saint Martin",
                 "coordinates": [-63.056592599999995,18.063853],
                 "dates": "2016-1-22:2016-1-26",
-                "post": "st-martin"
+                "post": "st-martin",
+                "image": "st_martin/sea_turtle.jpg"
             },
             {
                 "locName": "Panama City",
                 "coordinates": [-79.4028639,9.1011785],
                 "dates": "2016-1-26",
-                "post": "Panama-City"
+                "post": "Panama-City",
+                "image": "panama/old_city_boats.jpg"
             },
             {
                 "locName": "Mexico City",
                 "coordinates": [-99.13320799999997,19.4326077],
                 "dates": "2016-1-27:2016-2-4",
-                "post": "Mexico-City"
+                "post": "Mexico-City",
+                "image": "mexico/angel_of_independence.jpg"
+            },
+            {
+                "locName": "Teotihuacan",
+                "coordinates": [-98.8435,19.69227],
+                "dates": "2016-1-29",
+                "post": "Mexico-City",
+                "image": "mexico/pyramid_of_the_moon.jpg"
             },
             {
                 "locName": "Prismas Basalticos",
                 "coordinates": [-98.56348809999997,20.2344256],
                 "dates": "2016-2-1",
-                "post": "Mexico-City"
+                "post": "Mexico-City",
+                "image": "mexico/basaltic_prisms.jpg"
             },
             {
                 "locName": "Panajachel, Guatemala",
                 "coordinates": [-91.16062399999998,14.740318500000003],
                 "dates": "2016-2-5:2016-2-7",
-                "post": "Panajachel_Guatemala"
+                "post": "Panajachel_Guatemala",
+                "image": "lake_atitlan/boats_on_the_lake.jpg"
             },
             {
                 "locName": "Antigua, Guatemala",
                 "coordinates": [-90.73926240000003,14.5565882],
-                "dates": "2016-2-7:2016-",
-                "post": "Antigua-Guatemala"
+                "dates": "2016-2-7:2016-2-12",
+                "post": "Antigua-Guatemala",
+                "image": "antigua/cascarones_and_pica-pica.jpg"
+            },
+            {
+                "locName": "Pacaya volcano",
+                "coordinates": [-90.6015,14.3823],
+                "dates": "2016-2-10",
+                "post": "Antigua-Guatemala",
+                "image": "antigua/marshmellow_animation.gif"
             },
             {
                 "locName": "Bogotá",
                 "coordinates": [-74.072092,4.710988599999999],
                 "dates": "2016-2-13:2016-2-17",
-                "post": "Bogota-Colombia"
+                "post": "Bogota-Colombia",
+                "image": "bogota/ordering_coffee.jpg"
             },
             {
                 "locName": "Quito",
                 "coordinates": [-78.46783820000002,-0.1806532],
                 "dates": "2016-2-17:2016-2-22",
-                "post": "Quito-Ecuador"
+                "post": "Quito-Ecuador",
+                "image": "quito/laura_straddling_the_equator.jpg"
             },
             {
                 "locName": "Baños",
                 "coordinates": [-78.42247,-1.39546],
-                "dates": ["2016-2-22:2016-2-25", "2016-3-3:2016-3-5"],
-                "post": "Banos-Ecuador"
+                "dates": "2016-2-22:2016-2-25,2016-3-3:2016-3-5",
+                "post": "Banos-Ecuador",
+                "image": "banos/cable_car.jpg"
             },
             {
                 "locName": "Paseo de los Monos",
                 "coordinates": [-77.96428170000002,-1.4858575],
                 "dates": "2016-2-25:2016-3-3",
-                "post": "Los-Monos"
+                "post": "Los-Monos",
+                "image": "los_monos/pancho.jpg"
             },
             {
                 "locName": "Cuenca",
                 "coordinates": [-79.00451,-2.89739],
                 "dates": "2016-3-5:2016-3-7",
-                "post": "Cuenca-Ecuador"
+                "post": "Cuenca-Ecuador",
+                "image": "cuenca/new_cathedral_of_cuenca.jpg"
             },
             {
                 "locName": "Máncora",
                 "coordinates": [-81.0451,-4.10347],
                 "dates": "2016-3-8:2016-3-10",
-                "post": "Mancora-Peru"
+                "post": "Mancora-Peru",
+                "image": "mancora/sunset.jpg"
             },
             {
                 "locName": "Trujillo",
                 "coordinates": [-79.02153,-8.10905],
                 "dates": "2016-3-11:2016-3-13",
-                "post": "Trujillo-Peru"
+                "post": "Trujillo-Peru",
+                "image": "trujillo/mountain_god.jpg"
             },
             {
                 "locName": "Huaraz",
                 "coordinates": [-77.52877,-9.52611],
                 "dates": "2016-3-14:2016-3-21",
-                "post": "Huaraz-Peru"
+                "post": "Huaraz-Peru",
+                "image": "huaraz/puppy_enjoys_view.jpg"
             },
             {
                 "locName": "Santa Cruz Trek",
                 "coordinates": [-77.58182,-8.91228],
                 "dates": "2016-3-17:2016-3-20",
-                "post": "Santa-Cruz-Trek"
+                "post": "Santa-Cruz-Trek",
+                "image": "santa_cruz/punto_union.jpg"
             },
             {
                 "locName": "Lima",

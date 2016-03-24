@@ -43,11 +43,15 @@ for (var i = tripList.length - 1; i >= 0; i--) {
         if (loc.dates) {
             dateStr = loc.dates.toString();
             dateStr = dateStr.replace(new RegExp(":", "g"), " to ");  // replace : with to
-            dateStr = dateStr.replace(new RegExp(",", "g"), " and "); // replace , with and
+            dateStr = dateStr.replace(new RegExp(",", "g"), "<br>and "); // replace , with and
             feature.properties.popupContent += "<br>Visited: " + dateStr;
         }
 
         feature.properties.popupContent += "</p>";
+
+        if (loc.image) {
+            feature.properties.popupContent += "<img src=\"/images/"+loc.image+"\" style=\"width: 170px;\">";
+        }
 
         if (loc.post) {
             feature.properties.popupContent += "<p><a href=\"/" + loc.post + "/\">See the full post for more info</a>.</p>";
