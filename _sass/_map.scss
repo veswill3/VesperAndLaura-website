@@ -1,5 +1,7 @@
 #map { height: 450px; }
 
+#date-slider { width: 100%; }
+
 .map-entry-content {
     @include font-size(16);
     // Dotted line underlines for links
