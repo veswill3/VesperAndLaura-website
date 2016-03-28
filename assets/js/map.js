@@ -1,3 +1,5 @@
+// Note: tripList will already be loaded from /map/our_travels.js
+
 function buildPopupContent(location, trip) {
     popupContent = "<p><strong>Trip: " + trip.tripName + "</strong><br>Location: " + loc.locName;
 
