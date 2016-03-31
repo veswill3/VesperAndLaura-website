@@ -7,6 +7,7 @@ modified: 2016-2-3
 ---
 
 <div id="map"></div>
-<input id="date-slider" type="range" min="0" />
+<a class="btn" id="prev">Previous</a>
+<a class="btn" id="next">Next</a>
 <script src="{{ site.url }}/map/our_travels.js" type="text/javascript"></script>
 <script src="{{ site.url }}/assets/js/map.js" type="text/javascript"></script>

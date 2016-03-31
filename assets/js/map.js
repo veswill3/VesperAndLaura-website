@@ -13,7 +13,7 @@ function buildPopupContent(location, trip) {
     popupContent += "</p>";
 
     if (location.image) {
-        popupContent += "<img src=\"/images/"+location.image+"\" style=\"width: 170px;\">";
+        popupContent += "<img src=\"/images/" + location.image + "\" style=\"width: 170px;\">";
     }
 
     if (location.post) {
@@ -24,128 +24,46 @@ function buildPopupContent(location, trip) {
 }
 
 var groups = {};
-var ourVisits = {};
-// combine info from multiple visits at same location onto one location
-for (var i = tripList.length - 1; i >= 0; i--) {
-    trip = tripList[i];
+var coordMarkerIndex = {};
+var chronOrderofMarkers = [];
+var currentMarkerIndex = -1; // nothing currently
+
+for (var i = 0; i < tripList.length; i++) {
+    var trip = tripList[i];
     groups[trip.tripName] = new L.LayerGroup();
 
-    for (var j = trip.locations.length - 1; j >= 0; j--) {
-        loc = trip.locations[j];
-        name = loc.locName;
+    for (var j = 0; j < trip.locations.length; j++) {
+        var loc = trip.locations[j];
+        var coords = loc.coordinates;
 
-        if (!(name in ourVisits)) {
-            // only create the objects the first time
-            ourVisits[name] = {
-                "coordinates": loc.coordinates,
-                "color": trip.color,
-                "popupContent": "",
-                "visits": {}
-            };
-        }
-
-        if (ourVisits[name].popupContent != "") {
-            ourVisits[name].popupContent += "<hr>";
-        }
-
-        ourVisits[name].popupContent += buildPopupContent(loc, trip);
-
-        // add a trip visit
-        ourVisits[name].visits[trip.tripName] = {
-            dates: loc.dates
-        };
-    }
-}
-
-function parseDates (dateObj, dateStr, marker) {
-
-    function addDateInfo (date, dateObj, marker) {
-        // update start and end
-        if (dateObj.start === null || dateObj.start > date) {
-            dateObj.start = date;
-        }
-        if (dateObj.end === null || dateObj.end < date) {
-            dateObj.end = date;
-        }
-        // add to the dateIndex
-        if (!(date in dateObj.dateIndex)) {
-            dateObj.dateIndex[date] = [marker];
+        var marker;
+        // find or create a marker for this location
+        if (coords in coordMarkerIndex) {
+            marker = coordMarkerIndex[coords];
+            // update the color
+            marker.options["color"] = trip.color;
+            // Add popup content from this trip
+            var popup = marker._popup;
+            popup.setContent(popup.getContent() + "<hr>" + buildPopupContent(loc, trip));
         } else {
-            dateObj.dateIndex[date].push(marker);
-        }
-    }
-
-    var ranges = dateStr.split(",");
-    for (var i = ranges.length - 1; i >= 0; i--) {
-        // expecting [0] to be the start of the range and [1] to be undefined or end of the range
-        var range = ranges[i].split(":");
-        if (typeof range[1] === 'undefined') {
-            // single date
-            var d = new Date(range[0]);
-            addDateInfo(d, dateObj, marker);
-        } else {
-            // loop by day to build the range
-            var start = new Date(range[0]),
-                end = new Date(range[1]);
-            for (var d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
-                addDateInfo(new Date(d), dateObj, marker);
-            }
+            var marker = L.circleMarker(loc.coordinates, {
+                radius: 5,
+                color: trip.color,
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.8,
+            }).bindPopup(buildPopupContent(loc, trip));
+            coordMarkerIndex[coords] = marker;
         }
 
+        marker.addTo(groups[trip.tripName]);
+        chronOrderofMarkers.push(marker);
+        // anytime a user manually opens a marker, update where we are in the list
+        marker.on('click', (function(z){
+            return function(){ currentMarkerIndex = z; }
+        })(chronOrderofMarkers.length - 1));
     }
 }
-
-var dateObj = {
-    start: null,
-    end: null,
-    dateIndex: {},
-    sliderIndex: []
-}
-
-// Create location markers and add them to layer groups
-for (var locName in ourVisits) {
-    if (!ourVisits.hasOwnProperty(locName)) continue;
-
-    var loc = ourVisits[locName];
-    var marker = L.circleMarker(loc.coordinates, {
-        radius: 5,
-        color: loc.color,
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.8,
-    }).bindPopup(loc.popupContent);
-
-    for (var tripName in loc.visits) {
-        if (!loc.visits.hasOwnProperty(tripName)) continue;
-
-        parseDates(dateObj, loc.visits[tripName].dates, marker);
-        marker.addTo(groups[tripName]);
-    }
-}
-
-// Go over each date between start and end and build an index for the slider
-for (var d = new Date(dateObj.start); d <= dateObj.end; d.setDate(d.getDate() + 1)) {
-    dateObj.sliderIndex.push(new Date(d));
-}
-var slider = document.getElementById("date-slider");
-slider.max = dateObj.sliderIndex.length;
-
-slider.onchange = function() {
-    var date = dateObj.sliderIndex[slider.value];
-    if (date in dateObj.dateIndex) {
-        var marker = dateObj.dateIndex[date][0];
-        if (!marker._popup._isOpen) {
-            marker.openPopup();
-        }
-    } else {
-        // close any open popups
-        var popups_close_btns = document.getElementsByClassName("leaflet-popup-close-button");
-        for (var i = popups_close_btns.length - 1; i >= 0; i--) {
-            popups_close_btns[i].click();
-        }
-    }
-};
-slider.oninput = slider.onchange;
 
 var attr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     url = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw';
@@ -182,3 +100,25 @@ var marker = L.circleMarker([43.0730517,-89.40123019999999], {
     opacity: 1,
     fillOpacity: 0.8,
 }).bindPopup("<p><strong>Madison</strong><br>Where we met, lived for 5 years, and got married!</p>").addTo(map);
+
+function movePopup (direction) {
+    if (direction === -1 && currentMarkerIndex === -1) { currentMarkerIndex = chronOrderofMarkers.length; } // because we are about to subtract 1
+    // search in direction for the next openable popup
+    var found = false;
+    var marker;
+    while (!found) {
+        currentMarkerIndex += direction;
+        if (currentMarkerIndex >= chronOrderofMarkers.length) { // past end of list, wrap to beginning
+            currentMarkerIndex = 0;
+        } else if (currentMarkerIndex < 0) { // past beginning of list, wrap to end
+            currentMarkerIndex = chronOrderofMarkers.length - 1;
+        }
+        marker = chronOrderofMarkers[currentMarkerIndex];
+        if (!marker._map) continue; // marker not on map, skip it
+        found = true;
+        marker.openPopup();
+    }
+};
+
+document.getElementById("prev").onclick = function () { movePopup(-1); };
+document.getElementById("next").onclick = function () { movePopup(1); };

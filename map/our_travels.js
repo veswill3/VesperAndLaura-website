@@ -67,7 +67,7 @@ var tripList = [
         "locations": [
             {
                 "locName": "Lima",
-                "coordinates": [-12.046374,-77.0427934],
+                "coordinates": [-12.04637,-77.04279],
                 "dates": "2014-8-29:2014-8-31,2014-9-9",
                 "post": "The-trip-that-started-it-all"
             },
