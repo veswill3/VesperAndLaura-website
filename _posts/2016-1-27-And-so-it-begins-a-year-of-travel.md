@@ -3,7 +3,7 @@ layout: post
 title: And so it begins&#58; A Year of Travel
 description: "Our year of travel has finally begun"
 modified: 2016-1-27
-tags: [Monthly-Review]
+tags: [Review]
 author: Vesper
 image:
   feature:
