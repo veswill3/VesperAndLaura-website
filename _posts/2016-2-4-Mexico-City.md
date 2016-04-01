@@ -3,7 +3,7 @@ layout: post
 title: A Week in Mexico City
 description: "Mexico City - our first major stop - could not have gone better."
 modified: 2016-2-4
-tags: [North-America, Mexico]
+tags: [North-America, Mexico, Food]
 image:
   feature: /mexico/roof_garden.jpg
   credit: Vesper

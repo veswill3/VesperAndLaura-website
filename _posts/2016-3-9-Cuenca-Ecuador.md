@@ -3,7 +3,7 @@ layout: post
 title: Cuenca&#58; Closed for Business
 description: "Our short time in Cuenca was spent attempting to find anything open."
 modified: 2016-3-6
-tags: [South-America, Ecuador]
+tags: [South-America, Ecuador, Food]
 image:
   feature: /cuenca/top_of_cathedral_with_laura.jpg
   credit: 
