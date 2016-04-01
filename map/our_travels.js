@@ -572,6 +572,11 @@ var tripList = [
                 "dates": "2016-3-21:2016-3-31",
                 "post": "Lima-Peru",
                 "image": "lima/cooking_class_food.jpg"
+            },
+            {
+                "locName": "Ica",
+                "coordinates": [-14.07546,-75.73418],
+                "dates": "2016-3-31"
             }
         ]
     }
