@@ -1,7 +1,7 @@
 // Note: tripList will already be loaded from /map/our_travels.js
 
 function buildPopupContent(location, trip) {
-    popupContent = "<p><strong>Trip: " + trip.tripName + "</strong><br>Location: " + loc.locName;
+    popupContent = "<p><strong>Trip: " + trip.tripName + "</strong><br>Location: " + location.locName;
 
     if (location.dates) {
         dateStr = location.dates.toString();
@@ -68,11 +68,13 @@ for (var i = 0; i < tripList.length; i++) {
 var attr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     url = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw';
 
-var grayscale = L.tileLayer(url, {id: 'mapbox.light', attribution: attr, maxZoom: 18}),
-    streets = L.tileLayer(url, {id: 'mapbox.streets', attribution: attr, maxZoom: 18}),
-    emerald = L.tileLayer(url, {id: 'mapbox.emerald', attribution: attr, maxZoom: 18});
+var baseLayers = {
+    "Grayscale": L.tileLayer(url, {id: 'mapbox.light',   attribution: attr, maxZoom: 18}),
+    "Streets":   L.tileLayer(url, {id: 'mapbox.streets', attribution: attr, maxZoom: 18}),
+    "Emerald":   L.tileLayer(url, {id: 'mapbox.emerald', attribution: attr, maxZoom: 18})
+};
 
-var initLayers = [emerald]
+var initLayers = [baseLayers.Emerald]
 // start showing all trips
 for (key in groups) {
     if (!groups.hasOwnProperty(key)) continue;
@@ -85,14 +87,9 @@ var map = L.map('map', {
     layers: initLayers
 });
 
-var baseLayers = {
-    "Grayscale": grayscale,
-    "Streets": streets,
-    "Emerald": emerald
-};
-
 L.control.layers(baseLayers, groups).addTo(map);
 
+// Create a marker for Madison WI
 var marker = L.circleMarker([43.0730517,-89.40123019999999], {
     radius: 5,
     color: "red",
