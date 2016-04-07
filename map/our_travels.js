@@ -576,22 +576,29 @@ var tripList = [
             {
                 "locName": "Ica",
                 "coordinates": [-14.07546,-75.73418],
-                "dates": "2016-3-31:2016-4-3"
+                "dates": "2016-3-31:2016-4-3",
+                "post": "Ica-Peru"
             },
             {
                 "locName": "Huacachina",
                 "coordinates": [-14.0875,-75.76333],
-                "dates": "2016-4-1"
+                "dates": "2016-4-1",
+                "post": "Ica-Peru",
+                "image": "ica/huacachina_oasis.jpg"
             },
             {
                 "locName": "Islas Ballestas",
                 "coordinates": [-13.73183,-76.39773],
-                "dates": "2016-4-2"
+                "dates": "2016-4-2",
+                "post": "Ica-Peru",
+                "image": "ica/candelabra.jpg"
             },
             {
-                "locName": "Reserva Nacional De Paracas",
+                "locName": "Paracas National Reserve",
                 "coordinates": [-13.91533,-76.24791],
-                "dates": "2016-4-2"
+                "dates": "2016-4-2",
+                "post": "Ica-Peru",
+                "image": "ica/red_beach.jpg"
             },
             {
                 "locName": "Arequipa",

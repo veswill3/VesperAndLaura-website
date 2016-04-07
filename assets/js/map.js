@@ -13,7 +13,7 @@ function buildPopupContent(location, trip) {
     popupContent += "</p>";
 
     if (location.image) {
-        popupContent += "<img src=\"/images/" + location.image + "\" style=\"width: 170px;\">";
+        popupContent += "<img src=\"/images/" + location.image + "\" style=\"width: 100%;\">";
     }
 
     if (location.post) {
