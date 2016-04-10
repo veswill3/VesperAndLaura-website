@@ -613,6 +613,11 @@ var tripList = [
                 "dates": "2016-4-8",
                 "post": "Arequipa-Peru",
                 "image": "arequipa/condor.jpg"
+            },
+            {
+                "locName": "Puno",
+                "coordinates": [-15.84022,-70.02188],
+                "dates": "2016-4-10"
             }
         ]
     }
