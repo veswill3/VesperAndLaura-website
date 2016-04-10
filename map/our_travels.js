@@ -603,7 +603,16 @@ var tripList = [
             {
                 "locName": "Arequipa",
                 "coordinates": [-16.40904,-71.53745],
-                "dates": "2016-4-4"
+                "dates": "2016-4-4:2016-4-9",
+                "post": "Arequipa-Peru",
+                "image": "arequipa/columns.jpg"
+            },
+            {
+                "locName": "Cruz del Condor",
+                "coordinates": [-15.61162,-71.9062],
+                "dates": "2016-4-8",
+                "post": "Arequipa-Peru",
+                "image": "arequipa/condor.jpg"
             }
         ]
     }
