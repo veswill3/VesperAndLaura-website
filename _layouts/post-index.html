@@ -7,18 +7,17 @@
 {% include head.html %}
 </head>
 
-<body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post-index" class="feature">
 
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
 <div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
-  {% if page.image.feature %}
+  <div class="image-credit"><a id="feature-img-info" href=""></a></div>
     <div class="entry-image">
-      <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
+      <img id="feature-img" src="{{ site.url }}/images/" alt="{{ page.title }}">
+      <script src="{{ site.url }}/assets/js/feature_image_chooser.js" type="text/javascript"></script>
     </div><!-- /.entry-image -->
-  {% endif %}
   <div class="header-title">
     <div class="header-title-wrap">
       <h1>{{ site.title }}</h1>
