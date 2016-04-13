@@ -617,7 +617,22 @@ var tripList = [
             {
                 "locName": "Puno",
                 "coordinates": [-15.84022,-70.02188],
-                "dates": "2016-4-10"
+                "dates": "2016-4-10:2016-4-11"
+            },
+            {
+                "locName": "Copacabana",
+                "coordinates": [-16.16629,-69.08615],
+                "dates": "2016-4-11:2016-4-12"
+            },
+            {
+                "locName": "Isla del Sol",
+                "coordinates": [-16.01723,-69.17799],
+                "dates": "2016-4-12"
+            },
+            {
+                "locName": "La Paz",
+                "coordinates": [-16.48968,-68.11929],
+                "dates": "2016-4-13"
             }
         ]
     }
