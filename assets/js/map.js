@@ -69,9 +69,9 @@ var attr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>
     url = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw';
 
 var baseLayers = {
-    "Grayscale": L.tileLayer(url, {id: 'mapbox.light',   attribution: attr, maxZoom: 18}),
-    "Streets":   L.tileLayer(url, {id: 'mapbox.streets', attribution: attr, maxZoom: 18}),
-    "Emerald":   L.tileLayer(url, {id: 'mapbox.emerald', attribution: attr, maxZoom: 18})
+    "Grayscale": L.tileLayer(url, {id: 'mapbox.light',   attribution: attr, minZoom: 2}),
+    "Streets":   L.tileLayer(url, {id: 'mapbox.streets', attribution: attr, minZoom: 2}),
+    "Emerald":   L.tileLayer(url, {id: 'mapbox.emerald', attribution: attr, minZoom: 2})
 };
 
 var initLayers = [baseLayers.Emerald]
@@ -84,7 +84,8 @@ for (key in groups) {
 var map = L.map('map', {
     center: [15, 0],
     zoom: 2,
-    layers: initLayers
+    layers: initLayers,
+    maxBounds: L.latLngBounds([-90, -180], [90, 180])
 });
 
 L.control.layers(baseLayers, groups).addTo(map);
