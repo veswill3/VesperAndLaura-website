@@ -113,6 +113,26 @@ var imgs = [
     "path": "arequipa/rain.jpg",
     "info": "Rain coming in over the volcanoes outside Arequipa, Peru",
     "link": "Arequipa-Peru"
+  },
+  {
+    "path": "lake_titicaca/copacabana_harbor.jpg",
+    "info": "Copacabana harbor on Lake Titicaca",
+    "link": "Lake-Titicaca"
+  },
+  {
+    "path": "lake_titicaca/isla_del_sol.jpg",
+    "info": "Isla del Sol in Lake Titicaca",
+    "link": "Lake-Titicaca"
+  },
+  {
+    "path": "lake_titicaca/isla_del_sol2.jpg",
+    "info": "Isla del Sol in Lake Titicaca",
+    "link": "Lake-Titicaca"
+  },
+  {
+    "path": "lake_titicaca/bus_ride_to_puno.jpg",
+    "info": "Along the drive to Puno, Peru",
+    "link": "Lake-Titicaca"
   }
 ];
 
