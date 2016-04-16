@@ -632,7 +632,12 @@ var tripList = [
             {
                 "locName": "La Paz",
                 "coordinates": [-16.48968,-68.11929],
-                "dates": "2016-4-13"
+                "dates": "2016-4-13:2016-4-16"
+            },
+            {
+                "locName": "Sucre",
+                "coordinates": [-19.04786,-65.25959],
+                "dates": "2016-4-16"
             }
         ]
     }
