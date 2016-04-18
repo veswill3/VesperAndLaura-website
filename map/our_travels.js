@@ -637,7 +637,12 @@ var tripList = [
             {
                 "locName": "Sucre",
                 "coordinates": [-19.04786,-65.25959],
-                "dates": "2016-4-16"
+                "dates": "2016-4-16:2016-4-18"
+            },
+            {
+                "locName": "Uyuni",
+                "coordinates": [-20.46035,-66.82606],
+                "dates": "2016-4-18"
             }
         ]
     }
