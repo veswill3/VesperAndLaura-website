@@ -643,6 +643,26 @@ var tripList = [
                 "locName": "Uyuni",
                 "coordinates": [-20.46035,-66.82606],
                 "dates": "2016-4-18"
+            },
+            {
+                "locName": "Train Cemetery",
+                "coordinates": [-20.47638,-66.83053],
+                "dates": "2016-4-19"
+            },
+            {
+                "locName": "Uyuni Salt Flat",
+                "coordinates": [-20.13377, -67.48913],
+                "dates": "2016-4-19"
+            },
+            {
+                "locName": "Árbol de Piedra",
+                "coordinates": [-21.96354,-67.86259],
+                "dates": "2016-4-20"
+            },
+            {
+                "locName": "San Pedro de Atacama",
+                "coordinates": [-22.9087,-68.19971],
+                "dates": "2016-4-21:2016-4-22"
             }
         ]
     }
