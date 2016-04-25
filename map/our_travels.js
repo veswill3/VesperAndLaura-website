@@ -617,27 +617,37 @@ var tripList = [
             {
                 "locName": "Puno",
                 "coordinates": [-15.84022,-70.02188],
-                "dates": "2016-4-10:2016-4-11"
+                "dates": "2016-4-10:2016-4-11",
+                "post": "Lake-Titicaca",
+                "image": "lake_titicaca/titicaca_puno.jpg"
             },
             {
                 "locName": "Copacabana",
                 "coordinates": [-16.16629,-69.08615],
-                "dates": "2016-4-11:2016-4-12"
+                "dates": "2016-4-11:2016-4-12",
+                "post": "Lake-Titicaca",
+                "image": "lake_titicaca/church.jpg"
             },
             {
                 "locName": "Isla del Sol",
                 "coordinates": [-16.01723,-69.17799],
-                "dates": "2016-4-12"
+                "dates": "2016-4-12",
+                "post": "Lake-Titicaca",
+                "image": "lake_titicaca/isla_del_sol.jpg"
             },
             {
                 "locName": "La Paz",
                 "coordinates": [-16.48968,-68.11929],
-                "dates": "2016-4-13:2016-4-16"
+                "dates": "2016-4-13:2016-4-16",
+                "post": "La-Paz-Bolivia",
+                "image": "la_paz/teleferico.jpg"
             },
             {
                 "locName": "Sucre",
                 "coordinates": [-19.04786,-65.25959],
-                "dates": "2016-4-16:2016-4-18"
+                "dates": "2016-4-16:2016-4-18",
+                "post": "Sucre-Bolivia",
+                "image": "sucre/sucre_mirador.jpg"
             },
             {
                 "locName": "Uyuni",
