@@ -133,6 +133,11 @@ var imgs = [
     "path": "lake_titicaca/bus_ride_to_puno.jpg",
     "info": "Along the drive to Puno, Peru",
     "link": "Lake-Titicaca"
+  },
+  {
+    "path": "la_paz/death_road.jpg",
+    "info": "Upper portion of the Death Road",
+    "link": "La-Paz-Bolivia"
   }
 ];
 
