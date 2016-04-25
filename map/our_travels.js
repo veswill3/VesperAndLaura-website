@@ -663,6 +663,16 @@ var tripList = [
                 "locName": "San Pedro de Atacama",
                 "coordinates": [-22.9087,-68.19971],
                 "dates": "2016-4-21:2016-4-22"
+            },
+            {
+                "locName": "Calama",
+                "coordinates": [-22.45439,-68.92938],
+                "dates": "2016-4-22"
+            },
+            {
+                "locName": "Valparaíso",
+                "coordinates": [-33.04723,-71.61268],
+                "dates": "2016-4-23:2016-4-25"
             }
         ]
     }
