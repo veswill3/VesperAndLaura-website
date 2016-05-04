@@ -683,6 +683,16 @@ var tripList = [
                 "locName": "Valparaíso",
                 "coordinates": [-33.04723,-71.61268],
                 "dates": "2016-4-23:2016-4-25"
+            },
+            {
+                "locName": "Santiago",
+                "coordinates": [-33.4332,-70.64347],
+                "dates": "2016-4-25:2016-5-3"
+            },
+            {
+                "locName": "Mendoza",
+                "coordinates": [-32.88945,-68.84583],
+                "dates": "2016-5-4"
             }
         ]
     }
