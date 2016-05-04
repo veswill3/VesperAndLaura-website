@@ -459,7 +459,7 @@ button {
 @if $mfp-include-image-type {
 
   /* Main image in popup */
-  img {
+  img, video {
     &.mfp-img {
       width: auto;
       max-width: 100%;
@@ -542,7 +542,7 @@ button {
           padding-left: 0;
           padding-right: 0;
         }
-        img {
+        img, video {
           &.mfp-img {
             padding: 0;
           }
