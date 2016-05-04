@@ -105,11 +105,6 @@ var imgs = [
     "link": "Arequipa-Peru"
   },
   {
-    "path": "arequipa/laura_with_rocks.jpg",
-    "info": "Volcanic rock formations outside Arequipa, Peru",
-    "link": "Arequipa-Peru"
-  },
-  {
     "path": "arequipa/rain.jpg",
     "info": "Rain coming in over the volcanoes outside Arequipa, Peru",
     "link": "Arequipa-Peru"
@@ -138,7 +133,37 @@ var imgs = [
     "path": "la_paz/death_road.jpg",
     "info": "Upper portion of the Death Road",
     "link": "La-Paz-Bolivia"
-  }
+  },
+  {
+    "path": "sucre/sucre_mirador.jpg",
+    "info": "Sucre, Bolivia",
+    "link": "Sucre-Bolivia"
+  },
+  {
+    "path": "salt_flats/train_graveyard.jpg",
+    "info": "Train Cemetery in Uyuni, Bolivia",
+    "link": "Salt-Flats"
+  },
+  {
+    "path": "salt_flats/laguna_colorado3.jpg",
+    "info": "Laguna Colorado in southern Bolivia",
+    "link": "Salt-Flats"
+  },
+  {
+    "path": "salt_flats/laguna_verde2.jpg",
+    "info": "Laguna Verde in southern Bolivia",
+    "link": "Salt-Flats"
+  },
+  {
+    "path": "salt_flats/salt_flat_sunset.jpg",
+    "info": "Sunset over the Bolivian Salt Flats",
+    "link": "Salt-Flats"
+  },
+  // {
+  //   "path": "/salt_flats/salt_flat.jpg",
+  //   "info": "Salar de Uyuni, Bolivia",
+  //   "link": "Salt-Flats"
+  // }
 ];
 
 // Choose an image at random

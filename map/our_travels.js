@@ -652,22 +652,29 @@ var tripList = [
             {
                 "locName": "Uyuni",
                 "coordinates": [-20.46035,-66.82606],
-                "dates": "2016-4-18"
+                "dates": "2016-4-18",
+                "post": "Salt-Flats"
             },
             {
                 "locName": "Train Cemetery",
                 "coordinates": [-20.47638,-66.83053],
-                "dates": "2016-4-19"
+                "dates": "2016-4-19",
+                "post": "Salt-Flats",
+                "image": "salt_flats/train_ring.jpg"
             },
             {
                 "locName": "Uyuni Salt Flat",
                 "coordinates": [-20.13377, -67.48913],
-                "dates": "2016-4-19"
+                "dates": "2016-4-19",
+                "post": "Salt-Flats",
+                "image": "salt_flats/sitting_on_salt.jpg"
             },
             {
                 "locName": "Árbol de Piedra",
                 "coordinates": [-21.96354,-67.86259],
-                "dates": "2016-4-20"
+                "dates": "2016-4-20",
+                "post": "Salt-Flats",
+                "image": "salt_flats/tree_pose.jpg"
             },
             {
                 "locName": "San Pedro de Atacama",
