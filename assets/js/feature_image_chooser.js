@@ -159,10 +159,25 @@ var imgs = [
     "info": "Sunset over the Bolivian Salt Flats",
     "link": "Salt-Flats"
   },
+  {
+    "path": "/salt_flats/salt_flat.jpg",
+    "info": "Salar de Uyuni, Bolivia",
+    "link": "Salt-Flats"
+  },
+  {
+    "path": "/valparaiso_chile/valparaiso_cityscape.jpg",
+    "info": "Valparaiso, Chile",
+    "link": "Valparaiso-Chile"
+  },
+  {
+    "path": "/valparaiso_chile/valparaiso_harbor.jpg",
+    "info": "Valparaiso, Chile",
+    "link": "Valparaiso-Chile"
+  },
   // {
-  //   "path": "/salt_flats/salt_flat.jpg",
-  //   "info": "Salar de Uyuni, Bolivia",
-  //   "link": "Salt-Flats"
+  //   "path": "valparaiso_chile/valparaiso_cityscape2.jpg",
+  //   "info": "Valparaiso, Chile",
+  //   "link": "Valparaiso-Chile"
   // }
 ];
 
