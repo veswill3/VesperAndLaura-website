@@ -698,12 +698,19 @@ var tripList = [
             {
                 "locName": "Santiago",
                 "coordinates": [-33.4332,-70.64347],
-                "dates": "2016-4-25:2016-5-3"
+                "dates": "2016-4-25:2016-5-3",
+                "post": "Santiago-Chile",
+                "image": "santiago_chile/mountains_over_santiago.jpg"
             },
             {
                 "locName": "Mendoza",
                 "coordinates": [-32.88945,-68.84583],
-                "dates": "2016-5-4"
+                "dates": "2016-5-4:2016-5-7"
+            },
+            {
+                "locName": "Buenos Aires",
+                "coordinates": [-34.60368,-58.38155],
+                "dates": "2016-5-8"
             }
         ]
     }

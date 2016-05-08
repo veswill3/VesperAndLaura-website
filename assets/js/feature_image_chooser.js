@@ -174,10 +174,15 @@ var imgs = [
     "info": "Valparaiso, Chile",
     "link": "Valparaiso-Chile"
   },
+  {
+    "path": "valparaiso_chile/valparaiso_cityscape2.jpg",
+    "info": "Valparaiso, Chile",
+    "link": "Valparaiso-Chile"
+  },
   // {
-  //   "path": "valparaiso_chile/valparaiso_cityscape2.jpg",
-  //   "info": "Valparaiso, Chile",
-  //   "link": "Valparaiso-Chile"
+  //   "path": "santiago_chile/santiago.jpg",
+  //   "info": "Santiago, Chile",
+  //   "link": "Santiago-Chile"
   // }
 ];
 

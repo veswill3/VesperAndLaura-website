@@ -2,7 +2,7 @@
 layout: post
 title: The Colorful City on the Sea
 description: "Enjoying the hills and street art of Valparaiso, Chile."
-modified: 2016-5-5
+modified: 2016-5-6
 tags: [South-America, Chile, Beer]
 image:
   feature: /valparaiso_chile/valparaiso_cityscape2.jpg
