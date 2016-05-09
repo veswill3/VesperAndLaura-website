@@ -13,7 +13,7 @@ image:
 First things first, happy birthday (Vesper’s) Dad and Lehar!
 
 In the last month, we have taken five flights (with too many segments) and four long bus rides.
-We have traveled to seven cities in six countries including [St. Martin]({% post_url 2016-1-31-st-martin %}), [Panama City]({% post_url 2016-2-3-Panama-City %}), [Mexico City]({% post_url 2016-2-4-Mexico-City %}), [Panajachel]({% post_url 2016-2-12-Panajachel_Guatemala %}) and [Antigua]({% post_url 2016-2-13-Antigua-Guatemala %}) in Guatemala, [Bogotá in Colombia]({% post_url 2016-2-19-Bogota-Colombia %}), and Quito in Ecuador.
+We have traveled to seven cities in six countries including [St. Martin]({% post_url 2016-1-31-st-martin %}), [Panama City]({% post_url 2016-2-3-Panama-City %}), [Mexico City]({% post_url 2016-2-4-Mexico-City %}), [Panajachel]({% post_url 2016-2-12-Panajachel_Guatemala %}) and [Antigua]({% post_url 2016-2-13-Antigua-Guatemala %}) in Guatemala, [Bogotá in Colombia]({% post_url 2016-2-19-Bogota-Colombia %}), and [Quito]({% post_url 2016-2-24-Quito-Ecuador %}) in Ecuador.
 
 After a month on the road, here are some of the things we have learned and observed.
 

@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-We’ve made it to Chile! Get excited for posts to come about Bolivia; the internet there was atrocious so we need to catch up. For now, enjoy our month three observations! In the last month we have traveled to nine cities in three countries: [Lima]({% post_url 2016-3-31-Lima-Peru %}), [Ica]({% post_url 2016-4-6-Ica-Peru %}), [Arequipa]({% post_url 2016-4-9-Arequipa-Peru %}), and [Puno]({% post_url 2016-4-16-Lake-Titicaca %}) in Peru; [Copacabana]({% post_url 2016-4-16-Lake-Titicaca %}), La Paz, Sucre, Uyuni and the salt flats in Bolivia; and San Pedro de Atacama in Chile. 
+We’ve made it to Chile! Get excited for posts to come about Bolivia; the internet there was atrocious so we need to catch up. For now, enjoy our month three observations! In the last month we have traveled to nine cities in three countries: [Lima]({% post_url 2016-3-31-Lima-Peru %}), [Ica]({% post_url 2016-4-6-Ica-Peru %}), [Arequipa]({% post_url 2016-4-9-Arequipa-Peru %}), and [Puno]({% post_url 2016-4-16-Lake-Titicaca %}) in Peru; [Copacabana]({% post_url 2016-4-16-Lake-Titicaca %}), [La Paz]({% post_url 2016-4-25-La-Paz-Bolivia %}), [Sucre]({% post_url 2016-4-25-Sucre-Bolivia %}), [Uyuni and the salt flats]({% post_url 2016-5-4-Salt-Flats %}) in Bolivia; and [San Pedro de Atacama]({% post_url 2016-5-8-Santiago-Chile %}) in Chile. 
 
 ### Food & Beer
 
