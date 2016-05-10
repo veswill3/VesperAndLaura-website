@@ -3,6 +3,9 @@ layout: post
 title: Our First Adventure in Asia
 description: "Out first trip to Asia will definitely not be out last."
 modified: 2016-1-7
+visitinfo:
+    start: 2014-11-22
+    end: 2014-11-29
 tags: [China, Asia]
 image:
   feature: /china/pagoda.jpg

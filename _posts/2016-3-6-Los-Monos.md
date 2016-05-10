@@ -3,6 +3,9 @@ layout: post
 title: A Week with Monkeys!
 description: "One week volunteering at a monkey sanctuary near Puyo, Ecuador."
 modified: 2016-3-13
+visitinfo:
+    start: 2016-2-25
+    end: 2016-3-3
 tags: [South-America, Ecuador, Volunteering]
 image:
   feature: /los_monos/capachino_blancos.jpg

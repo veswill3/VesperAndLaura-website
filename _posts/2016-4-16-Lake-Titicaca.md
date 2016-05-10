@@ -3,6 +3,9 @@ layout: post
 title: Lake Titicaca
 description: "Visiting the highest navigable lake in the world."
 modified: 2016-4-16
+visitinfo:
+    start: 2016-4-10
+    end: 2016-4-12
 tags: [South-America, Peru, Bolivia]
 image:
   feature: /lake_titicaca/copacabana_harbor.jpg

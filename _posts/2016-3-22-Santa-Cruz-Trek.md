@@ -4,6 +4,9 @@ title: Santa Cruz Trek
 date: 2016-3-22 16:15
 description: "Our 3 day hike through the beautiful Cordillera Blanca mountains."
 modified: 2016-3-22
+visitinfo:
+    start: 2016-3-17
+    end: 2016-3-20
 tags: [South-America, Peru]
 image:
   feature: /santa_cruz/santa_cruz_summit_2.jpg

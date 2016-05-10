@@ -3,6 +3,9 @@ layout: post
 title: Sun and Ceviche in Máncora, Peru
 description: "A couple days relaxing in a beach town."
 modified: 2016-3-15
+visitinfo:
+    start: 2016-3-8
+    end: 2016-3-10
 tags: [South-America, Peru]
 image:
   feature: /mancora/sunset.jpg

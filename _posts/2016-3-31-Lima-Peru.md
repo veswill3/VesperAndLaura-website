@@ -3,6 +3,9 @@ layout: post
 title: Lounging in Lima
 description: "Ten days relaxing in the capital of Peru."
 modified: 2016-3-31
+visitinfo:
+    start: 2016-3-21
+    end: 2016-3-31
 tags: [South-America, Peru, Beer, Food]
 image:
   feature: /lima/cooking_class_food.jpg

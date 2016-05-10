@@ -3,6 +3,9 @@ layout: post
 title: Welcome to the Middle of the Earth!
 description: "Exploring the capital of Ecuador with friends."
 modified: 2016-2-24
+visitinfo:
+    start: 2016-2-17
+    end: 2016-2-22
 tags: [South-America, Ecuador, Beer, Food]
 image:
   feature: /quito/plaza_grande.jpg

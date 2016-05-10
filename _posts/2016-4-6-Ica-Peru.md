@@ -3,6 +3,9 @@ layout: post
 title: Sand Dunes & Poor Man’s Galapagos
 description: "Experiencing our first real flop of the trip in Ica, Peru."
 modified: 2016-4-6
+visitinfo:
+    start: 2016-3-31
+    end: 2016-4-3
 tags: [South-America, Peru]
 image:
   feature: /ica/dark_dune.jpg

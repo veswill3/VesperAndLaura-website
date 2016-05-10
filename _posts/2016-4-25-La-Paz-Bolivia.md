@@ -4,6 +4,9 @@ title: La Paz and the Death Road
 date: 2016-4-25 17:30
 description: "A long weekend exploring the city of La Paz and not dying on Death Road."
 modified: 2016-4-25
+visitinfo:
+    start: 2016-4-13
+    end: 2016-4-16
 tags: [South-America, Bolivia]
 image:
   feature: /la_paz/death_road.jpg

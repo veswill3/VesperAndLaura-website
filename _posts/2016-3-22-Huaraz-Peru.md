@@ -4,6 +4,9 @@ title: Mountains, Food, and Beer in Huaraz
 date: 2016-3-22 14:35
 description: "Hiking in the Cordillera Blanca mountain range and microbreweries drew us to Huaraz."
 modified: 2016-3-22
+visitinfo:
+    start: 2016-3-14
+    end: 2016-3-21
 tags: [South-America, Peru, Beer, Food]
 image:
   feature: /huaraz/top_of_wilcacocha.jpg

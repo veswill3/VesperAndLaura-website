@@ -212,6 +212,7 @@ header .entry-meta {
 #post,
 #page {
 	.entry-content {
+		position: relative;
 		margin: 40px 2px 20px 2px;
 		padding: 10px 15px;
 		background-color: $white;
@@ -251,6 +252,21 @@ header .entry-meta {
 	.entry-meta {
 		margin: 50px 30px 30px;
 		text-align: center;
+	}
+	.visit-meta-block {
+		position: absolute;
+		top: -20px;
+		left: 0;
+		right: 0;
+		height: 35px;
+		text-align: center;
+		.visit-meta-dates {
+			display: inline-block;
+			padding: 8px 20px;
+			color: $white;
+			@include rounded(5px);
+			background-color: lighten($base-color,30);
+		}
 	}
 }
 .entry-tags {

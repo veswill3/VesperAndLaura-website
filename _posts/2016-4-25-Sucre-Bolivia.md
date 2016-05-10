@@ -4,6 +4,9 @@ title: Visiting the &ldquo;Capital&rdquo; of Bolivia
 date: 2016-4-25 18:30
 description: "A quick trip to the &ldquo;capital&rdquo; of Bolivia."
 modified: 2016-4-25
+visitinfo:
+    start: 2016-4-16
+    end: 2016-4-18
 tags: [South-America, Bolivia]
 image:
   feature: /sucre/sucre_mirador.jpg

@@ -3,6 +3,9 @@ layout: post
 title: The Salt Flats of Bolivia
 description: "A three day trek to visit the largest salt flat in the world."
 modified: 2016-5-4
+visitinfo:
+    start: 2016-4-18
+    end: 2016-4-20
 tags: [South-America, Bolivia]
 image:
   feature: /salt_flats/salt_flat.jpg

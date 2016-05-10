@@ -3,6 +3,9 @@ layout: post
 title: Celebrating a Birthday in St. Martin
 description: "Beautiful beaches and a killer villa on St. Martin"
 modified: 2016-1-31
+visitinfo:
+    start: 2016-1-22
+    end: 2016-1-26
 tags: [Caribbean, North-America]
 image:
   feature: /st_martin/beach_with_moon.jpg

@@ -3,6 +3,9 @@ layout: post
 title: Antigua&#58; Becoming fluente in Español!
 description: "Antigua is a beautiful place to relax and learn Spanish."
 modified: 2016-2-13
+visitinfo:
+    start: 2016-2-7
+    end: 2016-2-12
 tags: [Central-America, Guatemala]
 image:
   feature: /antigua/volcano_sunset.jpg

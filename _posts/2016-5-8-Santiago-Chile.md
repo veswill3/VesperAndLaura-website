@@ -3,6 +3,9 @@ layout: post
 title: Working Away in Santiago
 description: "Our first workaway experience in the capital of Chile."
 modified: 2016-5-8
+visitinfo:
+    start: 2016-4-25
+    end: 2016-5-3
 tags: [South-America, Chile, Volunteering, Beer]
 image:
   feature: /santiago_chile/santiago.jpg

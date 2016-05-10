@@ -74,7 +74,7 @@ var tripList = [
             {
                 "locName": "Cusco",
                 "coordinates": [-13.53195,-71.96746259999998],
-                "dates": "2014-8-31:2014-9-4,2014-9-8:2014-8-9",
+                "dates": "2014-8-31:2014-9-4,2014-9-8:2014-9-9",
                 "post": "The-trip-that-started-it-all",
                 "image": "peru/festival.JPG"
             },

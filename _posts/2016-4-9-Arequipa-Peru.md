@@ -3,6 +3,9 @@ layout: post
 title: Arequipa and the Colca Canyon
 description: "A week exploring the White City and one of the deepest canyons in the world."
 modified: 2016-4-9
+visitinfo:
+    start: 2016-4-4
+    end: 2016-4-9
 tags: [South-America, Peru, Beer]
 image:
   feature: /arequipa/andinas.jpg

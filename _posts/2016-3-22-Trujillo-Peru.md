@@ -4,6 +4,9 @@ title: Pre-Incan Ruins near Trujillo
 date: 2016-3-22 12:40
 description: "We visited two pre-Incan ruins on the coastal town of Trujillo, Peru."
 modified: 2016-3-22
+visitinfo:
+    start: 2016-3-11
+    end: 2016-3-13
 tags: [South-America, Peru]
 image:
   feature: /trujillo/admin_buildings.jpg

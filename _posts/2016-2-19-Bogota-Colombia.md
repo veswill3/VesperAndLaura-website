@@ -3,6 +3,9 @@ layout: post
 title: Bogotá&#58; A City with Views and Brews
 description: "Exploring the sights and watering holes in the capital city of Colombia."
 modified: 2016-2-19
+visitinfo:
+    start: 2016-2-13
+    end: 2016-2-17
 tags: [South-America, Colombia, Beer]
 image:
   feature: /bogota/monserrate_pano.jpg
