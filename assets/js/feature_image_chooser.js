@@ -140,11 +140,6 @@ var imgs = [
     "link": "Sucre-Bolivia"
   },
   {
-    "path": "salt_flats/train_graveyard.jpg",
-    "info": "Train Cemetery in Uyuni, Bolivia",
-    "link": "Salt-Flats"
-  },
-  {
     "path": "salt_flats/laguna_colorado3.jpg",
     "info": "Laguna Colorado in southern Bolivia",
     "link": "Salt-Flats"
