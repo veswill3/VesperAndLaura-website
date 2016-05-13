@@ -174,11 +174,11 @@ var imgs = [
     "info": "Valparaiso, Chile",
     "link": "Valparaiso-Chile"
   },
-  // {
-  //   "path": "santiago_chile/santiago.jpg",
-  //   "info": "Santiago, Chile",
-  //   "link": "Santiago-Chile"
-  // }
+  {
+    "path": "santiago_chile/santiago.jpg",
+    "info": "Santiago, Chile",
+    "link": "Santiago-Chile"
+  }
 ];
 
 // Choose an image at random

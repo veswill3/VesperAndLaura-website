@@ -705,7 +705,8 @@ var tripList = [
             {
                 "locName": "Mendoza",
                 "coordinates": [-32.88945,-68.84583],
-                "dates": "2016-5-4:2016-5-7"
+                "dates": "2016-5-4:2016-5-7",
+                "post": "Mendoza-Argentina"
             },
             {
                 "locName": "Buenos Aires",
