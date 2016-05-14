@@ -711,7 +711,12 @@ var tripList = [
             {
                 "locName": "Buenos Aires",
                 "coordinates": [-34.60368,-58.38155],
-                "dates": "2016-5-8"
+                "dates": "2016-5-8:2016-5-13"
+            },
+            {
+                "locName": "Ushuaia",
+                "coordinates": [-54.80191,-68.30295],
+                "dates": "2016-5-14"
             }
         ]
     }
