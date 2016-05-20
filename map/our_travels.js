@@ -716,7 +716,42 @@ var tripList = [
             {
                 "locName": "Ushuaia",
                 "coordinates": [-54.80191,-68.30295],
-                "dates": "2016-5-14"
+                "dates": "2016-5-14:2016-5-17"
+            },
+            {
+                "locName": "Beagle Channel Boat Tour",
+                "coordinates": [-54.869970,-68.245673],
+                "dates": "2016-5-15"
+            },
+            {
+                "locName": "Tierra del Fuego National Park",
+                "coordinates": [-54.8433,-68.55408],
+                "dates": "2016-5-16"
+            },
+            {
+                "locName": "Laguna Esmeralda",
+                "coordinates": [-54.69053,-68.12976],
+                "dates": "2016-5-17"
+            },
+            {
+                "locName": "El Calafate",
+                "coordinates": [-50.33796,-72.26479],
+                "dates": "2016-5-18"
+            },
+            {
+                "locName": "Glaciar Perito Moreno",
+                "coordinates": [-50.46908,-73.03108],
+                "dates": "2016-5-18"
+            },
+            {
+                "locName": "El Chaltén",
+                "coordinates": [-49.33149,-72.88632],
+                "dates": "2016-5-19"
+            },
+            {
+                "locName": "Laguna de los Tres",
+                "coordinates": [-49.2799,-72.98579],
+                "dates": "2016-5-19"
             }
         ]
     }
