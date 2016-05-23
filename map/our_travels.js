@@ -752,6 +752,31 @@ var tripList = [
                 "locName": "Laguna de los Tres",
                 "coordinates": [-49.2799,-72.98579],
                 "dates": "2016-5-19"
+            },
+            {
+                "locName": "Laguna Torre",
+                "coordinates": [-49.3296,-72.9914],
+                "dates": "2016-5-20"
+            },
+            {
+                "locName": "Mirador de las Águlias",
+                "coordinates": [-49.3492,-72.87186],
+                "dates": "2016-5-21"
+            },
+            {
+                "locName": "Los Antiguos",
+                "coordinates": [-46.54862,-71.63197],
+                "dates": "2016-5-22"
+            },
+            {
+                "locName": "Chile Chico",
+                "coordinates": [-46.5409,-71.72227],
+                "dates": "2016-5-22"
+            },
+            {
+                "locName": "Coyhaique",
+                "coordinates": [-45.57122,-72.06826],
+                "dates": "2016-5-22"
             }
         ]
     }

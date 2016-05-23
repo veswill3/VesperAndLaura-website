@@ -82,7 +82,7 @@ for (key in groups) {
 }
 
 var map = L.map('map', {
-    center: [15, 0],
+    center: [2, 0],
     zoom: 2,
     layers: initLayers,
     maxBounds: L.latLngBounds([-90, -180], [90, 180])
