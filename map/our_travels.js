@@ -711,7 +711,9 @@ var tripList = [
             {
                 "locName": "Buenos Aires",
                 "coordinates": [-34.60368,-58.38155],
-                "dates": "2016-5-8:2016-5-13"
+                "dates": "2016-5-8:2016-5-13",
+                "post": "Buenos-Aires-Argentina",
+                "image": "buenos_aires/bridge.jpg"
             },
             {
                 "locName": "Ushuaia",
@@ -777,6 +779,16 @@ var tripList = [
                 "locName": "Coyhaique",
                 "coordinates": [-45.57122,-72.06826],
                 "dates": "2016-5-22"
+            },
+            {
+                "locName": "Villa Cerro Castillo",
+                "coordinates": [-46.12086,-72.15351],
+                "dates": "2016-5-29"
+            },
+            {
+                "locName": "Laguna Cerro Castillo",
+                "coordinates": [-46.07829,-72.18918],
+                "dates": "2016-5-29"
             }
         ]
     }

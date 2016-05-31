@@ -178,7 +178,17 @@ var imgs = [
     "path": "santiago_chile/santiago.jpg",
     "info": "Santiago, Chile",
     "link": "Santiago-Chile"
-  }
+  },
+  {
+    "path": "buenos_aires/book_store_pano.jpg",
+    "info": "El Ateneo Grand Splendid in Buenos Aires, Argentina",
+    "link": "Buenos-Aires-Argentina"
+  },
+  // {
+  //   "path": "buenos_aires/buenos_aires_skyline.jpg",
+  //   "info": "Buenos Aires, Argentina",
+  //   "link": "Buenos-Aires-Argentina"
+  // }
 ];
 
 // Choose an image at random
