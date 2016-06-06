@@ -783,12 +783,27 @@ var tripList = [
             {
                 "locName": "Villa Cerro Castillo",
                 "coordinates": [-46.12086,-72.15351],
-                "dates": "2016-5-29"
+                "dates": "2016-5-29,2016-6-4:2016-6-5"
             },
             {
                 "locName": "Laguna Cerro Castillo",
                 "coordinates": [-46.07829,-72.18918],
                 "dates": "2016-5-29"
+            },
+            {
+                "locName": "Puerto Río Tranquilo",
+                "coordinates": [-46.62402,-72.67524],
+                "dates": "2016-6-2:2016-6-3"
+            },
+            {
+                "locName": "Marble Cathedral",
+                "coordinates": [-46.65867,-72.62813],
+                "dates": "2016-6-2"
+            },
+            {
+                "locName": "Ice Fields",
+                "coordinates": [-46.58246,-73.54248],
+                "dates": "2016-6-3"
             }
         ]
     }
