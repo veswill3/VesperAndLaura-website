@@ -184,10 +184,40 @@ var imgs = [
     "info": "El Ateneo Grand Splendid in Buenos Aires, Argentina",
     "link": "Buenos-Aires-Argentina"
   },
+  {
+    "path": "buenos_aires/buenos_aires_skyline.jpg",
+    "info": "Buenos Aires, Argentina",
+    "link": "Buenos-Aires-Argentina"
+  },
+  {
+    "path": "ushuaia/beagle_channel_pano.jpg",
+    "info": "On the Beagle channel in Tierra del Fuego",
+    "link": "Ushuaia-Argentina"
+  },
+  {
+    "path": "ushuaia/beagle_channel_sunset.jpg",
+    "info": "Islands of Tierra del Fuego in the Beagle channel",
+    "link": "Ushuaia-Argentina"
+  },
+  {
+    "path": "ushuaia/tierra_del_fuego_national_park_pano.jpg",
+    "info": "Tierra del Fuego National Park",
+    "link": "Ushuaia-Argentina"
+  },
+  {
+    "path": "ushuaia/laguna_esmerelda_hike_river_pano.jpg",
+    "info": "Hiking to Laguna Esmeralda",
+    "link": "Ushuaia-Argentina"
+  },
+  {
+    "path": "ushuaia/laguna_esmerelda_pano.jpg",
+    "info": "Laguna Esmeralda near Ushuaia Argentina",
+    "link": "Ushuaia-Argentina"
+  },
   // {
-  //   "path": "buenos_aires/buenos_aires_skyline.jpg",
-  //   "info": "Buenos Aires, Argentina",
-  //   "link": "Buenos-Aires-Argentina"
+  //   "path": "ushuaia/ushuaia_overlook.jpg",
+  //   "info": "Overlooking Ushuaia, Argentina",
+  //   "link": "Ushuaia-Argentina"
   // }
 ];
 

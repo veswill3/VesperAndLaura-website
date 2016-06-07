@@ -718,22 +718,30 @@ var tripList = [
             {
                 "locName": "Ushuaia",
                 "coordinates": [-54.80191,-68.30295],
-                "dates": "2016-5-14:2016-5-17"
+                "dates": "2016-5-14:2016-5-17",
+                "post": "Ushuaia-Argentina",
+                "image": "ushuaia/fin_del_mundo.jpg"
             },
             {
                 "locName": "Beagle Channel Boat Tour",
                 "coordinates": [-54.869970,-68.245673],
-                "dates": "2016-5-15"
+                "dates": "2016-5-15",
+                "post": "Ushuaia-Argentina",
+                "image": "ushuaia/lighthouse.jpg"
             },
             {
                 "locName": "Tierra del Fuego National Park",
                 "coordinates": [-54.8433,-68.55408],
-                "dates": "2016-5-16"
+                "dates": "2016-5-16",
+                "post": "Ushuaia-Argentina",
+                "image": "ushuaia/boardwalk.jpg"
             },
             {
                 "locName": "Laguna Esmeralda",
                 "coordinates": [-54.69053,-68.12976],
-                "dates": "2016-5-17"
+                "dates": "2016-5-17",
+                "post": "Ushuaia-Argentina",
+                "image": "ushuaia/laguna_esmerelda_selfie.jpg"
             },
             {
                 "locName": "El Calafate",
