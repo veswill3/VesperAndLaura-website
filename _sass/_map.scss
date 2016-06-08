@@ -5,8 +5,7 @@
 .map-entry-content {
     @include font-size(16);
     // Dotted line underlines for links
-    p > a,
-    li > a {
+    a {
         border-bottom: 1px dotted lighten($link-color, 50);
         &:hover {
             border-bottom-style: solid;
