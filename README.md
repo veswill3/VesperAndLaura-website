@@ -8,24 +8,33 @@ $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 Then browse to [http://localhost:4000/](http://localhost:4000/).
 
 ## to pull in updates from the main hpstr repo
-I am sure there is a better way than this, but this will work ok for now.
 ```sh
-# create a new branch to work in
-$ git checkout -b temp-branch
 # update with new info
 $ git fetch hpstr-theme
-# select the changes you want, or a range like below
-$ git cherry-pick [sha1 start commit (not included)]..[sha1 end commit]
-# deal with conflicts. dont forget that you can accept their changes,
-# even durring resolution by using 'git checkout --theirs [filename]'
+
+# create a new branch to work in
+$ git checkout -b temp-branch
+
+# select the range of changes you want like below (notice the '~1')
+$ git rebase --onto temp-branch [sha1_start]~1 [sha1_end]
+# follow instructions to resolve conflict issues
+# merge changes into the integration branch
+$ git rebase HEAD temp-branch
+
+# alternatively you can select specific commits via cherry-pick
+$ git cherry-pick [sha1]
+# dont forget that you can accept their changes, even during resolution by using 'git checkout --theirs [filename]'
+
 # After you finish, squash them into a single commit
-$ git reset --soft HEAD~#
-$ git commit -m "pulling in latest changes from hpstr theme"
+$ git reset --soft HEAD~# # where `#` is the number of added commits
+$ git commit -m "pulling in latest changes from hpstr theme (latest was [sha1])"
+
 # merge changes with main branch
 $ git checkout gh-pages
 $ git merge temp-branch
+
 # clean up
-$ git branch -D temp-branch
+$ git branch -d temp-branch
 ```
 
 I started with the [HPSTR Jekyll Theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
