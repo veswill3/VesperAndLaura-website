@@ -6,7 +6,7 @@ description: "While we enjoyed travel before, our trip to Peru brought us to a n
 visitinfo:
     start: 2014-8-29
     end: 2014-9-9
-tags: [South-America, Peru, Food]
+tags: [South-America, Peru, Food, Hiking]
 image:
   feature: /peru/skyline.JPG
   credit:

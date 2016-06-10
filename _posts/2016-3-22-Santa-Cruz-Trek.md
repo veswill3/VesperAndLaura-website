@@ -7,7 +7,7 @@ modified: 2016-3-22
 visitinfo:
     start: 2016-3-17
     end: 2016-3-20
-tags: [South-America, Peru]
+tags: [South-America, Peru, Hiking]
 image:
   feature: /santa_cruz/santa_cruz_summit_2.jpg
   credit: 

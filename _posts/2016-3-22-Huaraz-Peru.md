@@ -7,7 +7,7 @@ modified: 2016-3-22
 visitinfo:
     start: 2016-3-14
     end: 2016-3-21
-tags: [South-America, Peru, Beer, Food]
+tags: [South-America, Peru, Beer, Food, Hiking]
 image:
   feature: /huaraz/top_of_wilcacocha.jpg
   credit: 

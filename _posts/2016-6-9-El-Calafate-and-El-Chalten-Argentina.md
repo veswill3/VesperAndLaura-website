@@ -6,7 +6,7 @@ modified: 2016-6-9
 visitinfo:
     start: 2016-5-18
     end: 2016-5-21
-tags: [South-America, Argentina]
+tags: [South-America, Argentina, Hiking]
 image:
   feature: /calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg
 ---

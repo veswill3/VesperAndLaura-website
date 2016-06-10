@@ -6,7 +6,7 @@ modified: 2016-3-7
 visitinfo:
     start: 2016-2-22
     end: 2016-3-5
-tags: [South-America, Ecuador, Beer]
+tags: [South-America, Ecuador, Beer, Hiking]
 image:
   feature: /banos/from_bellavista.jpg
   credit: 
