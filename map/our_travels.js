@@ -746,32 +746,42 @@ var tripList = [
             {
                 "locName": "El Calafate",
                 "coordinates": [-50.33796,-72.26479],
-                "dates": "2016-5-18"
+                "dates": "2016-5-18",
+                "post": "El-Calafate-and-El-Chalten-Argentina"
             },
             {
                 "locName": "Glaciar Perito Moreno",
                 "coordinates": [-50.46908,-73.03108],
-                "dates": "2016-5-18"
+                "dates": "2016-5-18",
+                "post": "El-Calafate-and-El-Chalten-Argentina",
+                "image": "calafate_chalten/glacier_with_balconies.jpg"
             },
             {
                 "locName": "El Chaltén",
                 "coordinates": [-49.33149,-72.88632],
-                "dates": "2016-5-19"
+                "dates": "2016-5-19:2016-5-21",
+                "post": "El-Calafate-and-El-Chalten-Argentina"
             },
             {
                 "locName": "Laguna de los Tres",
                 "coordinates": [-49.2799,-72.98579],
-                "dates": "2016-5-19"
+                "dates": "2016-5-19",
+                "post": "El-Calafate-and-El-Chalten-Argentina",
+                "image": "calafate_chalten/laguna_de_los_tres_pano.jpg"
             },
             {
                 "locName": "Laguna Torre",
                 "coordinates": [-49.3296,-72.9914],
-                "dates": "2016-5-20"
+                "dates": "2016-5-20",
+                "post": "El-Calafate-and-El-Chalten-Argentina",
+                "image": "calafate_chalten/laguna_torre_pano.jpg"
             },
             {
                 "locName": "Mirador de las Águlias",
                 "coordinates": [-49.3492,-72.87186],
-                "dates": "2016-5-21"
+                "dates": "2016-5-21",
+                "post": "El-Calafate-and-El-Chalten-Argentina",
+                "image": "calafate_chalten/fisheye.jpg"
             },
             {
                 "locName": "Los Antiguos",

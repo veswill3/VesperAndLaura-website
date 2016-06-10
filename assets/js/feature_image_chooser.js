@@ -214,10 +214,35 @@ var imgs = [
     "info": "Laguna Esmeralda near Ushuaia Argentina",
     "link": "Ushuaia-Argentina"
   },
+  {
+    "path": "ushuaia/ushuaia_overlook.jpg",
+    "info": "Overlooking Ushuaia, Argentina",
+    "link": "Ushuaia-Argentina"
+  },
+  {
+    "path": "calafate_chalten/glacier_from_balconies_pano.jpg",
+    "info": "Perito Moreno Glacier near El Calafate, Argentina",
+    "link": "El-Calafate-and-El-Chalten-Argentina"
+  },
+  {
+    "path": "calafate_chalten/mirador_de_las_agulias_pano.jpg",
+    "info": "Mirador de las Agulias near El Chaltén, Argentina",
+    "link": "El-Calafate-and-El-Chalten-Argentina"
+  },
+  {
+    "path": "calafate_chalten/overlooking_el_chalten_pano.jpg",
+    "info": "Overlooking El Chaltén, Argentina",
+    "link": "El-Calafate-and-El-Chalten-Argentina"
+  },
+  {
+    "path": "calafate_chalten/laguna_torre_pano.jpg",
+    "info": "Laguna Torre near El Chaltén, Argentina",
+    "link": "El-Calafate-and-El-Chalten-Argentina"
+  },
   // {
-  //   "path": "ushuaia/ushuaia_overlook.jpg",
-  //   "info": "Overlooking Ushuaia, Argentina",
-  //   "link": "Ushuaia-Argentina"
+  //   "path": "calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg",
+  //   "info": "Monte Fitz Roy overlooking Laguna de los Tres",
+  //   "link": "El-Calafate-and-El-Chalten-Argentina"
   // }
 ];
 
