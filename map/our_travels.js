@@ -796,7 +796,7 @@ var tripList = [
             {
                 "locName": "Coyhaique",
                 "coordinates": [-45.57122,-72.06826],
-                "dates": "2016-5-22"
+                "dates": "2016-5-22:2016-6-12"
             },
             {
                 "locName": "Villa Cerro Castillo",
@@ -822,6 +822,31 @@ var tripList = [
                 "locName": "Ice Fields",
                 "coordinates": [-46.58246,-73.54248],
                 "dates": "2016-6-3"
+            },
+            {
+                "locName": "La Junta",
+                "coordinates": [-43.97155,-72.40298],
+                "dates": "2016-6-12"
+            },
+            {
+                "locName": "Chaitén",
+                "coordinates": [-42.9167,-72.7167],
+                "dates": "2016-6-12"
+            },
+            {
+                "locName": "Futaleufú",
+                "coordinates": [-43.1833,-71.86669],
+                "dates": "2016-6-13"
+            },
+            {
+                "locName": "Esquel",
+                "coordinates": [-42.90952,-71.31431],
+                "dates": "2016-6-13"
+            },
+            {
+                "locName": "El Bolsón",
+                "coordinates": [-41.96492,-71.53533],
+                "dates": "2016-6-14"
             }
         ]
     }
