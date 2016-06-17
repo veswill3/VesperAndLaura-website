@@ -846,7 +846,12 @@ var tripList = [
             {
                 "locName": "El Bolsón",
                 "coordinates": [-41.96492,-71.53533],
-                "dates": "2016-6-14"
+                "dates": "2016-6-14:2016-6-15"
+            },
+            {
+                "locName": "San Carlos de Bariloche",
+                "coordinates": [-41.13347,-71.31027],
+                "dates": "2016-6-16"
             }
         ]
     }
