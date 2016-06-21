@@ -851,7 +851,17 @@ var tripList = [
             {
                 "locName": "San Carlos de Bariloche",
                 "coordinates": [-41.13347,-71.31027],
-                "dates": "2016-6-16"
+                "dates": "2016-6-16:2016-6-19"
+            },
+            {
+                "locName": "Puerto Iguazú",
+                "coordinates": [-25.59716,-54.57859],
+                "dates": "2016-6-20:2016-6-22"
+            },
+            {
+                "locName": "Iguazu Falls",
+                "coordinates": [-25.69525,-54.43666],
+                "dates": "2016-6-20"
             }
         ]
     }
