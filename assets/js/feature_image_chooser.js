@@ -230,11 +230,6 @@ var imgs = [
     "link": "El-Calafate-and-El-Chalten-Argentina"
   },
   {
-    "path": "calafate_chalten/overlooking_el_chalten_pano.jpg",
-    "info": "Overlooking El Chaltén, Argentina",
-    "link": "El-Calafate-and-El-Chalten-Argentina"
-  },
-  {
     "path": "calafate_chalten/laguna_torre_pano.jpg",
     "info": "Laguna Torre near El Chaltén, Argentina",
     "link": "El-Calafate-and-El-Chalten-Argentina"
