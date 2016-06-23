@@ -2,7 +2,7 @@
 layout: post
 title: Picture Perfect Patagonia
 description: "Hiking through El Calafate and El Chaltén."
-modified: 2016-06-09
+modified: 2016-06-23
 visitinfo:
     start: 2016-05-18
     end: 2016-05-21
@@ -112,3 +112,5 @@ After Jaclyn left Saturday morning, we did two small hikes that provided great p
     <a href="/images/calafate_chalten/fisheye.jpg"><img src="/images/calafate_chalten/fisheye.jpg" alt=""></a>
     <figcaption>This hairy armadillo is called a Pichi.</figcaption>
 </figure>
+
+*Update: This post was featured on The Outspoken Travel Guidebook at [atdaa.com](http://atdaa.com/the-picture-perfect-patagonia-argentina).*
