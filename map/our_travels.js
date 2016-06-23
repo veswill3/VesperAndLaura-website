@@ -861,7 +861,17 @@ var tripList = [
             {
                 "locName": "Iguazu Falls",
                 "coordinates": [-25.69525,-54.43666],
-                "dates": "2016-6-20"
+                "dates": "2016-6-20,2016-6-22"
+            },
+            {
+                "locName": "Foz do Iguaçu",
+                "coordinates": [-25.51624,-54.58542],
+                "dates": "2016-6-22"
+            },
+            {
+                "locName": "Rio de Janeiro",
+                "coordinates": [-22.90684,-43.17289],
+                "dates": "2016-6-22"
             }
         ]
     }
