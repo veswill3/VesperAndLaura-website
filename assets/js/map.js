@@ -35,8 +35,10 @@ function buildPopupContent(loc) {
 }
 
 var latLngMarkerIndex = {};
-var chronOrderofMarkers = [];
-var currentMarkerIndex = -1; // nothing currently
+
+var markers = L.markerClusterGroup({
+    maxClusterRadius: 35
+});
 
 for (var i = 0; i < travel_log.length; i++) {
     var loc = travel_log[i];
@@ -52,38 +54,13 @@ for (var i = 0; i < travel_log.length; i++) {
         var popup = marker._popup;
         popup.setContent(popup.getContent() + "<hr>" + buildPopupContent(loc));
     } else {
-        var marker = L.marker(latLng).bindPopup(buildPopupContent(loc)).addTo(map);
+        var marker = L.marker(latLng).bindPopup(buildPopupContent(loc));
+        markers.addLayer(marker);
         latLngMarkerIndex[latLng] = marker;
     }
-
-    chronOrderofMarkers.push(marker);
-    // anytime a user manually opens a marker, update where we are in the list
-    marker.on("click", (function(z){
-        return function(){ currentMarkerIndex = z; }
-    })(chronOrderofMarkers.length - 1));
 }
 
 // Create a marker for Madison WI
-var marker = L.marker([43.0730517,-89.40123019999999]).bindPopup("<p><strong>Madison</strong><br>Where we met, lived for 5 years, and got married!</p>").addTo(map);
+markers.addLayer(L.marker([43.0730517,-89.40123019999999]).bindPopup("<p><strong>Madison</strong><br>Where we met, lived for 5 years, and got married!</p>"));
 
-function movePopup (direction) {
-    if (direction === -1 && currentMarkerIndex === -1) { currentMarkerIndex = chronOrderofMarkers.length; } // because we are about to subtract 1
-    // search in direction for the next openable popup
-    var found = false;
-    var marker;
-    while (!found) {
-        currentMarkerIndex += direction;
-        if (currentMarkerIndex >= chronOrderofMarkers.length) { // past end of list, wrap to beginning
-            currentMarkerIndex = 0;
-        } else if (currentMarkerIndex < 0) { // past beginning of list, wrap to end
-            currentMarkerIndex = chronOrderofMarkers.length - 1;
-        }
-        marker = chronOrderofMarkers[currentMarkerIndex];
-        if (!marker._map) continue; // marker not on map, skip it
-        found = true;
-        marker.openPopup();
-    }
-};
-
-document.getElementById("prev").onclick = function () { movePopup(-1); };
-document.getElementById("next").onclick = function () { movePopup(1); };
+map.addLayer(markers);
