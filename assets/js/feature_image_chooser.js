@@ -234,10 +234,30 @@ var imgs = [
     "info": "Laguna Torre near El Chaltén, Argentina",
     "link": "El-Calafate-and-El-Chalten-Argentina"
   },
+  {
+    "path": "calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg",
+    "info": "Monte Fitz Roy overlooking Laguna de los Tres",
+    "link": "El-Calafate-and-El-Chalten-Argentina"
+  },
+  {
+    "path": "around_coyhaique/cerro_castillo_pano.jpg",
+    "info": "Near Villa Cerro Castillo, Chile",
+    "link": "Around-Coyhaique-Chile"
+  },
+  {
+    "path": "around_coyhaique/ice_holes_above.jpg",
+    "info": "Ice formations in the norther ice fields of San Rafael National Park, Chile",
+    "link": "Around-Coyhaique-Chile"
+  },
+  {
+    "path": "around_coyhaique/monkey_puzzle_tree.jpg",
+    "info": "A Monkey Puzzle tree in Coyhaique, Chile",
+    "link": "Around-Coyhaique-Chile"
+  },
   // {
-  //   "path": "calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg",
-  //   "info": "Monte Fitz Roy overlooking Laguna de los Tres",
-  //   "link": "El-Calafate-and-El-Chalten-Argentina"
+  //   "path": "around_coyhaique/laguna_cerro_castillo_pano2.jpg",
+  //   "info": "Laguna Cerro Castillo near Villa Cerro Castillo, Chile",
+  //   "link": "Around-Coyhaique-Chile"
   // }
 ];
 

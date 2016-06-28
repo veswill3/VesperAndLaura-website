@@ -1119,7 +1119,9 @@ travel_log = [
         "latLng": [-45.57122, -72.06826],
         "dates_visited": "2016-5-22:2016-6-12",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Around-Coyhaique-Chile",
+        "image_path": "around_coyhaique/laura_vesper_mario_root.jpg"
     },
     {
         "name": "Villa Cerro Castillo",
@@ -1127,7 +1129,8 @@ travel_log = [
         "latLng": [-46.12086, -72.15351],
         "dates_visited": "2016-5-29,2016-6-4:2016-6-5",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Around-Coyhaique-Chile"
     },
     {
         "name": "Laguna Cerro Castillo",
@@ -1135,7 +1138,9 @@ travel_log = [
         "latLng": [-46.07829, -72.18918],
         "dates_visited": "2016-5-29",
         "add_to_map": true,
-        "area_group": "Villa Cerro Castillo"
+        "area_group": "Villa Cerro Castillo",
+        "blog_url": "Around-Coyhaique-Chile",
+        "image_path": "around_coyhaique/laguna_cerro_castillo.jpg"
     },
     {
         "name": "Puerto Río Tranquilo",
@@ -1143,7 +1148,8 @@ travel_log = [
         "latLng": [-46.62402, -72.67524],
         "dates_visited": "2016-6-2:2016-6-3",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Around-Coyhaique-Chile"
     },
     {
         "name": "Marble Cathedral",
@@ -1151,7 +1157,9 @@ travel_log = [
         "latLng": [-46.65867, -72.62813],
         "dates_visited": "2016-6-2",
         "add_to_map": true,
-        "area_group": "Puerto Río Tranquilo"
+        "area_group": "Puerto Río Tranquilo",
+        "blog_url": "Around-Coyhaique-Chile",
+        "image_path": "around_coyhaique/marble_chapple.jpg"
     },
     {
         "name": "Ice Fields",
@@ -1159,7 +1167,9 @@ travel_log = [
         "latLng": [-46.58246, -73.54248],
         "dates_visited": "2016-6-3",
         "add_to_map": true,
-        "area_group": "Puerto Río Tranquilo"
+        "area_group": "Puerto Río Tranquilo",
+        "blog_url": "Around-Coyhaique-Chile",
+        "image_path": "around_coyhaique/ice_cave.jpg"
     },
     {
         "name": "La Junta",
