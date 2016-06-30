@@ -6,7 +6,7 @@ modified: 2016-05-31
 visitinfo:
     start: 2016-05-08
     end: 2016-05-13
-tags: [South-America, Argentina, Beer]
+tags: [South-America, Argentina, Beer, Food]
 image:
   feature: /buenos_aires/buenos_aires_skyline.jpg
 ---
