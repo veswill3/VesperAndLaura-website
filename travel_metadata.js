@@ -1254,5 +1254,13 @@ travel_log = [
         "dates_visited": "2016-6-22:2016-7-2",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Copenhagen",
+        "country_name": "Denmark",
+        "latLng": [55.67609, 12.56833],
+        "dates_visited": "2016-7-3",
+        "add_to_map": true,
+        "area_group": true
     }
 ];
