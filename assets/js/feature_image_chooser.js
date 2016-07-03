@@ -254,10 +254,15 @@ var imgs = [
     "info": "A Monkey Puzzle tree in Coyhaique, Chile",
     "link": "Around-Coyhaique-Chile"
   },
+  {
+    "path": "around_coyhaique/laguna_cerro_castillo_pano2.jpg",
+    "info": "Laguna Cerro Castillo near Villa Cerro Castillo, Chile",
+    "link": "Around-Coyhaique-Chile"
+  },
   // {
-  //   "path": "around_coyhaique/laguna_cerro_castillo_pano2.jpg",
-  //   "info": "Laguna Cerro Castillo near Villa Cerro Castillo, Chile",
-  //   "link": "Around-Coyhaique-Chile"
+  //   "path": "bolson_bariloche/cerro_campanario_pano.jpg",
+  //   "info": "View from the top of Cerro Campanario in Bariloche, Argentina",
+  //   "link": "El-Bolson-and-Bariloche"
   // }
 ];
 

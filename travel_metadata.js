@@ -1209,7 +1209,9 @@ travel_log = [
         "latLng": [-41.96492, -71.53533],
         "dates_visited": "2016-6-14:2016-6-15",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "El-Bolson-and-Bariloche",
+        "image_path": "bolson_bariloche/laura_el_bolson_mugs.jpg"
     },
     {
         "name": "San Carlos de Bariloche",
@@ -1217,7 +1219,9 @@ travel_log = [
         "latLng": [-41.13347, -71.31027],
         "dates_visited": "2016-6-16:2016-6-19",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "El-Bolson-and-Bariloche",
+        "image_path": "bolson_bariloche/bariloche_with_lake.jpg"
     },
     {
         "name": "Puerto Iguazú",
@@ -1247,7 +1251,7 @@ travel_log = [
         "name": "Rio de Janeiro",
         "country_name": "Brazil",
         "latLng": [-22.90684, -43.17289],
-        "dates_visited": "2016-6-22",
+        "dates_visited": "2016-6-22:2016-7-2",
         "add_to_map": true,
         "area_group": true
     }
