@@ -12,7 +12,7 @@ image:
 
 We’ve made it back to Chile! We spent a couple of weeks in Argentina, but now we've returned to Chile to begin our next workaway - this time at a BREWERY! We're pretty excited about it, and we'll also plan to use the time to catch up on posts. Sorry, we've been too busy hiking through the amazing scenery in Patagonia. 
 
-In the last month we have traveled to seven cities in two countries: [Valparaiso]({% post_url 2016-05-06-Valparaiso-Chile %}) and [Santiago]({% post_url 2016-05-08-Santiago-Chile %}) in Chile, and [Mendoza]({% post_url 2016-05-13-Mendoza-Argentina %}), [Buenos Aires]({% post_url Buenos-Aires-Argentina %}), [Ushuaia]({% post_url Ushuaia-Argentina %}), [El Calafate, and El Chalten]({% post_url El-Calafate-and-El-Chalten-Argentina %}) in Argentina. 
+In the last month we have traveled to seven cities in two countries: [Valparaiso]({% post_url 2016-05-06-Valparaiso-Chile %}) and [Santiago]({% post_url 2016-05-08-Santiago-Chile %}) in Chile, and [Mendoza]({% post_url 2016-05-13-Mendoza-Argentina %}), [Buenos Aires]({% post_url 2016-05-31-Buenos-Aires-Argentina %}), [Ushuaia]({% post_url 2016-06-07-Ushuaia-Argentina %}), [El Calafate, and El Chalten]({% post_url 2016-06-09-El-Calafate-and-El-Chalten-Argentina %}) in Argentina. 
 
 ### Month 4 Observations
 

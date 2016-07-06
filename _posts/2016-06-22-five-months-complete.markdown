@@ -11,7 +11,7 @@ image:
 ---
 We recently finished up three weeks working at a brewery and exploring a bit more of Patagonia before heading back north. We had a great time this past month, and we're (finally) heading to Europe in less than two weeks!! But first - Brazil!
 
-In the last month we have traveled to seven cities in two countries: [Coyhaique, Villa Cerro Castillo, and Río Tranquilo]({% post_url Around-Coyhaique-Chile %}) in Chile, and Esquel, [El Bolsón, Bariloche]({% post_url Bolson-and-Bariloche %}), and Iguazú in Argentina.
+In the last month we have traveled to seven cities in two countries: [Coyhaique, Villa Cerro Castillo, and Río Tranquilo]({% post_url 2016-06-28-Around-Coyhaique-Chile %}) in Chile, and Esquel, [El Bolsón, Bariloche]({% post_url 2016-07-03-El-Bolson-and-Bariloche %}), and Iguazú in Argentina.
 
 ### Month 5 Observations
 
