@@ -199,6 +199,6 @@ This is undeniably the most important step in the process. Share your favorites 
     <figcaption>We're official brewers! It's pretty legit when you have t-shirts AND your own fermentation tanks!</figcaption>
 </figure>
 
-Now that you know about the entire process, check out this timelapse video of the very first brewday on a band new 300 liter system! It took a bit longer than normal as we were still figuring out the system (at we had to replace a blown pump at one point) but you can experience the entire 11 hours in just 43 seconds.
+Now that you know about the entire process, check out this timelapse video of the very first brewday on a brand new 300 liter system! It took a bit longer than normal as we were still figuring out the system (at we had to replace a blown pump at one point) but you can experience the entire 11 hours in just 43 seconds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agAh7avi6no" frameborder="0" allowfullscreen></iframe>
