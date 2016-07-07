@@ -259,10 +259,25 @@ var imgs = [
     "info": "Laguna Cerro Castillo near Villa Cerro Castillo, Chile",
     "link": "Around-Coyhaique-Chile"
   },
+  {
+    "path": "bolson_bariloche/cerro_campanario_pano.jpg",
+    "info": "View from the top of Cerro Campanario in Bariloche, Argentina",
+    "link": "El-Bolson-and-Bariloche"
+  },
+  {
+    "path": "iguazu/iguazu_pano.jpg",
+    "info": "From the Argentina side of Iguazu Falls",
+    "link": "Iguazu-Falls"
+  },
+  {
+    "path": "iguazu/iguazu_pano2.jpg",
+    "info": "From the Brazilian side of Iguazu Falls",
+    "link": "Iguazu-Falls"
+  },
   // {
-  //   "path": "bolson_bariloche/cerro_campanario_pano.jpg",
-  //   "info": "View from the top of Cerro Campanario in Bariloche, Argentina",
-  //   "link": "El-Bolson-and-Bariloche"
+  //   "path": "iguazu/iguazu_pano3.jpg",
+  //   "info": "From the Argentina side of Iguazu Falls",
+  //   "link": "Iguazu-Falls"
   // }
 ];
 

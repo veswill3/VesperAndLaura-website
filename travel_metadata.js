@@ -1229,7 +1229,8 @@ travel_log = [
         "latLng": [-25.59716, -54.57859],
         "dates_visited": "2016-6-20:2016-6-22",
         "add_to_map": true,
-        "area_group": "Iguazu"
+        "area_group": "Iguazu",
+        "blog_url": "Iguazu-Falls"
     },
     {
         "name": "Iguazu Falls",
@@ -1237,7 +1238,9 @@ travel_log = [
         "latLng": [-25.69525, -54.43666],
         "dates_visited": "2016-6-20,2016-6-22",
         "add_to_map": true,
-        "area_group": "Iguazu"
+        "area_group": "Iguazu",
+        "blog_url": "Iguazu-Falls",
+        "image_path": "iguazu/falls6.jpg"
     },
     {
         "name": "Foz do Iguaçu",
@@ -1245,7 +1248,8 @@ travel_log = [
         "latLng": [-25.51624, -54.58542],
         "dates_visited": "2016-6-22",
         "add_to_map": true,
-        "area_group": "Iguazu"
+        "area_group": "Iguazu",
+        "blog_url": "Iguazu-Falls"
     },
     {
         "name": "Rio de Janeiro",
