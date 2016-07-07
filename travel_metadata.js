@@ -1259,7 +1259,15 @@ travel_log = [
         "name": "Copenhagen",
         "country_name": "Denmark",
         "latLng": [55.67609, 12.56833],
-        "dates_visited": "2016-7-3",
+        "dates_visited": "2016-7-3:2016-7-6",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Oslo",
+        "country_name": "Denmark",
+        "latLng": [59.91386, 10.75224],
+        "dates_visited": "2016-7-7",
         "add_to_map": true,
         "area_group": true
     }
