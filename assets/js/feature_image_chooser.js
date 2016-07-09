@@ -274,10 +274,35 @@ var imgs = [
     "info": "From the Brazilian side of Iguazu Falls",
     "link": "Iguazu-Falls"
   },
+  {
+    "path": "iguazu/iguazu_pano3.jpg",
+    "info": "From the Argentina side of Iguazu Falls",
+    "link": "Iguazu-Falls"
+  },
+  {
+    "path": "rio/view_partway_up_sugarloaf_pano.jpg",
+    "info": "View from the top of Urca Hill in Rio de Janeiro, Brazil",
+    "link": "Rio-de-Janeiro-Brazil"
+  },
+  {
+    "path": "rio/christ_above_pano.jpg",
+    "info": "Christ the Redeemer watching over Rio de Janeiro, Brazil",
+    "link": "Rio-de-Janeiro-Brazil"
+  },
+  {
+    "path": "rio/christ_the_redeemer_pano2.jpg",
+    "info": "View from Christ the Redeemer in Rio de Janeiro, Brazil",
+    "link": "Rio-de-Janeiro-Brazil"
+  },
+  {
+    "path": "rio/ipanema_beach_pano.jpg",
+    "info": "Ipanema beach in Rio de Janeiro, Brazil",
+    "link": "Rio-de-Janeiro-Brazil"
+  },
   // {
-  //   "path": "iguazu/iguazu_pano3.jpg",
-  //   "info": "From the Argentina side of Iguazu Falls",
-  //   "link": "Iguazu-Falls"
+  //   "path": "rio/christ_the_redeemer_pano.jpg",
+  //   "info": "View from Christ the Redeemer in Rio de Janeiro, Brazil",
+  //   "link": "Rio-de-Janeiro-Brazil"
   // }
 ];
 

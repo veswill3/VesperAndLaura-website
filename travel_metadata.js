@@ -1257,7 +1257,9 @@ travel_log = [
         "latLng": [-22.90684, -43.17289],
         "dates_visited": "2016-6-22:2016-7-2",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Rio-de-Janeiro-Brazil",
+        "image_path": "rio/christ_the_redeemer2.jpg"
     },
     {
         "name": "Copenhagen",
@@ -1269,9 +1271,9 @@ travel_log = [
     },
     {
         "name": "Oslo",
-        "country_name": "Denmark",
+        "country_name": "Norway",
         "latLng": [59.91386, 10.75224],
-        "dates_visited": "2016-7-7",
+        "dates_visited": "2016-7-7:2016-7-9",
         "add_to_map": true,
         "area_group": true
     }
