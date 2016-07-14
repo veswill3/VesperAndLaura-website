@@ -1273,7 +1273,31 @@ travel_log = [
         "name": "Oslo",
         "country_name": "Norway",
         "latLng": [59.91386, 10.75224],
-        "dates_visited": "2016-7-7:2016-7-9",
+        "dates_visited": "2016-7-7:2016-7-9,2016-7-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Stavanger",
+        "country_name": "Norway",
+        "latLng": [58.96997, 5.7331],
+        "dates_visited": "2016-7-10:2016-7-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Pulpit Rock",
+        "country_name": "Norway",
+        "latLng": [58.98712, 6.18877],
+        "dates_visited": "2016-7-10",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Bergen",
+        "country_name": "Norway",
+        "latLng": [60.39126, 5.32205],
+        "dates_visited": "2016-7-11:2016-7:13",
         "add_to_map": true,
         "area_group": true
     }
