@@ -50,7 +50,7 @@ travel_log = [
     {
         "name": "Vienna",
         "country_name": "Austria",
-        "latLng": [48.2081743, 16.37381890000006],
+        "latLng": [48.20817, 16.37381],
         "dates_visited": "2012-10-4:2012-10-7",
         "add_to_map": true,
         "area_group": true
@@ -1300,5 +1300,30 @@ travel_log = [
         "dates_visited": "2016-7-11:2016-7:13",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Stockholm",
+        "country_name": "Sweden",
+        "latLng": [59.32932, 18.06858],
+        "dates_visited": "2016-7-15:2016-7-18",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Vienna",
+        "country_name": "Austria",
+        "latLng": [48.20817, 16.37381],
+        "dates_visited": "2016-7-18",
+        "add_to_map": true,
+        "area_group": true
     }
+    // ,
+    // {
+    //     "name": "",
+    //     "country_name": "",
+    //     "latLng": [],
+    //     "dates_visited": "2016-",
+    //     "add_to_map": true,
+    //     "area_group": true/false
+    // }
 ];
