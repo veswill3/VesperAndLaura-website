@@ -1305,7 +1305,7 @@ travel_log = [
         "name": "Stockholm",
         "country_name": "Sweden",
         "latLng": [59.32932, 18.06858],
-        "dates_visited": "2016-7-15:2016-7-18",
+        "dates_visited": "2016-7-14:2016-7-18",
         "add_to_map": true,
         "area_group": true
     },
