@@ -299,11 +299,16 @@
             "path": "rio/ipanema_beach_pano.jpg",
             "info": "Ipanema beach in Rio de Janeiro, Brazil",
             "link": "Rio-de-Janeiro-Brazil"
-        }
+        },
+        {
+            "path": "rio/christ_the_redeemer_pano.jpg",
+            "info": "View from Christ the Redeemer in Rio de Janeiro, Brazil",
+            "link": "Rio-de-Janeiro-Brazil"
+        },
         // {
-        //     "path": "rio/christ_the_redeemer_pano.jpg",
-        //     "info": "View from Christ the Redeemer in Rio de Janeiro, Brazil",
-        //     "link": "Rio-de-Janeiro-Brazil"
+        //     "path": "",
+        //     "info": "",
+        //     "link": ""
         // }
     ];
     // Choose an image at random

@@ -13,7 +13,7 @@ image:
   creditlink:
 ---
 
-After our quick trip to [Bogotá](http://vesperandlaura.com/Bogota-Colombia/), we boarded a super cheap flight to Quito late last Wednesday. Our friend Clark was arriving midday Friday, so we spent Thursday doing our hostel's free walking tour and researching activities for the next 2-3 weeks we plan to spend in Ecuador.
+After our quick trip to [Bogotá]({% post_url 2016-02-19-Bogota-Colombia %}), we boarded a super cheap flight to Quito late last Wednesday. Our friend Clark was arriving midday Friday, so we spent Thursday doing our hostel's free walking tour and researching activities for the next 2-3 weeks we plan to spend in Ecuador.
 
 Quito has a beautiful historic center, which was named one of the first UNESCO World Cultural Heritage Sites in 1978. Our tour guide told us that this historic city is roughly 4 square kilometers in size and has more than 40 churches in that vicinity! We poked our heads into several of them, including the incredibly beautiful Iglesia de San Francisco.
 <figure class="half">
