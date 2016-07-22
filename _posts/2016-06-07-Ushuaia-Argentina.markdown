@@ -8,7 +8,7 @@ visitinfo:
     end: 2016-05-17
 tags: [South-America, Argentina, Hiking]
 image:
-  feature: /ushuaia/ushuaia_overlook.jpg
+    feature: /ushuaia/ushuaia_overlook.jpg
 ---
 
 We took a flight down from Buenos Aires to begin our journey through Patagonia in Ushuaia with our friend Jaclyn. Ushuaia is the capital of the [Tierra del Fuego Province](https://en.wikipedia.org/wiki/Tierra_del_Fuego_Province,_Argentina) and considered by many to be the [southernmost city in the world](https://en.wikipedia.org/wiki/Southernmost_settlements#Southernmost_city). Technically there are a few outposts farther south, but Ushuaia is the only one big enough to be considered an actual city. 

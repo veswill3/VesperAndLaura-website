@@ -8,9 +8,8 @@ visitinfo:
     end: 2014-09-09
 tags: [South-America, Peru, Food, Hiking]
 image:
-  feature: /peru/skyline.JPG
-  credit:
-  creditlink:
+    feature: /peru/skyline.JPG
+    credit: Machu Picchu
 ---
 
 Our first trek to South America was Peru in September 2014. Both of us had been to Europe before, in college and together in 2012 and 2013, and while those trips had their highlights (Oktoberfest two years in a row!), we were ready for something different. We each put together a 30-Before-30 list, which included things like scuba diving (Laura did in Belize 2013), run a half marathon (Vesper did his first one in 2013), and brew a good beer (both the [mango wheat](http://www.brewersfriend.com/homebrew/recipe/view/144431/madtown-mango) and [VIIIRIS](http://www.brewersfriend.com/homebrew/recipe/view/178659/viiiris) were amazing). When we were considering what to do next, we kept going back to hiking the Inca Trail, a top item on both of our lists. Neither of us had done anything this physically challenging as a "vacation," and we were ready to do something beyond the churches, squares, and museums that largely characterized our European trips.

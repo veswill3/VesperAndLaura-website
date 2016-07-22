@@ -8,9 +8,8 @@ visitinfo:
     end: 2016-02-04
 tags: [North-America, Mexico, Food]
 image:
-  feature: /mexico/roof_garden.jpg
-  credit: Vesper
-  creditlink:
+    feature: /mexico/roof_garden.jpg
+    credit: The gardens at Chapultepec Castle
 ---
 
 ¡Hola! We’ve just wrapped up a week in Mexico City and are about to depart for Guatemala. We’ve spent the last week staying with Vesper’s college roommate, Claudio, who generously let us crash at his apartment. It’s been a busy and delicious week here! 

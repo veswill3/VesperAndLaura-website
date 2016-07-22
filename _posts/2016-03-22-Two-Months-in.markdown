@@ -6,9 +6,7 @@ description: "A recap of the second month of our trip around the world."
 modified: 2016-03-22
 tags: [Review]
 image:
-  feature: two-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: two-month-feature-photo.jpg
 ---
 
 In the last month, we have not taken any flights but rather several long and cheap bus rides. We have been to six cities in two countries including [Baños]({% post_url 2016-03-07-Banos-Ecuador %}), [the monkey sanctuary in Puyo]({% post_url 2016-03-06-Los-Monos %}), and [Cuenca]({% post_url 2016-03-09-Cuenca-Ecuador %}) in Ecuador, plus [Máncora]({% post_url 2016-03-15-Mancora-Peru %}), [Trujillo]({% post_url 2016-03-22-Trujillo-Peru %}), and [Huaraz]({% post_url 2016-03-22-Huaraz-Peru %}) in Peru.

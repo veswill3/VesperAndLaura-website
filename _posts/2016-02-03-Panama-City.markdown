@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-01-26
 tags: [Central-America, Panama]
 image:
-  feature: /panama/old_city_boats.jpg
-  credit: Vesper
-  creditlink:
+    feature: /panama/old_city_boats.jpg
 ---
 
 Flights from St. Martin to Mexico City were either ridiculously expensive or had some ridiculous legs and layovers. Since we’re on the cheap this year, we chose the latter. Using some leftover Untied miles, we flew from St. Martin to Mexico City via a 15 hour layover in Panama City. Our incoming flight flew right past the canal, providing us with an awesome view of the structure as well as an impressive amount of ships going to/from the port. We landed around 5 pm, made a reservation at a cheap hostel near Casco Viejo (the old Spanish historical district), and spent the next several hours exploring the area.

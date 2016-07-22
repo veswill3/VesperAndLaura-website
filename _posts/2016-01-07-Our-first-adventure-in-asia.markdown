@@ -8,9 +8,8 @@ visitinfo:
     end: 2014-11-29
 tags: [China, Asia]
 image:
-  feature: /china/pagoda.jpg
-  credit: Lehar Kanodia
-  creditlink: 
+    feature: /china/pagoda.jpg
+    credit: Lehar Kanodia
 ---
 
 Shortly after we returned from Peru, a friend found crazy cheap flights to China over Thanksgiving and suggested a group of us go. We had just spent most of our vacation days for that year in South America, so we were hesitant to join, but then we realized: $500 flights to CHINA! An international flight for that cheap couldn't be passed up. So about two months after we had landed back in the US, we boarded a plane to Beijing with five other friends for our first trip to Asia.

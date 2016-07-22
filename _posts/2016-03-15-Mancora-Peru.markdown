@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-03-10
 tags: [South-America, Peru]
 image:
-  feature: /mancora/sunset.jpg
-  credit: 
-  creditlink: 
+    feature: /mancora/sunset.jpg
 ---
 
 We’re in Peru!! We have very fond memories of our [previous trip here]({% post_url 2015-12-15-The-trip-that-started-it-all %}), and we couldn’t wait to come back. We took an overnight bus from Cuenca, Ecuador that left at ten pm, crossed the border into Peru around two am, and arrived in the small surf town far too early at five am. We planned ahead and booked a hostel that had 24 hour check in, so we were able to go straight to our room and catch back up on several hours of sleep. Thank goodness!

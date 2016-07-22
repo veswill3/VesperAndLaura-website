@@ -9,9 +9,7 @@ visitinfo:
     end: 2016-03-20
 tags: [South-America, Peru, Hiking]
 image:
-  feature: /santa_cruz/santa_cruz_summit_2.jpg
-  credit: 
-  creditlink: 
+    feature: /santa_cruz/santa_cruz_summit_2.jpg
 ---
 
 The Santa Cruz trek is a 31 mile (50 km) hike, with the highest point being over 15,500 ft (4,750 m) above sea level. We got an awesome off-season price of only $90/per person and set off on the trek Thursday morning with twelve other twenty-something backpackers. Check out [technical stats of a similar hike here](http://www.wikiloc.com/wikiloc/view.do?id=9744771).

@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-04-12
 tags: [South-America, Peru, Bolivia]
 image:
-  feature: /lake_titicaca/copacabana_harbor.jpg
-  credit: 
-  creditlink: 
+    feature: /lake_titicaca/copacabana_harbor.jpg
 ---
 
 Located on the border of Peru and Bolivia, [Lake Titicaca](https://en.wikipedia.org/wiki/Lake_Titicaca) is the largest lake in South America and the highest navigable lake in the world. This refers to navigation by commercial boats, although we mostly just saw lots of small boats to take tourists to the various islands. We only spent a few days on the lake where we visited two different cities: Puno, Peru and Copacabana, Bolivia. 

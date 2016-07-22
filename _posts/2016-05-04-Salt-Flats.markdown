@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-04-20
 tags: [South-America, Bolivia]
 image:
-  feature: /salt_flats/salt_flat.jpg
-  credit: 
-  creditlink:
+    feature: /salt_flats/salt_flat.jpg
 ---
 
 Uyuni, Bolivia exists solely for tourists as a springboard to and from the salt flats that are adjacent to the city. [*Salar de Uyuni*](https://en.wikipedia.org/wiki/Salar_de_Uyuni) is the largest salt flat in the world at over 11,000 feet above sea level. This tour was basically the reason we came to Bolivia since we had heard so many rave reviews about the trip, and at this point, we really hoped it would help us justify the $160 entry visa.

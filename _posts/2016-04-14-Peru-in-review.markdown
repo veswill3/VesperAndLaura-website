@@ -5,9 +5,7 @@ modified: 2016-04-14
 description: "Observations after more than one month in Peru."
 tags: [South-America, Peru, Review]
 image:
-  feature: peru-review.jpg
-  credit:
-  creditlink:
+    feature: peru-review.jpg
 ---
 
 Overall, we loved Peru. The food was delicious, the people were super friendly, and the scenery was amazing. With the Peruvian Nuevo Sol about 3:1 USD, it wasn’t the cheapest country (so far it’s still Mexico), but it was still very budget-friendly. After 34 days in Peru, here are some final random observations we had:

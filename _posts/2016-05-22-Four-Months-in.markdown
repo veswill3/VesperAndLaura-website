@@ -5,9 +5,7 @@ description: "A recap of the fourth month of our trip around the world."
 modified: 2016-05-22
 tags: [Review]
 image:
-  feature: four-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: four-month-feature-photo.jpg
 ---
 
 We’ve made it back to Chile! We spent a couple of weeks in Argentina, but now we've returned to Chile to begin our next workaway - this time at a BREWERY! We're pretty excited about it, and we'll also plan to use the time to catch up on posts. Sorry, we've been too busy hiking through the amazing scenery in Patagonia. 

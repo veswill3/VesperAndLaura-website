@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-05-03
 tags: [South-America, Chile, Volunteering, Beer]
 image:
-  feature: /santiago_chile/santiago.jpg
-  credit: 
-  creditlink:
+    feature: /santiago_chile/santiago.jpg
 ---
 
 After our weekend in Valparaiso, we took a bus back to Santiago to begin a week volunteering at a hostel. Our previous volunteer experience at [Los Monos]({% post_url 2016-03-06-Los-Monos %}) was found through a friend, but to find more opportunites we joined [Workaway](https://www.workaway.info/), a website that connects volunteers and hosts throuhgout the world. In exchange for working 5 or so hours a day, the host provides free room and board and usually a day or two off for each week you work. We had only heard good things from other travelers and were ready to take on a new opportunity in Chile. Not that we are bored of traveling, but it is tiring to constantly plan your next bus, city, things to do, etc., and this would be a nice change of pace.

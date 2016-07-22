@@ -8,7 +8,7 @@ visitinfo:
     end: 2016-7-2
 tags: [South-America, Brazil, Hiking, Food]
 image:
-  feature: /rio/christ_the_redeemer_pano.jpg
+    feature: /rio/christ_the_redeemer_pano.jpg
 ---
 
 Our original plans for South America didn’t involve Brazil because of the costly visa requirement for US citizens, but when we found out that the visa was waived starting June 1 for the Olympics, we knew we would visit! Plus we heard that flights to Europe from Rio were cheaper than anywhere else in South America so that was a huge win for us too. We spent nine days exploring Rio de Janeiro and its beautiful beaches, delicious food, lush scenery, and awesome hikes. 

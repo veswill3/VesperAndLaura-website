@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-03-03
 tags: [South-America, Ecuador, Volunteering]
 image:
-  feature: /los_monos/capachino_blancos.jpg
-  credit: Laura
-  creditlink:
+    feature: /los_monos/capachino_blancos.jpg
 ---
 
 We spent the past week volunteering at [Los Monos](http://losmonos.org/), a monkey sanctuary near Puyo, Ecuador. Located 90 minutes east of Baños by bus, we arrived last Thursday evening completely unsure what to expect for our upcoming week. Our friend Anna had visited the sanctuary years ago and she suggested it might be a cool place to volunteer. We'd been planning to volunteer throughout our year of traveling and hanging out with monkeys for a week seemed like the perfect place to start!

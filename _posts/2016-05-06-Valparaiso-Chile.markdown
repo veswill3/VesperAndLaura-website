@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-04-25
 tags: [South-America, Chile, Beer]
 image:
-  feature: /valparaiso_chile/valparaiso_cityscape2.jpg
-  credit: 
-  creditlink:
+    feature: /valparaiso_chile/valparaiso_cityscape2.jpg
 ---
 
 Our first major stop in Chile was in Valparaiso, a hilly city right along the Pacific. It’s steep hills are marked with funiculars to avoid the climb, but we spent our weekend getting some exercise in and sticking to the streets since the city is full of amazing street art. Almost every block we explored was covered in colorful words or pictures, an impressive and refreshing thing after some of the gloomier sites in Bolivia. And bonus points: they had a couple great beer bars too! Our welcome to Chile was off to a great start.

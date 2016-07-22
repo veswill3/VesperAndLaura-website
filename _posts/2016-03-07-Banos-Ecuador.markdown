@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-03-05
 tags: [South-America, Ecuador, Beer, Hiking]
 image:
-  feature: /banos/from_bellavista.jpg
-  credit: 
-  creditlink:
+    feature: /banos/from_bellavista.jpg
 ---
 
 We'd heard great things from friends about Baños de Agua Santa, so we decided to head there after our time in Quito. Commonly referred to as Baños (Spanish for "baths"), it is a small city a few hours south of Quito popular to both foreign and Ecuadorean tourists because of the hot springs and adventure activities.

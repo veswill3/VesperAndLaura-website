@@ -9,9 +9,7 @@ visitinfo:
     end: 2016-04-18
 tags: [South-America, Bolivia]
 image:
-  feature: /sucre/sucre_mirador.jpg
-  credit: 
-  creditlink:
+    feature: /sucre/sucre_mirador.jpg
 ---
 
 While wrapping up our time in La Paz, Laura got food poisoning and the last thing we wanted to do was take a bus to Sucre, a Spanish colonial city in central Bolivia. Instead, for only $50 per person, we were able to take a fifty minute flight - much more efficient than the fourteen hour bus ride. We left La Paz around 4 pm and were at our hostel in Sucre by 5:30. 

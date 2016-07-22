@@ -5,9 +5,7 @@ description: "A few quick observations about both the country and traveling afte
 modified: 2016-03-14
 tags: [Review, South-America, Ecuador]
 image:
-  feature: ecuador-review.jpg
-  credit: Laura
-  creditlink: 
+    feature: ecuador-review.jpg
 ---
 
 After 18 days in Ecuador here are some final observations we had:

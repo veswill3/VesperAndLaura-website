@@ -7,7 +7,7 @@ visitinfo:
     end: 2016-6-12
 tags: [South-America, Chile, Beer, Volunteering]
 image:
-  feature: /how_to_brew_beer/mash_grains.jpg
+    feature: /how_to_brew_beer/mash_grains.jpg
 ---
 
 We recently wrapped up three weeks of volunteering at a small brewery in Patagonia called [Cerveza Caiquen](https://www.facebook.com/Cerveza-Artesanal-Caiqu%C3%A9n-220921524665487/). We love traveling, but one thing we have missed is brewing beer so this was the perfect opportunity for us. Since this kind of thing gets us really excited, we wanted to share some of what goes into making beer. 

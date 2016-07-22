@@ -9,9 +9,8 @@ visitinfo:
     end: 2016-03-13
 tags: [South-America, Peru]
 image:
-  feature: /trujillo/admin_buildings.jpg
-  credit: 
-  creditlink: 
+    feature: /trujillo/admin_buildings.jpg
+    credit: Administrative buildings in Chan Chan
 ---
 
 We arrived in Trujillo around 7 am on Friday via an overnight bus from Máncora. We booked another place that let us check in super early, so we went back to bed for a few hours before heading out to walk around the city. When we first arrived, it was hazy outside and the city seemed a bit dirty; however, once we got to exploring, our views of it were totally changed as we discovered its charming streets and awesome pre-Incan ruins.
@@ -46,7 +45,7 @@ After we visited the ruins, we were ready for some lunch and headed toward a res
 The locals also told us to check out the ruins of Huacas del Sol y la Luna, which they thought were more interesting than Chan Chan. Intrigued, we went there the next day to learn about the Moche people, another pre-Incan culture that also existed 700 years before the Chimor empire. You can only visit the Huaca de la Luna (Temple of the Moon) as the Huaca del Sol was partially destroyed in the 17th century when the Spanish redirected a river towards it to help with looting gold. We first visited a museum to learn about the structures and Moche customs, which often included human sacrifices. There were two types of sacrifices: one to help restore order when the people were plagued with bad weather (El Niño type phenomena), and the other to ask the gods to maintain balance when things were going well. In addition to the museum, our ticket also included a tour of the Huaca de la Luna... in Spanish. Good thing we went to the museum first. Although the tour was less informative than the one we had at Chan Chan, the ruins here were so well preserved that you could see the original murals with vibrant colors on parts of the structure! The temple consists of several different levels, which were built on top of each other over the course of six hundred years. Each time a new level was built, the previous level was completely filled in with bricks to become the base for the new temple. We learned in the museum that archeologists think this rebuilding may have coincided with a religious calendar.
 <figure>
     <a href="/images/trujillo/view_from_huaca_de_la_luna.jpg"><img src="/images/trujillo/view_from_huaca_de_la_luna.jpg" alt=""></a>
-  <figcaption>The remains of the Huaca de la Luna, with views of Trujillo in the background.</figcaption>
+    <figcaption>The remains of the Huaca de la Luna, with views of Trujillo in the background.</figcaption>
 </figure>
 <figure class="half">
     <a href="/images/trujillo/mountain_god.jpg"><img src="/images/trujillo/mountain_god.jpg" alt=""></a>
@@ -55,7 +54,7 @@ The locals also told us to check out the ruins of Huacas del Sol y la Luna, whic
 </figure>
 <figure>
     <a href="/images/trujillo/layers_of_moon_temple.jpg"><img src="/images/trujillo/layers_of_moon_temple.jpg" alt=""></a>
-  <figcaption>The many layers of the Temple of the Moon.</figcaption>
+    <figcaption>The many layers of the Temple of the Moon.</figcaption>
 </figure>
 
 Despite our initial slightly negative impressions of the city, we ended up really enjoying Trujillo. Maybe it was the awesome people we spent our time with or a blessed relief from the heat and mosquitoes of Máncora, but we were glad to have our views changed and learn more about the history of this awesome country.

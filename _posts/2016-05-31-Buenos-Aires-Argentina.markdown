@@ -8,7 +8,7 @@ visitinfo:
     end: 2016-05-13
 tags: [South-America, Argentina, Beer, Food]
 image:
-  feature: /buenos_aires/buenos_aires_skyline.jpg
+    feature: /buenos_aires/buenos_aires_skyline.jpg
 ---
 
 A few Saturdays ago, we boarded an overnight bus from Mendoza to Buenos Aires. At fifteen hours, this was our longest bus ride yet. We arrived at our Airbnb in the Palermo neighborhood of Buenos Aires around 11 on Sunday morning and went straight to the grocery store for coffee and laundry detergent to start off our week clean and caffeinated.

@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-04-03
 tags: [South-America, Peru]
 image:
-  feature: /ica/dark_dune.jpg
-  credit: 
-  creditlink: 
+    feature: /ica/dark_dune.jpg
 ---
 
 A few hours south of Lima, the cities of Paracas and Huacachina are destinations for touring the Poor Man’s Galapagos and visiting the expansive desert for some sandboarding and dune buggying. Due to its outrageous price tag, we skipped the actual Galapagos, so the poor man’s version seemed right up our alley and the sand dune excursion just sounded like fun! To make up for our Lima splurge, we booked a super cheap AirBnB in Ica, a busy town that caters to both Paracas and Huacachina. 

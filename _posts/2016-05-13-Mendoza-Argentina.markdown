@@ -8,7 +8,7 @@ visitinfo:
     end: 2016-05-07
 tags: [South-America, Argentina]
 image:
-  feature: /mendoza/mountain_bus_line.jpg
+    feature: /mendoza/mountain_bus_line.jpg
 ---
 
 We were looking forward to what was supposed to be one of the prettiest bus rides through the Andes when we boarded the bus from Santiago to Mendoza around 1 pm last Tuesday. The first three hours of the trip were incredibly scenic. We passed countless vineyards before beginning the slow ascent into the snow covered mountain landscape filled with waterfalls and charming ski chalets waiting for the season to begin. Then we made it to the border with Argentina. That’s where everything went downhill.

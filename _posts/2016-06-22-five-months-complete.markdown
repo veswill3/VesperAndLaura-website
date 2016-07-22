@@ -5,9 +5,7 @@ description: "A recap of the fifth month of our trip around the world."
 modified: 2016-06-22
 tags: [Review]
 image:
-  feature: five-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: five-month-feature-photo.jpg
 ---
 We recently finished up three weeks working at a brewery and exploring a bit more of Patagonia before heading back north. We had a great time this past month, and we're (finally) heading to Europe in less than two weeks!! But first - Brazil!
 

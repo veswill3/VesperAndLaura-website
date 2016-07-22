@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-03-31
 tags: [South-America, Peru, Beer, Food]
 image:
-  feature: /lima/cooking_class_food.jpg
-  credit: 
-  creditlink: 
+    feature: /lima/cooking_class_food.jpg
 ---
 
 We spent the past week and half in Lima at an amazing [AirBnB](https://www.airbnb.com/rooms/2241211) located in the bohemian district of Barranco. We splurged a bit, but it was so nice to have a beautiful apartment where only the doorman knew how infrequently we actually left. We needed time to catch up on some R&R after two months of city hopping since it can be exhausting changing locations so frequently.

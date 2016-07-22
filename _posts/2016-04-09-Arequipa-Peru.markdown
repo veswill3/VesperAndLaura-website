@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-04-09
 tags: [South-America, Peru, Beer]
 image:
-  feature: /arequipa/andinas.jpg
-  credit: 
-  creditlink:
+    feature: /arequipa/andinas.jpg
 ---
 
 We arrived in Arequipa in southern Peru late last Sunday after a twelve hour bus ride from Ica. Arequipa is a Spanish colonial town and popular tourist destination for its architecture, museums, and gateway to the Colca Canyon. The Colca Canyon is twice as deep as the Grand Canyon and one of the deepest canyons in the world. We spent a few days exploring the city before embarking on a “trek” to visit this natural wonder.

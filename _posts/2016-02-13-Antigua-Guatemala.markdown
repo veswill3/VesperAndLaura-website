@@ -8,9 +8,8 @@ visitinfo:
     end: 2016-02-12
 tags: [Central-America, Guatemala]
 image:
-  feature: /antigua/volcano_sunset.jpg
-  credit:
-  creditlink:
+    feature: /antigua/volcano_sunset.jpg
+    credit: The view from Pacaya volcano
 ---
 
 Laura clearly wrote this title, as after a week spent in Spanish school, Vesper knows it should read "devenir fluido en español." Vesper has spent the last five mornings attending Spanish classes at the [Antiguena Spanish Academy](http://www.spanishacademyantiguena.com/) to help improve upon what he’s learned so far using [Duolingo](http://www.duolingo.com/), and he hopefully learned enough to get us through the rest of Central and South America. I’m sure he’ll be awesome! Especially since I know nothing other than "mi nombre es Laura," "¿Donde está la biblioteca?," and a smattering of numbers. 

@@ -9,9 +9,7 @@ visitinfo:
     end: 2016-04-16
 tags: [South-America, Bolivia]
 image:
-  feature: /la_paz/death_road.jpg
-  credit: 
-  creditlink:
+    feature: /la_paz/death_road.jpg
 ---
 
 We arrived in La Paz late one evening after a three hour bus ride from Copacabana. We had only booked one night at a hostel, but ended up staying in the city for four days to explore and bike down Death Road. 

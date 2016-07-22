@@ -5,9 +5,7 @@ description: "A recap of the third month of our trip around the world."
 modified: 2016-04-22
 tags: [Review]
 image:
-  feature: three-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: three-month-feature-photo.jpg
 ---
 
 We’ve made it to Chile! Get excited for posts to come about Bolivia; the internet there was atrocious so we need to catch up. For now, enjoy our month three observations! In the last month we have traveled to nine cities in three countries: [Lima]({% post_url 2016-03-31-Lima-Peru %}), [Ica]({% post_url 2016-04-06-Ica-Peru %}), [Arequipa]({% post_url 2016-04-09-Arequipa-Peru %}), and [Puno]({% post_url 2016-04-16-Lake-Titicaca %}) in Peru; [Copacabana]({% post_url 2016-04-16-Lake-Titicaca %}), [La Paz]({% post_url 2016-04-25-La-Paz-Bolivia %}), [Sucre]({% post_url 2016-04-25-Sucre-Bolivia %}), [Uyuni and the salt flats]({% post_url 2016-05-04-Salt-Flats %}) in Bolivia; and [San Pedro de Atacama]({% post_url 2016-05-06-Valparaiso-Chile %}) in Chile. 

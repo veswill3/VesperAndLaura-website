@@ -8,7 +8,8 @@ visitinfo:
     end: 2016-05-21
 tags: [South-America, Argentina, Hiking]
 image:
-  feature: /calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg
+    feature: /calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg
+    credit: Monte Fitz Roy
 ---
 
 After our flight from [Ushuaia]({% post_url 2016-06-07-Ushuaia-Argentina %}), we wrapped up Vesper’s birthday with some pizza and beer in the small town of El Calafate. The big attraction there is the Perito Moreno Glacier located in the Los Glaciares National Park. We spent one day at the glacier before heading three hours north to El Chaltén for three days of hiking. These two places were insanely scenic, providing the picturesque Patagonia we expected in Ushuaia but happily found here.

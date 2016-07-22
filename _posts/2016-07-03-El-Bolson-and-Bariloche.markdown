@@ -8,7 +8,8 @@ visitinfo:
     end: 2016-6-19
 tags: [South-America, Argentina, Beer]
 image:
-  feature: /bolson_bariloche/cerro_campanario_pano.jpg
+    feature: /bolson_bariloche/cerro_campanario_pano.jpg
+    credit: The view from Cerro Campanario
 ---
 
 After we wrapped up our workaway, we took a series of buses from Coyhaique, Chile back to Argentina and the hippy town of El Bolsón. We had learned about this city from Laura’s dad, who heard that it was full of microbreweries. A perfect transition after leaving our workaway brewery! After trying the beer in El Bolsón, we headed north to Bariloche in the heart of the Lake District. 

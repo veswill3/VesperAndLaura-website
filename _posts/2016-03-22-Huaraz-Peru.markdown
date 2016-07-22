@@ -9,9 +9,7 @@ visitinfo:
     end: 2016-03-21
 tags: [South-America, Peru, Beer, Food, Hiking]
 image:
-  feature: /huaraz/top_of_wilcacocha.jpg
-  credit: 
-  creditlink: 
+    feature: /huaraz/top_of_wilcacocha.jpg
 ---
 
 We had heard from numerous travelers that we had to go to the small town of Huaraz to do the Santa Cruz trek and check out its beer scene. Located about 8 hours north of Lima, Huaraz is a hiking mecca with its beautiful snowcapped mountains (some of the highest in Peru and the world's highest tropical mountain range) in Huascarán National Park. We arrived in Huaraz on Monday after another overnight bus, this time to a [hostel](http://www.galaxiahotel.com/ingles/) with awesome wifi! We actually specifically searched reviews to find a place with a reliable internet connection since so many of the places we’ve stayed at have had crappy wifi, and we really needed to catch up on our emails, blog posts, and syncing our pictures to the cloud. 

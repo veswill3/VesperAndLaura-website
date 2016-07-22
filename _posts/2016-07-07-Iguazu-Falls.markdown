@@ -8,7 +8,7 @@ visitinfo:
     end: 2016-6-22
 tags: [South-America, Argentina, Brazil]
 image:
-  feature: /iguazu/iguazu_pano3.jpg
+    feature: /iguazu/iguazu_pano3.jpg
 ---
 
 We had heard from everyone that if we were going to visit Argentina, we had to go to Iguazu Falls. The waterfalls are located on the Iguazu River, which acts as the border of Argentina and Brazil. We didn’t know this before arriving, but we found out that Iguazu is [the largest waterfalls system in the world](https://en.wikipedia.org/wiki/Iguazu_Falls)! It’s taller than Niagra Falls and wider than Victoria Falls, although since Iguazu is split up into many different waterfalls and islands, Victoria Falls technically has the largest curtain of water in the world… but who cares? Iguazu is awesome!

@@ -8,9 +8,8 @@ visitinfo:
     end: 2016-02-17
 tags: [South-America, Colombia, Beer]
 image:
-  feature: /bogota/monserrate_pano.jpg
-  credit:
-  creditlink:
+    feature: /bogota/monserrate_pano.jpg
+    credit: The view from Monserrate
 ---
 
 We knew Colombia was going to be a whirlwind visit since we were rushing to Ecuador to meet our friend Clark, but that didn't stop us from doing our best to take in as much of Bogotá as we could.

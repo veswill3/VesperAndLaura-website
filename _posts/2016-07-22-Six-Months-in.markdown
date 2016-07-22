@@ -5,9 +5,8 @@ description: "A recap of the sixth month of our trip around the world."
 modified: 2016-07-22
 tags: [Review, Scandinavia]
 image:
-  feature: six-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: six-month-feature-photo.jpg
+    credit: Paneling inside Oslo's Opera House
 ---
 
 It’s crazy to think that we’ve been traveling for six months already. That’s half a year! We’ve been telling everyone we’d be traveling for about a year, but at this rate we might be gone longer since we’re only on our second continent. Let's see how long we can stretch that budget...

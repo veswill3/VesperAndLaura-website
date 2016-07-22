@@ -5,9 +5,7 @@ description: "A recap of the first month of our trip around the world."
 modified: 2016-02-22
 tags: [Review]
 image:
-  feature: one-month-feature-photo.jpg
-  credit: 
-  creditlink: 
+    feature: one-month-feature-photo.jpg
 ---
 
 First things first, happy birthday (Vesper’s) Dad and Lehar!

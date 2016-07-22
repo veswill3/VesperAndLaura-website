@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-01-26
 tags: [Caribbean, North-America]
 image:
-  feature: /st_martin/beach_with_moon.jpg
-  credit: Vesper
-  creditlink:
+    feature: /st_martin/beach_with_moon.jpg
 ---
 
 Although our original plan was to start our year abroad in Mexico City, last weekend we spent a whirlwind four days in St. Martin to celebrate our friend’s thirtieth birthday. We said goodbye to America far too early on Friday morning to start our travels. Of course we ended up running through the Atlanta airport to barely make our connecting flight. Nothing like beginning a marathon trip with a sprint!

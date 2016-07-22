@@ -5,9 +5,9 @@ description: "It took us a while to figure out what we wanted to do, but we had 
 modified: 2015-12-14
 tags: []
 image:
-  feature: wedding-dip.jpg
-  credit: Kyle Bursaw and Romulo Morishita / Red Wave Pictures
-  creditlink: http://redwaveweddings.com/
+    feature: wedding-dip.jpg
+    credit: Kyle Bursaw and Romulo Morishita / Red Wave Pictures
+    creditlink: http://redwaveweddings.com/
 ---
 
 Our wedding day was perfect for the two of us. We heard several comments of "Finally!" when we announced a date this fall, and several times at the reception itself. These outbursts were not necessarily due to the fact that we had been dating or engaged for a ridiculous amount of time, but more so that we had been engaged for 8 months and hadn't put one ounce of effort into planning our wedding. This, however, was due largely to two things: Vesper hates planning, and while I consider myself the queen bee of planning, hated my job and the last thing I wanted to do on my weekends was do more "work." So, really, we're both to blame.

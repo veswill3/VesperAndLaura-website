@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-03-07
 tags: [South-America, Ecuador, Food]
 image:
-  feature: /cuenca/top_of_cathedral_with_laura.jpg
-  credit: 
-  creditlink:
+    feature: /cuenca/top_of_cathedral_with_laura.jpg
 ---
 
 Or at least, everything seemed to be closed. We had heard many good things about Cuenca, but apparently Sunday and Monday were the worst days to visit.

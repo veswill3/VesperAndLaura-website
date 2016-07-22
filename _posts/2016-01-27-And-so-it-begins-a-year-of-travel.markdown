@@ -4,10 +4,6 @@ title: And so it begins&#58; A Year of Travel
 description: "Our year of travel has finally begun"
 modified: 2016-01-27
 tags: [Review]
-image:
-  feature:
-  credit:
-  creditlink:
 ---
 
 After a short four-day jaunt in St. Maarten and a brief layover in Panama City we have finally arrived in Mexico City! Our year of travel has finally begun and we could not be more excited.

@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-02-07
 tags: [Central-America, Guatemala]
 image:
-  feature: /lake_atitlan/boats_on_the_lake.jpg
-  credit:
-  creditlink:
+    feature: /lake_atitlan/boats_on_the_lake.jpg
 ---
 
 Ok, so it was more like 36 hours on the lake, but at least it was beautiful! We arrived in Guatemala City around 10 am last Friday and had a shuttle coming to pick us up around 11. In reality it arrived around 12:30, and with the other stops and our driver getting lost, we didn’t make it to Panajachel until a little after 5 pm that night. So much for having Friday to explore!

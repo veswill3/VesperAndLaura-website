@@ -8,9 +8,7 @@ visitinfo:
     end: 2016-02-22
 tags: [South-America, Ecuador, Beer, Food]
 image:
-  feature: /quito/plaza_grande.jpg
-  credit:
-  creditlink:
+    feature: /quito/plaza_grande.jpg
 ---
 
 After our quick trip to [Bogotá]({% post_url 2016-02-19-Bogota-Colombia %}), we boarded a super cheap flight to Quito late last Wednesday. Our friend Clark was arriving midday Friday, so we spent Thursday doing our hostel's free walking tour and researching activities for the next 2-3 weeks we plan to spend in Ecuador.

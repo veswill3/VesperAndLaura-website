@@ -8,7 +8,8 @@ visitinfo:
     end: 2016-6-12
 tags: [South-America, Chile, Beer, Hiking]
 image:
-  feature: /around_coyhaique/laguna_cerro_castillo_pano2.jpg
+    feature: /around_coyhaique/laguna_cerro_castillo_pano2.jpg
+    credit: Laguna Cerro Castillo
 ---
 
 Apart from participating in the beer making process during our three weeks at our workaway, we also had the chance to explore the surrounding [Aysén Region](https://en.wikipedia.org/wiki/Ays%C3%A9n_Region). It is one of the least populated regions in Chile, but has beautiful Patagonian scenery popular with tourists in the summer months (November-March). [Cerveza Caiquén](https://www.facebook.com/Cerveza-Artesanal-Caiqu%C3%A9n-220921524665487/) (our workaway brewery) is located in the region’s capital of Coyhaique. We also visited the tiny towns of Rio Tranquilo and Villa Cerro Castillo on our days off and had side trips to a couple family farms and national parks. 
