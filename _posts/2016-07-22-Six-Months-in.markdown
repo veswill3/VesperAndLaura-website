@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six Months of Traveling Complete
-description: "A recap of the Sixth month of our trip around the world."
+description: "A recap of the sixth month of our trip around the world."
 modified: 2016-07-22
 tags: [Review, Scandinavia]
 image:
