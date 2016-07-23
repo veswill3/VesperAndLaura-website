@@ -82,5 +82,5 @@ Despite a few expensive flights and fun splurges, we’re under budget! This is 
 - Craft beer is surprisingly expensive, but as we learned over and over again, this is usually due to the difficulty and cost of getting all the necessary brewing supplies down here.
 - From the few times we flew, we were almost always given free meals (even if the flight was only an hour) and free checked bags - unlike US airlines where you’re lucky to get anything for free.
 
-As a bonus, here is a quick video compilation of our time in South America:
+As a bonus, here is a quick video compilation of our time in South America where I try really hard not to look at the camera:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P3_q9WsNDFI" frameborder="0" allowfullscreen></iframe>
