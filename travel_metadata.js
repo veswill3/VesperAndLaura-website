@@ -1267,7 +1267,9 @@ travel_log = [
         "latLng": [55.67609, 12.56833],
         "dates_visited": "2016-7-3:2016-7-6",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Copenhagen-Denmark",
+        "image_path": "copenhagen/nyhavn.jpg"
     },
     {
         "name": "Oslo",

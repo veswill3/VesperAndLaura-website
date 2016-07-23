@@ -305,6 +305,11 @@
             "info": "View from Christ the Redeemer in Rio de Janeiro, Brazil",
             "link": "Rio-de-Janeiro-Brazil"
         },
+        {
+            "path": "copenhagen/nyhavn.jpg",
+            "info": "Nyhavn canal in Copenhagen, Denmark",
+            "link": "Copenhagen-Denmark"
+        },
         // {
         //     "path": "",
         //     "info": "",
