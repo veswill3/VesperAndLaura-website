@@ -1277,7 +1277,9 @@ travel_log = [
         "latLng": [59.91386, 10.75224],
         "dates_visited": "2016-7-7:2016-7-9,2016-7-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Norway",
+        "image_path": "norway/scream.jpg"
     },
     {
         "name": "Stavanger",
@@ -1285,7 +1287,9 @@ travel_log = [
         "latLng": [58.96997, 5.7331],
         "dates_visited": "2016-7-10:2016-7-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Norway",
+        "image_path": "norway/holmegate.jpg"
     },
     {
         "name": "Pulpit Rock",
@@ -1293,7 +1297,9 @@ travel_log = [
         "latLng": [58.98712, 6.18877],
         "dates_visited": "2016-7-10",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Stavanger",
+        "blog_url": "Norway",
+        "image_path": "norway/pulpit_rock_looking_over.jpg"
     },
     {
         "name": "Bergen",
@@ -1301,7 +1307,9 @@ travel_log = [
         "latLng": [60.39126, 5.32205],
         "dates_visited": "2016-7-11:2016-7:13",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Norway",
+        "image_path": "norway/funicular.jpg"
     },
     {
         "name": "Stockholm",

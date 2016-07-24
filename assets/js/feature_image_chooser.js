@@ -310,6 +310,21 @@
             "info": "Nyhavn canal in Copenhagen, Denmark",
             "link": "Copenhagen-Denmark"
         },
+        {
+            "path": "norway/frogner_wide.jpg",
+            "info": "Frogner park in Oslo, Norway",
+            "link": "Norway"
+        },
+        {
+            "path": "norway/overlooking_bergen2_pano.jpg",
+            "info": "Bergen, Norway",
+            "link": "Norway"
+        },
+        // {
+        //     "path": "norway/overlooking_bergen_pano.jpg",
+        //     "info": "Bergen, Norway",
+        //     "link": "Norway"
+        // },
         // {
         //     "path": "",
         //     "info": "",
