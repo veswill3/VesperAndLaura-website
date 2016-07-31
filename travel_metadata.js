@@ -1323,7 +1323,87 @@ travel_log = [
         "name": "Vienna",
         "country_name": "Austria",
         "latLng": [48.20817, 16.37381],
-        "dates_visited": "2016-7-18",
+        "dates_visited": "2016-7-18:2016-7-27",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Gmunden",
+        "country_name": "Austria",
+        "latLng": [47.91839, 13.79933],
+        "dates_visited": "2016-7-27",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Bad Ischl",
+        "country_name": "Austria",
+        "latLng": [47.71238, 13.62094],
+        "dates_visited": "2016-7-27",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Hallstatt",
+        "country_name": "Austria",
+        "latLng": [47.56223, 13.64926],
+        "dates_visited": "2016-7-27",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Napplach",
+        "country_name": "Austria",
+        "latLng": [46.88533, 13.2653],
+        "dates_visited": "2016-7-27:2016-7-29",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Seebachtal Hike",
+        "country_name": "Austria",
+        "latLng": [47.01666, 13.2000],
+        "dates_visited": "2016-7-28",
+        "add_to_map": true,
+        "area_group": "Napplach"
+    },
+    {
+        "name": "Lake Bled",
+        "country_name": "Slovenia",
+        "latLng": [46.36831, 14.10829],
+        "dates_visited": "2016-7-29",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Lake Bohinj",
+        "country_name": "Slovenia",
+        "latLng": [46.27833, 13.88508],
+        "dates_visited": "2016-7-29",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Brezje",
+        "country_name": "Slovenia",
+        "latLng": [46.32869, 14.23273],
+        "dates_visited": "2016-7-29",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Rijeka",
+        "country_name": "Croatia",
+        "latLng": [45.32706, 14.44217],
+        "dates_visited": "2016-7-30",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Šilo",
+        "country_name": "Croatia",
+        "latLng": [45.1456, 14.66225],
+        "dates_visited": "2016-7-30",
         "add_to_map": true,
         "area_group": true
     }
