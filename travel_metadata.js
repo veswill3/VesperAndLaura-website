@@ -1403,7 +1403,55 @@ travel_log = [
         "name": "Šilo",
         "country_name": "Croatia",
         "latLng": [45.1456, 14.66225],
-        "dates_visited": "2016-7-30",
+        "dates_visited": "2016-7-30:2016-7-31",
+        "add_to_map": true,
+        "area_group": "Krk"
+    },
+    {
+        "name": "Vrbnik",
+        "country_name": "Croatia",
+        "latLng": [45.07572, 14.67525],
+        "dates_visited": "2016-8-1",
+        "add_to_map": true,
+        "area_group": "Krk"
+    },
+    {
+        "name": "Krk town",
+        "country_name": "Croatia",
+        "latLng": [45.02789, 14.57521],
+        "dates_visited": "2016-8-1",
+        "add_to_map": true,
+        "area_group": "Krk"
+    },
+    {
+        "name": "Soline Bay",
+        "country_name": "Croatia",
+        "latLng": [45.15018, 14.59959],
+        "dates_visited": "2016-8-1",
+        "add_to_map": true,
+        "area_group": "Krk"
+    },
+    {
+        "name": "Čatrnja",
+        "country_name": "Croatia",
+        "latLng": [44.95176, 15.64799],
+        "dates_visited": "2016-8-1:2016-8-2",
+        "add_to_map": true,
+        "area_group": "Plitvice"
+    },
+    {
+        "name": "Plitvice Lakes National Park",
+        "country_name": "Croatia",
+        "latLng": [44.86539, 15.58201],
+        "dates_visited": "2016-8-2",
+        "add_to_map": true,
+        "area_group": "Plitvice"
+    },
+    {
+        "name": "Zagreb",
+        "country_name": "Croatia",
+        "latLng": [45.81501, 15.98191],
+        "dates_visited": "2016-8-3",
         "add_to_map": true,
         "area_group": true
     }
