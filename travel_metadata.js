@@ -1317,7 +1317,9 @@ travel_log = [
         "latLng": [59.32932, 18.06858],
         "dates_visited": "2016-7-14:2016-7-18",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Stockholm-Sweden",
+        "image_path": "stockholm/colorfull_buildings.jpg"
     },
     {
         "name": "Vienna",
