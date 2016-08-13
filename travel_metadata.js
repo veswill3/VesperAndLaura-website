@@ -1456,6 +1456,30 @@ travel_log = [
         "dates_visited": "2016-8-3",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Dubrovnik",
+        "country_name": "Croatia",
+        "latLng": [42.65066, 18.09442],
+        "dates_visited": "2016-8-5:2016-8-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Split",
+        "country_name": "Croatia",
+        "latLng": [43.50813, 16.44019],
+        "dates_visited": "2016-8-8:2016-8-13",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Zadar",
+        "country_name": "Croatia",
+        "latLng": [44.11937, 15.23136],
+        "dates_visited": "2016-8-13",
+        "add_to_map": true,
+        "area_group": true
     }
     // ,
     // {
