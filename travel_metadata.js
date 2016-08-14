@@ -1474,6 +1474,14 @@ travel_log = [
         "area_group": true
     },
     {
+        "name": "Šolta",
+        "country_name": "Croatia",
+        "latLng": [43.37, 16.30999],
+        "dates_visited": "2016-8-11",
+        "add_to_map": true,
+        "area_group": "Split"
+    },
+    {
         "name": "Zadar",
         "country_name": "Croatia",
         "latLng": [44.11937, 15.23136],
