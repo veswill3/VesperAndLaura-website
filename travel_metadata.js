@@ -1453,7 +1453,7 @@ travel_log = [
         "name": "Zagreb",
         "country_name": "Croatia",
         "latLng": [45.81501, 15.98191],
-        "dates_visited": "2016-8-3",
+        "dates_visited": "2016-8-3:2016-8-5,2016-8-15",
         "add_to_map": true,
         "area_group": true
     },
@@ -1485,7 +1485,23 @@ travel_log = [
         "name": "Zadar",
         "country_name": "Croatia",
         "latLng": [44.11937, 15.23136],
-        "dates_visited": "2016-8-13",
+        "dates_visited": "2016-8-13:2016-8-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Budapest",
+        "country_name": "Hungary",
+        "latLng": [47.49791, 19.04023],
+        "dates_visited": "2016-8-15:2016-8-21",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Kraków",
+        "country_name": "Poland",
+        "latLng": [50.06465, 19.94497],
+        "dates_visited": "2016-8-22",
         "add_to_map": true,
         "area_group": true
     }
