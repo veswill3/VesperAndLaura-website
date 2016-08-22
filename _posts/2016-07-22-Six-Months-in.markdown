@@ -11,7 +11,7 @@ image:
 
 It’s crazy to think that we’ve been traveling for six months already. That’s half a year! We’ve been telling everyone we’d be traveling for about a year, but at this rate we might be gone longer since we’re only on our second continent. Let's see how long we can stretch that budget...
 
-In the last month we have traveled to seven cities in five countries: [Rio de Janeiro, Brazil]({% post_url 2016-07-09-Rio-de-Janeiro-Brazil %}); [Copenhagen]({% post_url 2016-07-23-Copenhagen-Denmark %}), Denmark; Oslo, Stavanger, and Bergen in Norway; Stockholm, Sweden; and Vienna, Austria. We had to move pretty fast through expensive Scandinavia so look for posts on these places soon.
+In the last month we have traveled to seven cities in five countries: [Rio de Janeiro, Brazil]({% post_url 2016-07-09-Rio-de-Janeiro-Brazil %}); [Copenhagen]({% post_url 2016-07-23-Copenhagen-Denmark %}), Denmark; [Oslo, Stavanger, and Bergen]({% post_url 2016-07-24-Norway %}) in Norway; [Stockholm]({% post_url 2016-08-04-Stockholm-Sweden %}), Sweden; and Vienna, Austria. We had to move pretty fast through expensive Scandinavia so look for posts on these places soon.
 
 ### Month 6 and Scandinavia Observations
 
