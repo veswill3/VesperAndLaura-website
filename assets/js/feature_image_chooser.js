@@ -324,12 +324,27 @@
             "path": "norway/overlooking_bergen_pano.jpg",
             "info": "Bergen, Norway",
             "link": "Norway"
+        },
+        {
+            "path": "stockholm/overlooking_stockholm_pano.jpg",
+            "info": "Stockholm, Sweden",
+            "link": "Stockholm-Sweden"
+        },
+        {
+            "path": "austria_slovenia/butterfly_house.jpg",
+            "info": "The Imperial Butterfly House in Vienna, Austria",
+            "link": "Austria-and-Slovenia"
+        },
+        {
+            "path": "austria_slovenia/hallstatt_village.jpg",
+            "info": "Hallstatt Village, Austria",
+            "link": "Austria-and-Slovenia"
         }
         // ,
         // {
-        //     "path": "stockholm/overlooking_stockholm_pano.jpg",
-        //     "info": "Stockholm, Sweden",
-        //     "link": "Stockholm-Sweden"
+        //     "path": "austria_slovenia/lake_bohinj.jpg",
+        //     "info": "Lake Bohinj, Slovenia",
+        //     "link": "Austria-and-Slovenia"
         // }
         // ,
         // {

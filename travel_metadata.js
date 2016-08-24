@@ -1327,7 +1327,9 @@ travel_log = [
         "latLng": [48.20817, 16.37381],
         "dates_visited": "2016-7-18:2016-7-27",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/kasekrainer.jpg"
     },
     {
         "name": "Gmunden",
@@ -1335,7 +1337,8 @@ travel_log = [
         "latLng": [47.91839, 13.79933],
         "dates_visited": "2016-7-27",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia"
     },
     {
         "name": "Bad Ischl",
@@ -1343,7 +1346,8 @@ travel_log = [
         "latLng": [47.71238, 13.62094],
         "dates_visited": "2016-7-27",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia"
     },
     {
         "name": "Hallstatt",
@@ -1351,7 +1355,9 @@ travel_log = [
         "latLng": [47.56223, 13.64926],
         "dates_visited": "2016-7-27",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/hallstatt_village.jpg"
     },
     {
         "name": "Napplach",
@@ -1359,7 +1365,9 @@ travel_log = [
         "latLng": [46.88533, 13.2653],
         "dates_visited": "2016-7-27:2016-7-29",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/garden.jpg"
     },
     {
         "name": "Seebachtal Hike",
@@ -1367,7 +1375,9 @@ travel_log = [
         "latLng": [47.01666, 13.2000],
         "dates_visited": "2016-7-28",
         "add_to_map": true,
-        "area_group": "Napplach"
+        "area_group": "Napplach",
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/hike_selfie.jpg"
     },
     {
         "name": "Lake Bled",
@@ -1375,7 +1385,9 @@ travel_log = [
         "latLng": [46.36831, 14.10829],
         "dates_visited": "2016-7-29",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/lake_bled_island.jpg"
     },
     {
         "name": "Lake Bohinj",
@@ -1383,7 +1395,9 @@ travel_log = [
         "latLng": [46.27833, 13.88508],
         "dates_visited": "2016-7-29",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia",
+        "image_path": "austria_slovenia/lake_bohinj.jpg"
     },
     {
         "name": "Brezje",
@@ -1391,7 +1405,8 @@ travel_log = [
         "latLng": [46.32869, 14.23273],
         "dates_visited": "2016-7-29",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Austria-and-Slovenia"
     },
     {
         "name": "Rijeka",
