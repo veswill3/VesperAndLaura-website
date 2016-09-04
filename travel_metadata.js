@@ -1559,6 +1559,30 @@ travel_log = [
         "dates_visited": "2016-9-3:2016-9-4",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Old Bushmills Distillery",
+        "country_name": "United Kingdom",
+        "latLng": [55.20285, -6.51722],
+        "dates_visited": "2016-9-4",
+        "add_to_map": true,
+        "area_group": "Bushmills"
+    },
+    {
+        "name": "Giant's Causeway",
+        "country_name": "United Kingdom",
+        "latLng": [55.2408, -6.51155],
+        "dates_visited": "2016-9-4",
+        "add_to_map": true,
+        "area_group": "Bushmills"
+    },
+    {
+        "name": "Coleraine",
+        "country_name": "United Kingdom",
+        "latLng": [55.13258, -6.66461],
+        "dates_visited": "2016-9-4",
+        "add_to_map": true,
+        "area_group": "Bushmills"
     }
     // ,
     // {
