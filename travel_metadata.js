@@ -1516,7 +1516,47 @@ travel_log = [
         "name": "Kraków",
         "country_name": "Poland",
         "latLng": [50.06465, 19.94497],
-        "dates_visited": "2016-8-22",
+        "dates_visited": "2016-8-22:2016-8-28",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Warsaw",
+        "country_name": "Poland",
+        "latLng": [52.22967, 21.01222],
+        "dates_visited": "2016-8-29:2016-9-1",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Donegal",
+        "country_name": "Ireland",
+        "latLng": [54.65489, -8.10409],
+        "dates_visited": "2016-9-2",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Slieve League",
+        "country_name": "Ireland",
+        "latLng": [54.64009, -8.68219],
+        "dates_visited": "2016-9-3",
+        "add_to_map": true,
+        "area_group": "Donegal"
+    },
+    {
+        "name": "Glenveagh National Park",
+        "country_name": "Ireland",
+        "latLng": [55.00834, -7.98673],
+        "dates_visited": "2016-9-3",
+        "add_to_map": true,
+        "area_group": "Donegal"
+    },
+    {
+        "name": "Londonderry",
+        "country_name": "United Kingdom",
+        "latLng": [54.99661, -7.30857],
+        "dates_visited": "2016-9-3:2016-9-4",
         "add_to_map": true,
         "area_group": true
     }
