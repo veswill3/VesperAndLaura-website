@@ -1554,7 +1554,7 @@ travel_log = [
     },
     {
         "name": "Londonderry",
-        "country_name": "United Kingdom",
+        "country_name": "Northern Ireland (UK)",
         "latLng": [54.99661, -7.30857],
         "dates_visited": "2016-9-3:2016-9-4",
         "add_to_map": true,
@@ -1562,7 +1562,7 @@ travel_log = [
     },
     {
         "name": "Old Bushmills Distillery",
-        "country_name": "United Kingdom",
+        "country_name": "Northern Ireland (UK)",
         "latLng": [55.20285, -6.51722],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
@@ -1570,7 +1570,7 @@ travel_log = [
     },
     {
         "name": "Giant's Causeway",
-        "country_name": "United Kingdom",
+        "country_name": "Northern Ireland (UK)",
         "latLng": [55.2408, -6.51155],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
@@ -1578,11 +1578,51 @@ travel_log = [
     },
     {
         "name": "Coleraine",
-        "country_name": "United Kingdom",
+        "country_name": "Northern Ireland (UK)",
         "latLng": [55.13258, -6.66461],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
         "area_group": "Bushmills"
+    },
+    {
+        "name": "Ballintoy Harbour",
+        "country_name": "",
+        "latLng": [55.24449, -6.36882],
+        "dates_visited": "2016-9-5",
+        "add_to_map": true,
+        "area_group": "Causeway Coastal"
+    },
+    {
+        "name": "Rope Bridge",
+        "country_name": "Northern Ireland (UK)",
+        "latLng": [55.23994, -6.34911],
+        "dates_visited": "2016-9-5",
+        "add_to_map": true,
+        "area_group": "Causeway Coastal"
+    },
+    {
+        "name": "Murlough Bay",
+        "country_name": "Northern Ireland (UK)",
+        "latLng": [55.20882, -6.12998],
+        "dates_visited": "2016-9-5",
+        "add_to_map": true,
+        "area_group": "Causeway Coastal"
+    },
+    {
+        "name": "Caves of Cushendun",
+        "country_name": "Northern Ireland (UK)",
+        "latLng": [55.12417, -6.03722],
+        "dates_visited": "2016-9-5",
+        "add_to_map": true,
+        "area_group": "Causeway Coastal"
+    },
+    {
+        "name": "Belfast",
+        "country_name": "Northern Ireland (UK)",
+        "latLng": [54.59728, -5.93011],
+        "dates_visited": "2016-9-5",
+        "add_to_map": true,
+        "area_group": true
     }
     // ,
     // {
