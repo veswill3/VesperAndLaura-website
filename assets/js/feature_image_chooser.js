@@ -339,12 +339,22 @@
             "path": "austria_slovenia/hallstatt_village.jpg",
             "info": "Hallstatt Village, Austria",
             "link": "Austria-and-Slovenia"
+        },
+        {
+            "path": "austria_slovenia/lake_bohinj.jpg",
+            "info": "Lake Bohinj, Slovenia",
+            "link": "Austria-and-Slovenia"
+        },
+        {
+            "path": "croatia1/krk_town_pano.jpg",
+            "info": "Krk Town harbor, Krk Island Croatia",
+            "link": "Croatia-part-one"
         }
         // ,
         // {
-        //     "path": "austria_slovenia/lake_bohinj.jpg",
-        //     "info": "Lake Bohinj, Slovenia",
-        //     "link": "Austria-and-Slovenia"
+        //     "path": "croatia1/plitvice_waterfall_pano.jpg",
+        //     "info": "Plitvice Lakes National Park, Croatia",
+        //     "link": "Croatia-part-one"
         // }
         // ,
         // {

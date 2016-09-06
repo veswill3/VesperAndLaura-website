@@ -1422,7 +1422,9 @@ travel_log = [
         "latLng": [45.1456, 14.66225],
         "dates_visited": "2016-7-30:2016-7-31",
         "add_to_map": true,
-        "area_group": "Krk"
+        "area_group": "Krk",
+        "blog_url": "Croatia-part-one",
+        "image_path": "croatia1/silo_beach_dive.jpg"
     },
     {
         "name": "Vrbnik",
@@ -1430,7 +1432,8 @@ travel_log = [
         "latLng": [45.07572, 14.67525],
         "dates_visited": "2016-8-1",
         "add_to_map": true,
-        "area_group": "Krk"
+        "area_group": "Krk",
+        "blog_url": "Croatia-part-one"
     },
     {
         "name": "Krk town",
@@ -1438,7 +1441,9 @@ travel_log = [
         "latLng": [45.02789, 14.57521],
         "dates_visited": "2016-8-1",
         "add_to_map": true,
-        "area_group": "Krk"
+        "area_group": "Krk",
+        "blog_url": "Croatia-part-one",
+        "image_path": "croatia1/krk_town_pano.jpg"
     },
     {
         "name": "Soline Bay",
@@ -1446,7 +1451,9 @@ travel_log = [
         "latLng": [45.15018, 14.59959],
         "dates_visited": "2016-8-1",
         "add_to_map": true,
-        "area_group": "Krk"
+        "area_group": "Krk",
+        "blog_url": "Croatia-part-one",
+        "image_path": "croatia1/mud.jpg"
     },
     {
         "name": "Čatrnja",
@@ -1454,7 +1461,8 @@ travel_log = [
         "latLng": [44.95176, 15.64799],
         "dates_visited": "2016-8-1:2016-8-2",
         "add_to_map": true,
-        "area_group": "Plitvice"
+        "area_group": "Plitvice",
+        "blog_url": "Croatia-part-one"
     },
     {
         "name": "Plitvice Lakes National Park",
@@ -1462,7 +1470,9 @@ travel_log = [
         "latLng": [44.86539, 15.58201],
         "dates_visited": "2016-8-2",
         "add_to_map": true,
-        "area_group": "Plitvice"
+        "area_group": "Plitvice",
+        "blog_url": "Croatia-part-one",
+        "image_path": "croatia1/plitvice_above.jpg"
     },
     {
         "name": "Zagreb",
@@ -1470,7 +1480,9 @@ travel_log = [
         "latLng": [45.81501, 15.98191],
         "dates_visited": "2016-8-3:2016-8-5,2016-8-15",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Croatia-part-one",
+        "image_path": "croatia1/st_marks_church.jpg"
     },
     {
         "name": "Dubrovnik",
