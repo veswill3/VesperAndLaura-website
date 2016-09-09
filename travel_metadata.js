@@ -1635,6 +1635,38 @@ travel_log = [
         "dates_visited": "2016-9-5",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Dublin",
+        "country_name": "Ireland",
+        "latLng": [53.3498, -6.2603],
+        "dates_visited": "2016-9-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Galway",
+        "country_name": "Ireland",
+        "latLng": [53.27066, -9.05679],
+        "dates_visited": "2016-9-8",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Aughnanure Castle",
+        "country_name": "Ireland",
+        "latLng": [53.41878, -9.27575],
+        "dates_visited": "2016-9-9",
+        "add_to_map": true,
+        "area_group": "Galway"
+    },
+    {
+        "name": "Kylemore Abbey",
+        "country_name": "Ireland",
+        "latLng": [53.56163, -9.88931],
+        "dates_visited": "2016-9-9",
+        "add_to_map": true,
+        "area_group": "Galway"
     }
     // ,
     // {
