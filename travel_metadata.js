@@ -1648,7 +1648,7 @@ travel_log = [
         "name": "Galway",
         "country_name": "Ireland",
         "latLng": [53.27066, -9.05679],
-        "dates_visited": "2016-9-8",
+        "dates_visited": "2016-9-8:2016-9-10",
         "add_to_map": true,
         "area_group": true
     },
@@ -1667,6 +1667,78 @@ travel_log = [
         "dates_visited": "2016-9-9",
         "add_to_map": true,
         "area_group": "Galway"
+    },
+    {
+        "name": "Dunguaire Castle",
+        "country_name": "Ireland",
+        "latLng": [53.14221, -8.92608],
+        "dates_visited": "2016-9-10",
+        "add_to_map": true,
+        "area_group": "Galway"
+    },
+    {
+        "name": "Poulnabrone Dolmen",
+        "country_name": "Ireland",
+        "latLng": [53.04868, -9.14005],
+        "dates_visited": "2016-9-10",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Leamaneh Castle",
+        "country_name": "Ireland",
+        "latLng": [52.9878, -9.13995],
+        "dates_visited": "2016-9-10",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Doolin",
+        "country_name": "Ireland",
+        "latLng": [53.01602, -9.37741],
+        "dates_visited": "2016-9-10",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Clifs of Moher",
+        "country_name": "Ireland",
+        "latLng": [52.97187, -9.42651],
+        "dates_visited": "2016-9-10",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Ennistimon",
+        "country_name": "Ireland",
+        "latLng": [52.94037, -9.29349],
+        "dates_visited": "2016-9-10:2016-9-11",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Quin Abbey",
+        "country_name": "Ireland",
+        "latLng": [52.8191, -8.86305],
+        "dates_visited": "2016-9-11",
+        "add_to_map": true,
+        "area_group": "Clare"
+    },
+    {
+        "name": "Limerick",
+        "country_name": "Ireland",
+        "latLng": [52.66802, -8.63049],
+        "dates_visited": "2016-9-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Dingle",
+        "country_name": "Ireland",
+        "latLng": [52.14093, -10.26401],
+        "dates_visited": "2016-9-11",
+        "add_to_map": true,
+        "area_group": true
     }
     // ,
     // {
