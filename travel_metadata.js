@@ -1736,7 +1736,111 @@ travel_log = [
         "name": "Dingle",
         "country_name": "Ireland",
         "latLng": [52.14093, -10.26401],
-        "dates_visited": "2016-9-11",
+        "dates_visited": "2016-9-11:2016-9-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Dingle Bay",
+        "country_name": "Ireland",
+        "latLng": [52.1216, -10.20853],
+        "dates_visited": "2016-9-12",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Garraun Point",
+        "country_name": "Ireland",
+        "latLng": [52.11045, -10.474],
+        "dates_visited": "2016-9-13",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Ballyferriter Village",
+        "country_name": "Ireland",
+        "latLng": [52.16615, -10.40598],
+        "dates_visited": "2016-9-13",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Gallarus Oratory",
+        "country_name": "Ireland",
+        "latLng": [52.17371, -10.35281],
+        "dates_visited": "2016-9-13",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Inch beach",
+        "country_name": "Ireland",
+        "latLng": [52.14272, -9.981],
+        "dates_visited": "2016-9-13",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Conor Pass",
+        "country_name": "Ireland",
+        "latLng": [52.18187, -10.20728],
+        "dates_visited": "2016-9-14",
+        "add_to_map": true,
+        "area_group": "Dingle"
+    },
+    {
+        "name": "Adare",
+        "country_name": "Ireland",
+        "latLng": [52.56452, -8.78971],
+        "dates_visited": "2016-9-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Dublin",
+        "country_name": "Ireland",
+        "latLng": [53.3498, -6.2603],
+        "dates_visited": "2016-9-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Edinburgh",
+        "country_name": "Scotland",
+        "latLng": [55.95325, -3.18826],
+        "dates_visited": "2016-9-15",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Inverness",
+        "country_name": "Scotland",
+        "latLng": [57.47777, -4.22472],
+        "dates_visited": "2016-9-15",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Rogi Falls",
+        "country_name": "Scotland",
+        "latLng": [57.58916, -4.60241],
+        "dates_visited": "2016-9-15",
+        "add_to_map": true,
+        "area_group": "Inverness"
+    },
+    {
+        "name": "Loch Achilty",
+        "country_name": "Scotland",
+        "latLng": [57.56982, -4.63105],
+        "dates_visited": "2016-9-15",
+        "add_to_map": true,
+        "area_group": "Inverness"
+    },
+    {
+        "name": "Lock Ness",
+        "country_name": "Scotland",
+        "latLng": [57.32285, -4.42438],
+        "dates_visited": "2016-9-16",
         "add_to_map": true,
         "area_group": true
     }
