@@ -1843,7 +1843,72 @@ travel_log = [
         "dates_visited": "2016-9-16",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Quiraing",
+        "country_name": "Scotland",
+        "latLng": [57.64361, -6.26527],
+        "dates_visited": "2016-9-16",
+        "add_to_map": true,
+        "area_group": "Portree"
+    },
+    {
+        "name": "Kilt Rock",
+        "country_name": "Scotland",
+        "latLng": [57.61319, -6.17896],
+        "dates_visited": "2016-9-16",
+        "add_to_map": true,
+        "area_group": "Portree"
+    },
+    {
+        "name": "Old Man of Storr",
+        "country_name": "Scotland",
+        "latLng": [57.50683, -6.17461],
+        "dates_visited": "2016-9-17",
+        "add_to_map": true,
+        "area_group": "Portree"
+    },
+    {
+        "name": "Cuillin Brewery",
+        "country_name": "Scotland",
+        "latLng": [57.28986, -6.17494],
+        "dates_visited": "2016-9-17",
+        "add_to_map": true,
+        "area_group": "Sligachan"
+    },
+    {
+        "name": "Sligachan Camping",
+        "country_name": "Scotland",
+        "latLng": [57.2925, -6.1754],
+        "dates_visited": "2016-9-17",
+        "add_to_map": true,
+        "area_group": "Sligachan"
+    },
+    {
+        "name": "Glenfinnan Viaduct",
+        "country_name": "Scotland",
+        "latLng": [56.8763, -5.43185],
+        "dates_visited": "2016-9-18",
+        "add_to_map": true,
+        "area_group": "Fort William"
+    },
+    {
+        "name": "Fort William",
+        "country_name": "Scotland",
+        "latLng": [56.81981, -5.10521],
+        "dates_visited": "2016-9-18",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Glen Nevis",
+        "country_name": "Scotland",
+        "latLng": [56.79221, -5.06042],
+        "dates_visited": "2016-9-18",
+        "add_to_map": true,
+        "area_group": "Fort William"
     }
+
     // ,
     // {
     //     "name": "",
