@@ -349,12 +349,22 @@
             "path": "croatia1/krk_town_pano.jpg",
             "info": "Krk Town harbor, Krk Island Croatia",
             "link": "Croatia-part-one"
+        },
+        {
+            "path": "croatia1/plitvice_waterfall_pano.jpg",
+            "info": "Plitvice Lakes National Park, Croatia",
+            "link": "Croatia-part-one"
+        },
+        {
+            "path": "croatia2/dubrovnik_pano2.jpg",
+            "info": "Old Town Dubrovnik, Croatia",
+            "link": "Croatia-part-two"
         }
         // ,
         // {
-        //     "path": "croatia1/plitvice_waterfall_pano.jpg",
-        //     "info": "Plitvice Lakes National Park, Croatia",
-        //     "link": "Croatia-part-one"
+        //     "path": "croatia2/dubrovnik_pano.jpg",
+        //     "info": "Old Town Dubrovnik, Croatia",
+        //     "link": "Croatia-part-two"
         // }
         // ,
         // {

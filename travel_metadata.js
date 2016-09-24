@@ -1490,7 +1490,9 @@ travel_log = [
         "latLng": [42.65066, 18.09442],
         "dates_visited": "2016-8-5:2016-8-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Croatia-part-two",
+        "image_path": "croatia2/dubrovnik_from_fort.jpg"
     },
     {
         "name": "Split",
@@ -1498,7 +1500,9 @@ travel_log = [
         "latLng": [43.50813, 16.44019],
         "dates_visited": "2016-8-8:2016-8-13",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Croatia-part-two",
+        "image_path": "croatia2/split_above.jpg"
     },
     {
         "name": "Šolta",
@@ -1506,7 +1510,9 @@ travel_log = [
         "latLng": [43.37, 16.30999],
         "dates_visited": "2016-8-11",
         "add_to_map": true,
-        "area_group": "Split"
+        "area_group": "Split",
+        "blog_url": "Croatia-part-two",
+        "image_path": "croatia2/solta_beach_cove.jpg"
     },
     {
         "name": "Zadar",
@@ -1514,7 +1520,9 @@ travel_log = [
         "latLng": [44.11937, 15.23136],
         "dates_visited": "2016-8-13:2016-8-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Croatia-part-two",
+        "image_path": "croatia2/zadar_crowd.jpg"
     },
     {
         "name": "Budapest",
