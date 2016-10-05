@@ -1530,7 +1530,9 @@ travel_log = [
         "latLng": [47.49791, 19.04023],
         "dates_visited": "2016-8-15:2016-8-21",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Budapest-Hungary",
+        "image_path": "budapest/parliament_at_night.jpg"
     },
     {
         "name": "Kraków",

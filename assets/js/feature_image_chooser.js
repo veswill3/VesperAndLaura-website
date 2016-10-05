@@ -359,12 +359,32 @@
             "path": "croatia2/dubrovnik_pano2.jpg",
             "info": "Old Town Dubrovnik, Croatia",
             "link": "Croatia-part-two"
+        },
+        {
+            "path": "croatia2/dubrovnik_pano.jpg",
+            "info": "Old Town Dubrovnik, Croatia",
+            "link": "Croatia-part-two"
+        },
+        {
+            "path": "budapest/danube_above_pano.jpg",
+            "info": "Looking out over the Danube river in Budapest, Hungary",
+            "link": "Budapest-Hungary"
+        },
+        {
+            "path": "budapest/budapest_central_market_pano.jpg",
+            "info": "Great Market Hall in Budapest, Hungary",
+            "link": "Budapest-Hungary"
+        },
+        {
+            "path": "budapest/danube_from_buda_castle_pano.jpg",
+            "info": "Looking out over the Danube river from Buda Castle in Budapest, Hungary",
+            "link": "Budapest-Hungary"
         }
         // ,
         // {
-        //     "path": "croatia2/dubrovnik_pano.jpg",
-        //     "info": "Old Town Dubrovnik, Croatia",
-        //     "link": "Croatia-part-two"
+        //     "path": "budapest/parliament_at_night.jpg",
+        //     "info": "Hungarian Parliament at night in Budapest, Hungary",
+        //     "link": "Budapest-Hungary"
         // }
         // ,
         // {
