@@ -1917,6 +1917,206 @@ travel_log = [
         "dates_visited": "2016-9-18",
         "add_to_map": true,
         "area_group": "Fort William"
+    },
+    {
+        "name": "Three Sisters",
+        "country_name": "Scotland",
+        "latLng": [56.66781, -4.9865],
+        "dates_visited": "2016-9-19",
+        "add_to_map": true,
+        "area_group": "Glencoe"
+    },
+    {
+        "name": "Falloch Falls",
+        "country_name": "Scotland",
+        "latLng": [56.34893, -4.69449],
+        "dates_visited": "2016-9-19",
+        "add_to_map": true,
+        "area_group": "Loch Lomond"
+    },
+    {
+        "name": "The Drovers Inn",
+        "country_name": "Scotland",
+        "latLng": [56.32838, -4.72164],
+        "dates_visited": "2016-9-19",
+        "add_to_map": true,
+        "area_group": "Loch Lomond"
+    },
+    {
+        "name": "Loch Lomond campsite",
+        "country_name": "Scotland",
+        "latLng": [56.10519, -4.63868],
+        "dates_visited": "2016-9-19",
+        "add_to_map": true,
+        "area_group": "Loch Lomond"
+    },
+    {
+        "name": "Edinburgh",
+        "country_name": "Scotland",
+        "latLng": [55.95325, -3.18826],
+        "dates_visited": "2016-9-20",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Munich",
+        "country_name": "Germany",
+        "latLng": [48.1351253, 11.581980599999952],
+        "dates_visited": "2016-9-20:2016-9-23",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Oktoberfest",
+        "country_name": "Germany",
+        "latLng": [48.1316, 11.54967],
+        "dates_visited": "2016-9-21",
+        "add_to_map": true,
+        "area_group": "Munich"
+    },
+    {
+        "name": "Karlsplatz",
+        "country_name": "Germany",
+        "latLng": [48.1396, 11.56594],
+        "dates_visited": "2016-9-22",
+        "add_to_map": true,
+        "area_group": "Munich"
+    },
+    {
+        "name": "Marienplatz",
+        "country_name": "Germany",
+        "latLng": [48.13739, 11.57544],
+        "dates_visited": "2016-9-22",
+        "add_to_map": true,
+        "area_group": "Munich"
+    },
+    {
+        "name": "Dachau Concentration Camp Memorial",
+        "country_name": "Germany",
+        "latLng": [48.27012, 11.46827],
+        "dates_visited": "2016-9-23",
+        "add_to_map": true,
+        "area_group": "Munich"
+    },
+    {
+        "name": "Interlaken",
+        "country_name": "Switzerland",
+        "latLng": [46.68634, 7.8632],
+        "dates_visited": "2016-9-23:2016-9-30",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Grindelwald",
+        "country_name": "Switzerland",
+        "latLng": [46.62416, 8.04139],
+        "dates_visited": "2016-9-24",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Lake Brienz",
+        "country_name": "Switzerland",
+        "latLng": [46.72674, 7.96747],
+        "dates_visited": "2016-9-25",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Bern",
+        "country_name": "Switzerland",
+        "latLng": [46.94797, 7.44744],
+        "dates_visited": "2016-9-26",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Mürren",
+        "country_name": "Switzerland",
+        "latLng": [46.55875, 7.89182],
+        "dates_visited": "2016-9-27",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Lauterbrunnen",
+        "country_name": "Switzerland",
+        "latLng": [46.5935, 7.90909],
+        "dates_visited": "2016-9-27",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Wengen",
+        "country_name": "Switzerland",
+        "latLng": [46.60543, 7.92153],
+        "dates_visited": "2016-9-27",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Männlichen",
+        "country_name": "Switzerland",
+        "latLng": [46.61814, 7.93806],
+        "dates_visited": "2016-9-27",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Kleine Scheidegg",
+        "country_name": "Switzerland",
+        "latLng": [46.585, 7.96111],
+        "dates_visited": "2016-9-28",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Jungfraujoch",
+        "country_name": "Switzerland",
+        "latLng": [46.54827, 7.98064],
+        "dates_visited": "2016-9-28",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Beatenberg",
+        "country_name": "Switzerland",
+        "latLng": [46.70354, 7.80955],
+        "dates_visited": "2016-9-29",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Schynige Platte",
+        "country_name": "Switzerland",
+        "latLng": [46.6562, 7.90693],
+        "dates_visited": "2016-9-29",
+        "add_to_map": true,
+        "area_group": "Interlaken"
+    },
+    {
+        "name": "Munich",
+        "country_name": "Germany",
+        "latLng": [48.1351253, 11.581980599999952],
+        "dates_visited": "2016-9-30",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Prague",
+        "country_name": "Czech Republic",
+        "latLng": [50.0755381, 14.437800499999982],
+        "dates_visited": "2016-9-30:2016-9-4",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Munich",
+        "country_name": "Germany",
+        "latLng": [48.1351253, 11.581980599999952],
+        "dates_visited": "2016-9-4:2016-9-9",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
