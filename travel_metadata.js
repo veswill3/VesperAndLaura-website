@@ -200,7 +200,7 @@ travel_log = [
     },
     {
         "name": "Brussels",
-        "country_name": "Beligum",
+        "country_name": "Belgium",
         "latLng": [50.8503396, 4.351710300000036],
         "dates_visited": "2015-7-4:2015-7-8",
         "add_to_map": true,
@@ -208,7 +208,7 @@ travel_log = [
     },
     {
         "name": "Bruges",
-        "country_name": "Beligum",
+        "country_name": "Belgium",
         "latLng": [51.209348, 3.2246995000000425],
         "dates_visited": "2015-7-8:2015-7-10",
         "add_to_map": true,
@@ -1543,6 +1543,30 @@ travel_log = [
         "area_group": true
     },
     {
+        "name": "Wieliczka Salt Mine",
+        "country_name": "Poland",
+        "latLng": [49.98347, 20.05379],
+        "dates_visited": "2016-8-25",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Auschwitz",
+        "country_name": "Poland",
+        "latLng": [50.02744, 19.20338],
+        "dates_visited": "2016-8-26",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Birkenau",
+        "country_name": "Poland",
+        "latLng": [50.03474, 19.17797],
+        "dates_visited": "2016-8-26",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
         "name": "Warsaw",
         "country_name": "Poland",
         "latLng": [52.22967, 21.01222],
@@ -1608,7 +1632,7 @@ travel_log = [
     },
     {
         "name": "Ballintoy Harbour",
-        "country_name": "",
+        "country_name": "Northern Ireland (UK)",
         "latLng": [55.24449, -6.36882],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
@@ -2106,7 +2130,7 @@ travel_log = [
         "name": "Prague",
         "country_name": "Czech Republic",
         "latLng": [50.0755381, 14.437800499999982],
-        "dates_visited": "2016-9-30:2016-9-4",
+        "dates_visited": "2016-9-30:2016-10-4",
         "add_to_map": true,
         "area_group": true
     },
@@ -2114,7 +2138,23 @@ travel_log = [
         "name": "Munich",
         "country_name": "Germany",
         "latLng": [48.1351253, 11.581980599999952],
-        "dates_visited": "2016-9-4:2016-9-9",
+        "dates_visited": "2016-10-4:2016-10-9",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Rüdesheim",
+        "country_name": "Germany",
+        "latLng": [49.98214, 7.93011],
+        "dates_visited": "2016-10-9:2016-10-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Frankfurt",
+        "country_name": "Germany",
+        "latLng": [50.11092, 8.68212],
+        "dates_visited": "2016-10-11:2016-10-13",
         "add_to_map": true,
         "area_group": true
     }
