@@ -1540,7 +1540,9 @@ travel_log = [
         "latLng": [50.06465, 19.94497],
         "dates_visited": "2016-8-22:2016-8-28",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Poland",
+        "image_path": "poland/krakow_old_town.jpg"
     },
     {
         "name": "Wieliczka Salt Mine",
@@ -1548,7 +1550,9 @@ travel_log = [
         "latLng": [49.98347, 20.05379],
         "dates_visited": "2016-8-25",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Poland",
+        "image_path": "poland/salt_chapel.jpg"
     },
     {
         "name": "Auschwitz",
@@ -1556,7 +1560,9 @@ travel_log = [
         "latLng": [50.02744, 19.20338],
         "dates_visited": "2016-8-26",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Poland",
+        "image_path": "poland/guard_tower_and_fence.jpg"
     },
     {
         "name": "Birkenau",
@@ -1564,7 +1570,9 @@ travel_log = [
         "latLng": [50.03474, 19.17797],
         "dates_visited": "2016-8-26",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Poland",
+        "image_path": "poland/birkenau_entrance.jpg"
     },
     {
         "name": "Warsaw",
@@ -1572,7 +1580,9 @@ travel_log = [
         "latLng": [52.22967, 21.01222],
         "dates_visited": "2016-8-29:2016-9-1",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Poland",
+        "image_path": "poland/warsaw_old_town.jpg"
     },
     {
         "name": "Donegal",
@@ -2155,6 +2165,14 @@ travel_log = [
         "country_name": "Germany",
         "latLng": [50.11092, 8.68212],
         "dates_visited": "2016-10-11:2016-10-13",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Paris",
+        "country_name": "France",
+        "latLng": [48.85661, 2.35222],
+        "dates_visited": "2016-10-13",
         "add_to_map": true,
         "area_group": true
     }

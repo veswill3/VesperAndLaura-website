@@ -379,12 +379,22 @@
             "path": "budapest/danube_from_buda_castle_pano.jpg",
             "info": "Looking out over the Danube river from Buda Castle in Budapest, Hungary",
             "link": "Budapest-Hungary"
+        },
+        {
+            "path": "budapest/parliament_at_night.jpg",
+            "info": "Hungarian Parliament at night in Budapest, Hungary",
+            "link": "Budapest-Hungary"
+        },
+        {
+            "path": "poland/library_garden.jpg",
+            "info": "The library at the Univeristy of Warsaw in Poland",
+            "link": "Poland"
         }
         // ,
         // {
-        //     "path": "budapest/parliament_at_night.jpg",
-        //     "info": "Hungarian Parliament at night in Budapest, Hungary",
-        //     "link": "Budapest-Hungary"
+        //     "path": "poland/yarn_art.jpg",
+        //     "info": "Art in Kraków, Poland",
+        //     "link": "Poland"
         // }
         // ,
         // {
