@@ -10,7 +10,7 @@ image:
 
 We have had a super busy month - too busy to do much writing that is! We had a blast hanging out with Lehar, Mark, Carl, and Jim for various parts of our journey the last few weeks. 
 
-In the last month we have traveled to fifteen cities in four countries: Gmunden, Bad Ischl, Hallstatt, and Napplach in Austria; Lake Bled, Lake Bohinj, and Brezje in Slovenia; Krk Island, Plitvice Lakes National Park, Zagreb, Dubrovnik, Split, Šolta Island, and Zadar in Croatia; and Budapest in Hungary. We arrived today in Kraków, Poland, where we're spending a week to eat delicious food, explore the historical sites, and relax after a whirlwind four weeks.
+In the last month we have traveled to fifteen cities in four countries: [Gmunden, Bad Ischl, Hallstatt, and Napplach]({% post_url 2016-08-24-Austria-and-Slovenia %}) in Austria; [Lake Bled, Lake Bohinj, and Brezje]({% post_url 2016-08-24-Austria-and-Slovenia %}) in Slovenia; [Krk Island, Plitvice Lakes National Park, Zagreb]({% post_url 2016-09-06-Croatia-part-one %}), [Dubrovnik, Split, Šolta Island, and Zadar]({% post_url 2016-09-24-Croatia-part-two %}) in Croatia; and [Budapest]({% post_url 2016-10-05-Budapest-Hungary %}) in Hungary. We arrived today in [Kraków]({% post_url 2016-10-14-Poland %}), Poland, where we're spending a week to eat delicious food, explore the historical sites, and relax after a whirlwind four weeks.
 
 
 ### Month 7 Observations
