@@ -7,6 +7,15 @@ $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 Then browse to [http://localhost:4000/](http://localhost:4000/).
 
+## Generate img tags from directory
+```sh
+(FOLDER="images directory for this post" # update this line
+cd images/$FOLDER &&
+for fn in *; do
+    echo "<a href=\"/images/$FOLDER/$fn\"><img src=\"/images/$FOLDER/$fn\" alt=\"\"></a>"
+done)
+```
+
 ## to pull in updates from the main hpstr repo
 ```sh
 # update with new info
