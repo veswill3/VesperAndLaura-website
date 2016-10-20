@@ -7,12 +7,17 @@ $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 ```
 Then browse to [http://localhost:4000/](http://localhost:4000/).
 
-## Generate img tags from directory
+## Update image filenames and gen img tags from dir
+This will also convert the file names to lowercase and replace spaces with underscores.
 ```sh
 (FOLDER="images directory for this post" # update this line
 cd images/$FOLDER &&
-for fn in *; do
-    echo "<a href=\"/images/$FOLDER/$fn\"><img src=\"/images/$FOLDER/$fn\" alt=\"\"></a>"
+for f in *; do
+    mv -i "$f" "$f.tmp"
+    # convert to lowercase and swap spaces for underscores
+    newf="`echo $f | tr "[:upper:]" "[:lower:]" | tr " " "_"`"
+    mv -i "$f.tmp" "$newf"
+    echo "<a href=\"/images/$FOLDER/$newf\"><img src=\"/images/$FOLDER/$newf\" alt=\"\"></a>"
 done)
 ```
 
