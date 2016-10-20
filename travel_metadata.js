@@ -2172,7 +2172,23 @@ travel_log = [
         "name": "Paris",
         "country_name": "France",
         "latLng": [48.85661, 2.35222],
-        "dates_visited": "2016-10-13",
+        "dates_visited": "2016-10-13:2016-10-17",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Mumbai",
+        "country_name": "India",
+        "latLng": [19.07598, 72.87765],
+        "dates_visited": "2016-10-18:2016-10-20",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Udiapur",
+        "country_name": "India",
+        "latLng": [24.58544, 73.71247],
+        "dates_visited": "2016-10-20",
         "add_to_map": true,
         "area_group": true
     }
