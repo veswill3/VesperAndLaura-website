@@ -2230,6 +2230,14 @@ travel_log = [
         "area_group": true
     },
     {
+        "name": "King Abdulaziz International Airport",
+        "country_name": "Saudi Arabia",
+        "latLng": [21.67066, 39.15047],
+        "dates_visited": "2016-10-17",
+        "add_to_map": true,
+        "area_group": "Jeddah"
+    },
+    {
         "name": "Mumbai",
         "country_name": "India",
         "latLng": [19.07598, 72.87765],
