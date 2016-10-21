@@ -1590,7 +1590,9 @@ travel_log = [
         "latLng": [54.65489, -8.10409],
         "dates_visited": "2016-9-2",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland",
+        "image_path": "ireland/first_guinness.jpg"
     },
     {
         "name": "Slieve League",
@@ -1598,7 +1600,9 @@ travel_log = [
         "latLng": [54.64009, -8.68219],
         "dates_visited": "2016-9-3",
         "add_to_map": true,
-        "area_group": "Donegal"
+        "area_group": "Donegal",
+        "blog_url": "Ireland",
+        "image_path": "ireland/slieve_league_clifs_lookout_pano.jpg"
     },
     {
         "name": "Glenveagh National Park",
@@ -1606,7 +1610,9 @@ travel_log = [
         "latLng": [55.00834, -7.98673],
         "dates_visited": "2016-9-3",
         "add_to_map": true,
-        "area_group": "Donegal"
+        "area_group": "Donegal",
+        "blog_url": "Ireland",
+        "image_path": "ireland/glenveagh_natioal_park_castle.jpg"
     },
     {
         "name": "Londonderry",
@@ -1614,7 +1620,9 @@ travel_log = [
         "latLng": [54.99661, -7.30857],
         "dates_visited": "2016-9-3:2016-9-4",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland",
+        "image_path": "ireland/entering_free_derry.jpg"
     },
     {
         "name": "Old Bushmills Distillery",
@@ -1622,7 +1630,9 @@ travel_log = [
         "latLng": [55.20285, -6.51722],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
-        "area_group": "Bushmills"
+        "area_group": "Bushmills",
+        "blog_url": "Ireland",
+        "image_path": "ireland/buschmills.jpg"
     },
     {
         "name": "Giant's Causeway",
@@ -1630,7 +1640,9 @@ travel_log = [
         "latLng": [55.2408, -6.51155],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
-        "area_group": "Bushmills"
+        "area_group": "Bushmills",
+        "blog_url": "Ireland",
+        "image_path": "ireland/giants_causeway_closeup.jpg"
     },
     {
         "name": "Coleraine",
@@ -1638,7 +1650,8 @@ travel_log = [
         "latLng": [55.13258, -6.66461],
         "dates_visited": "2016-9-4",
         "add_to_map": true,
-        "area_group": "Bushmills"
+        "area_group": "Bushmills",
+        "blog_url": "Ireland"
     },
     {
         "name": "Ballintoy Harbour",
@@ -1646,7 +1659,9 @@ travel_log = [
         "latLng": [55.24449, -6.36882],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
-        "area_group": "Causeway Coastal"
+        "area_group": "Causeway Coastal",
+        "blog_url": "Ireland",
+        "image_path": "ireland/near_ballintoy_harbor2.jpg"
     },
     {
         "name": "Rope Bridge",
@@ -1654,7 +1669,9 @@ travel_log = [
         "latLng": [55.23994, -6.34911],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
-        "area_group": "Causeway Coastal"
+        "area_group": "Causeway Coastal",
+        "blog_url": "Ireland",
+        "image_path": "ireland/rope_bridge.jpg"
     },
     {
         "name": "Murlough Bay",
@@ -1662,7 +1679,8 @@ travel_log = [
         "latLng": [55.20882, -6.12998],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
-        "area_group": "Causeway Coastal"
+        "area_group": "Causeway Coastal",
+        "blog_url": "Ireland"
     },
     {
         "name": "Caves of Cushendun",
@@ -1670,7 +1688,9 @@ travel_log = [
         "latLng": [55.12417, -6.03722],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
-        "area_group": "Causeway Coastal"
+        "area_group": "Causeway Coastal",
+        "blog_url": "Ireland",
+        "image_path": "ireland/caves_of_cushendun.jpg"
     },
     {
         "name": "Belfast",
@@ -1678,7 +1698,9 @@ travel_log = [
         "latLng": [54.59728, -5.93011],
         "dates_visited": "2016-9-5",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland",
+        "image_path": "ireland/belfast_city_hall.jpg"
     },
     {
         "name": "Dublin",
@@ -1686,7 +1708,8 @@ travel_log = [
         "latLng": [53.3498, -6.2603],
         "dates_visited": "2016-9-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland"
     },
     {
         "name": "Galway",
@@ -1694,7 +1717,8 @@ travel_log = [
         "latLng": [53.27066, -9.05679],
         "dates_visited": "2016-9-8:2016-9-10",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland"
     },
     {
         "name": "Aughnanure Castle",
@@ -1702,7 +1726,9 @@ travel_log = [
         "latLng": [53.41878, -9.27575],
         "dates_visited": "2016-9-9",
         "add_to_map": true,
-        "area_group": "Galway"
+        "area_group": "Galway",
+        "blog_url": "Ireland",
+        "image_path": "ireland/aughnanure_castle.jpg"
     },
     {
         "name": "Kylemore Abbey",
@@ -1710,7 +1736,9 @@ travel_log = [
         "latLng": [53.56163, -9.88931],
         "dates_visited": "2016-9-9",
         "add_to_map": true,
-        "area_group": "Galway"
+        "area_group": "Galway",
+        "blog_url": "Ireland",
+        "image_path": "ireland/kylemore_abbey.jpg"
     },
     {
         "name": "Dunguaire Castle",
@@ -1718,7 +1746,9 @@ travel_log = [
         "latLng": [53.14221, -8.92608],
         "dates_visited": "2016-9-10",
         "add_to_map": true,
-        "area_group": "Galway"
+        "area_group": "Galway",
+        "blog_url": "Ireland",
+        "image_path": "ireland/dunguaire_castle.jpg"
     },
     {
         "name": "Poulnabrone Dolmen",
@@ -1726,7 +1756,9 @@ travel_log = [
         "latLng": [53.04868, -9.14005],
         "dates_visited": "2016-9-10",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland",
+        "image_path": "ireland/poulnabrone_dolmen.jpg"
     },
     {
         "name": "Leamaneh Castle",
@@ -1734,7 +1766,9 @@ travel_log = [
         "latLng": [52.9878, -9.13995],
         "dates_visited": "2016-9-10",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland",
+        "image_path": "ireland/leamaneh_castle.jpg"
     },
     {
         "name": "Doolin",
@@ -1742,7 +1776,8 @@ travel_log = [
         "latLng": [53.01602, -9.37741],
         "dates_visited": "2016-9-10",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland"
     },
     {
         "name": "Clifs of Moher",
@@ -1750,7 +1785,9 @@ travel_log = [
         "latLng": [52.97187, -9.42651],
         "dates_visited": "2016-9-10",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland",
+        "image_path": "ireland/clifs_of_moher_looking_over_the_edge.jpg"
     },
     {
         "name": "Ennistimon",
@@ -1758,7 +1795,8 @@ travel_log = [
         "latLng": [52.94037, -9.29349],
         "dates_visited": "2016-9-10:2016-9-11",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland"
     },
     {
         "name": "Quin Abbey",
@@ -1766,7 +1804,9 @@ travel_log = [
         "latLng": [52.8191, -8.86305],
         "dates_visited": "2016-9-11",
         "add_to_map": true,
-        "area_group": "Clare"
+        "area_group": "Clare",
+        "blog_url": "Ireland",
+        "image_path": "ireland/quin_abbey_outside.jpg"
     },
     {
         "name": "Limerick",
@@ -1774,7 +1814,8 @@ travel_log = [
         "latLng": [52.66802, -8.63049],
         "dates_visited": "2016-9-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland"
     },
     {
         "name": "Dingle",
@@ -1782,7 +1823,8 @@ travel_log = [
         "latLng": [52.14093, -10.26401],
         "dates_visited": "2016-9-11:2016-9-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland"
     },
     {
         "name": "Dingle Bay",
@@ -1790,7 +1832,9 @@ travel_log = [
         "latLng": [52.1216, -10.20853],
         "dates_visited": "2016-9-12",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland",
+        "image_path": "ireland/laura_at_beach_in_dingle.jpg"
     },
     {
         "name": "Garraun Point",
@@ -1798,7 +1842,8 @@ travel_log = [
         "latLng": [52.11045, -10.474],
         "dates_visited": "2016-9-13",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland"
     },
     {
         "name": "Ballyferriter Village",
@@ -1806,7 +1851,8 @@ travel_log = [
         "latLng": [52.16615, -10.40598],
         "dates_visited": "2016-9-13",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland"
     },
     {
         "name": "Gallarus Oratory",
@@ -1814,7 +1860,8 @@ travel_log = [
         "latLng": [52.17371, -10.35281],
         "dates_visited": "2016-9-13",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland"
     },
     {
         "name": "Inch beach",
@@ -1822,7 +1869,8 @@ travel_log = [
         "latLng": [52.14272, -9.981],
         "dates_visited": "2016-9-13",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland"
     },
     {
         "name": "Conor Pass",
@@ -1830,7 +1878,9 @@ travel_log = [
         "latLng": [52.18187, -10.20728],
         "dates_visited": "2016-9-14",
         "add_to_map": true,
-        "area_group": "Dingle"
+        "area_group": "Dingle",
+        "blog_url": "Ireland",
+        "image_path": "ireland/connor_pass_pano.jpg"
     },
     {
         "name": "Adare",
@@ -1838,7 +1888,8 @@ travel_log = [
         "latLng": [52.56452, -8.78971],
         "dates_visited": "2016-9-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland"
     },
     {
         "name": "Dublin",
@@ -1846,7 +1897,9 @@ travel_log = [
         "latLng": [53.3498, -6.2603],
         "dates_visited": "2016-9-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ireland",
+        "image_path": "ireland/trinity_college_sculpture.jpg"
     },
     {
         "name": "Edinburgh",

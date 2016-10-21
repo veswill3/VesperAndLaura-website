@@ -1,0 +1,250 @@
+---
+layout: post
+title: "Road Trip through Ireland"
+description: "Two weeks driving around the scenic countryside of Ireland."
+visitinfo:
+    start: 2016-09-2
+    end: 2016-09-14
+tags: [Europe, Ireland]
+image:
+    feature: /ireland/kylemore_abbey_pano.jpg
+    credit: Kylemore Abbey in Galway, Ireland
+---
+
+Vesper's mom had planned a trip to southern Ireland with a few friends and asked if we wanted to tag along. By now we are professional travelers so we offered to help plan. We decided to get the lay of the land and headed to Ireland a week before they arrived to explore the north.
+
+
+## County Donegal
+
+To start our trip we flew into Belfast, rented a car, and drove to Donegal on the opposite side of the island (and in a different country) to begin our loop. It was a slightly terrifying albeit humorous drive since this was the first time we’ve ever driven on the wrong side of the road. After a few hours of white knuckling and constant reminders of "LEFT SIDE!" we treated ourselves to a delicious dinner of Irish stew, homemade soda bread, and - of course - the first of many pints of Guinness at the [Olde Castle Bar](http://www.oldecastlebar.com/).
+
+<figure>
+    <a href="/images/ireland/first_guinness.jpg"><img src="/images/ireland/first_guinness.jpg" alt=""></a>
+    <figcaption>Our first Guinness in Ireland.</figcaption>
+</figure>
+
+The next morning we visited Slieve League, the north’s version of the Cliffs of Moher. Although less famous than those in Moher, the cliffs along Slieve League mountain can reach up to three times higher... if you can see them in the mist. Our first attempt to view the cliffs was a hike to the top of the mountain where we were greeted with massive mud puddles, sideways rain, and fog so thick you could cut it with a knife. At least we got our exercise in for the day! Attempt two was far better. We drove to the formal lookout point and were able to enjoy cloud-free views of the cliffs. It was also our first experience with the pure evil known as midges, which are basically mosquitos but the size of gnats and worse.
+
+<figure>
+    <a href="/images/ireland/slieve_league_pilgrams_path.jpg"><img src="/images/ireland/slieve_league_pilgrams_path.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/slieve_league_waterfall.jpg"><img src="/images/ireland/slieve_league_waterfall.jpg" alt=""></a>
+    <a href="/images/ireland/slieve_league_hike_selfie.jpg"><img src="/images/ireland/slieve_league_hike_selfie.jpg" alt=""></a>
+    <figcaption>Pilgrams Path on the way up Slieve League.</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/slieve_league_sheep.jpg"><img src="/images/ireland/slieve_league_sheep.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/slieve_league_clifs_lookout_pano.jpg"><img src="/images/ireland/slieve_league_clifs_lookout_pano.jpg" alt=""></a>
+</figure>
+
+From Slieve League, we headed north along the [Wild Atlantic Way](http://www.wildatlanticway.com/) which runs along the entire Atlantic coast of Ireland. This route offers spectacular scenic views for passengers and insanely narrow roads for the driver. Our next stop was Glenveagh National Park where we did some hiking and visited the castle and its gardens.
+
+<figure class="half">
+    <a href="/images/ireland/glenveagh_natioal_park_castle_gardens.jpg"><img src="/images/ireland/glenveagh_natioal_park_castle_gardens.jpg" alt=""></a>
+    <a href="/images/ireland/glenveagh_natioal_park_hike.jpg"><img src="/images/ireland/glenveagh_natioal_park_hike.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/glenveagh_natioal_park_castle.jpg"><img src="/images/ireland/glenveagh_natioal_park_castle.jpg" alt=""></a>
+</figure>
+
+
+## Northern Ireland
+
+*A (very) quick aside on The Troubles: You can read more it [here](https://en.wikipedia.org/wiki/The_Troubles), but suffice to say that a few centuries of English encouraged settlements in the north had come to a head over the last few decades in a heated and violent civil rights momvement. Needless to say, these events are not forgotten and are still a major point of contention.*
+
+We spent one night in [Derry/Londonderry](https://en.wikipedia.org/wiki/Derry/Londonderry_name_dispute), a city marked by violence and conflict. There are numerous murals around the city remembering victims of the past, emphasizing human rights, and some still vying for Northern Ireland’s independence.
+
+<figure class="half">
+    <a href="/images/ireland/entering_free_derry.jpg"><img src="/images/ireland/entering_free_derry.jpg" alt=""></a>
+    <a href="/images/ireland/derry_mural_1.jpg"><img src="/images/ireland/derry_mural_1.jpg" alt=""></a>
+    <figcaption>The famous Bogside wall of "Free Derry"</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/bloody_sunday_memorial.jpg"><img src="/images/ireland/bloody_sunday_memorial.jpg" alt=""></a>
+    <figcaption>Bloody Sunday Memorial</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/derry_mural_4.jpg"><img src="/images/ireland/derry_mural_4.jpg" alt=""></a>
+    <a href="/images/ireland/derry_mural_5.jpg"><img src="/images/ireland/derry_mural_5.jpg" alt=""></a>
+</figure>
+
+We spent our final night in Derry enjoying live music at [Peadar O'Donnells](http://www.peadars.com/), our favorite pub we visited in Ireland. Continuing on an Irish drinking theme, the next day we toured the [Old Bushmills Distillery](http://www.bushmills.com/distillery/) where we sampled several types of whiskey and even bought some to share with our parents. We’re such good kids!
+
+<figure>
+    <a href="/images/ireland/buschmills.jpg"><img src="/images/ireland/buschmills.jpg" alt=""></a>
+    <figcaption>Our tasting sample in front of an old still.</figcaption>
+</figure>
+
+Nearby to Bushmills is [Giant’s Causeway](http://www.giantscausewayofficialguide.com/), a beautiful natural formation of basalt columns similar to the ones we visited in [Mexico]({% post_url 2016-02-04-Mexico-City %}). Our experience was made even better when we learned from our host that you can visit this area for free after 6 pm, which also means no tour buses! Being savvy AND avoiding crowds!
+
+<figure>
+    <a href="/images/ireland/giants_causeway_finns_chimney_pano.jpg"><img src="/images/ireland/giants_causeway_finns_chimney_pano.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/giants_causeway_selfie.jpg"><img src="/images/ireland/giants_causeway_selfie.jpg" alt=""></a>
+    <a href="/images/ireland/giants_causeway_closeup.jpg"><img src="/images/ireland/giants_causeway_closeup.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/giants_causeway_pano2.jpg"><img src="/images/ireland/giants_causeway_pano2.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/giants_causeway_finns_chimney.jpg"><img src="/images/ireland/giants_causeway_finns_chimney.jpg" alt=""></a>
+    <a href="/images/ireland/giants_causeway_v_sitting.jpg"><img src="/images/ireland/giants_causeway_v_sitting.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/giants_causeway_above.jpg"><img src="/images/ireland/giants_causeway_above.jpg" alt=""></a>
+</figure>
+
+Continuing our loop we took the [Causeway Coastal Route](http://www.causewaycoastalroute.com/) all the way back to Belfast. Along the way we stopped at several lookout points, some of which also happened to be filming locations for Game of Thrones. 
+
+<figure class="half">
+    <a href="/images/ireland/otw_rope_bridge2.jpg"><img src="/images/ireland/otw_rope_bridge2.jpg" alt=""></a>
+    <a href="/images/ireland/rope_bridge.jpg"><img src="/images/ireland/rope_bridge.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/otw_rope_bridge.jpg"><img src="/images/ireland/otw_rope_bridge.jpg" alt=""></a>
+    <figcaption>Near Carrick-A-Rede Rope Bridge</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/causeway_coastal_countryside_pano.jpg"><img src="/images/ireland/causeway_coastal_countryside_pano.jpg" alt=""></a>
+</figure>
+
+<figure class="half"> 
+    <a href="/images/ireland/near_ballintoy_harbor2.jpg"><img src="/images/ireland/near_ballintoy_harbor2.jpg" alt=""></a>
+    <a href="/images/ireland/caves_of_cushendun.jpg"><img src="/images/ireland/caves_of_cushendun.jpg" alt=""></a>
+    <figcaption>Game of Thrones filming locations: Ballintoy Harbor (aka the Iron Islands) and the Caves of Cushendun.</figcaption>
+</figure>
+
+Belfast was our final stop in Northern Ireland before meeting up with Vesper’s parents. We were able to see more murals from the Troubles, including a giant barricade knows as the Peace Wall where we got to watch some artists at work. We also visited the [Ulster Museum](http://nmni.com/um), which turned out to be an awesome (free!) museum with mummies, the history of Northern Ireland, and everything in between.
+
+<figure class="half">
+    <a href="/images/ireland/belfast_murals5.jpg"><img src="/images/ireland/belfast_murals5.jpg" alt=""></a>
+    <a href="/images/ireland/belfast_murals6.jpg"><img src="/images/ireland/belfast_murals6.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/belfast_murals_pano.jpg"><img src="/images/ireland/belfast_murals_pano.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/belfast_city_hall.jpg"><img src="/images/ireland/belfast_city_hall.jpg" alt=""></a>
+    <a href="/images/ireland/botanical_gardens_greenhouse.jpg"><img src="/images/ireland/botanical_gardens_greenhouse.jpg" alt=""></a>
+    <figcaption>Belfast City Hall and the Botanical Gardens</figcaption>
+</figure>
+
+
+## Galway
+
+After meeting up with Vesper’s parents in Dublin, we headed west for a few days in Galway. We visited numerous castles and abbeys in the surrounding area - even one where Laura was able to find McMenamin referenced on a historical map of County Donegal! At night we explored the quaint town, listened to lots of live music, and continued our education in Guinness consumption. 
+
+<figure class="half">
+    <a href="/images/ireland/mom_bob_laura_vesper.jpg"><img src="/images/ireland/mom_bob_laura_vesper.jpg" alt=""></a>
+    <a href="/images/ireland/leamaneh_castle.jpg"><img src="/images/ireland/leamaneh_castle.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/kylemore_abbey.jpg"><img src="/images/ireland/kylemore_abbey.jpg" alt=""></a>
+    <figcaption>Kylemore Abbey</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/aughnanure_castle.jpg"><img src="/images/ireland/aughnanure_castle.jpg" alt=""></a>
+    <a href="/images/ireland/doonagore_castle.jpg"><img src="/images/ireland/doonagore_castle.jpg" alt=""></a>
+    <figcaption>Anghnanure and Doonagore Castles</figcaption>
+</figure>
+
+
+## Cliffs of Moher
+
+En route to the Cliffs of Moher we hit up a megalithic tomb and a few more castles. After lunch, we headed to the cliffs. They are amazing! Even if they aren’t as tall as Slieve League, the Cliffs of Moher seem far more vertical. Pro tip: you can get in for free if you hike in... aka the car full of people who get senior discounts drops you off outside the parking lot so you can walk in for free!
+
+<figure>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/poulnabrone_dolmen.jpg"><img src="/images/ireland/poulnabrone_dolmen.jpg" alt=""></a>
+    <a href="/images/ireland/dunguaire_castle.jpg"><img src="/images/ireland/dunguaire_castle.jpg" alt=""></a>
+    <figcaption>Megalithic tomb and Dunguaire Castle</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/clifs_of_moher_looking_over_the_edge.jpg"><img src="/images/ireland/clifs_of_moher_looking_over_the_edge.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/clifs_of_moher_looking_strait_down.jpg"><img src="/images/ireland/clifs_of_moher_looking_strait_down.jpg" alt=""></a>
+    <a href="/images/ireland/clifs_of_moher3.jpg"><img src="/images/ireland/clifs_of_moher3.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/ireland/clifs_of_moher2.jpg"><img src="/images/ireland/clifs_of_moher2.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/clifs_of_moher_hair.jpg"><img src="/images/ireland/clifs_of_moher_hair.jpg" alt=""></a>
+    <a href="/images/ireland/clifs_of_moher_selfie.jpg"><img src="/images/ireland/clifs_of_moher_selfie.jpg" alt=""></a>
+    <figcaption>Laura's hair versus the wind!</figcaption>
+</figure>
+
+
+## Dingle Peninsula
+
+Our last few days in Ireland we spent in the Dingle Peninsula. Driving around the area we saw numerous fairy rings, abandoned cottages from the Irish famine, more church ruins, and a million ridiculously picturesque views. Back in Dingle, we enjoyed more live music, some fresh scallops, and - you guessed it - more Guinness. 
+
+<figure class="half">
+    <a href="/images/ireland/quin_abbey_outside.jpg"><img src="/images/ireland/quin_abbey_outside.jpg" alt=""></a>
+    <a href="/images/ireland/quin_abbey_inside.jpg"><img src="/images/ireland/quin_abbey_inside.jpg" alt=""></a>
+    <figcaption>Quin Abbey</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/renewing_vows_at_kilmalkedar.jpg"><img src="/images/ireland/renewing_vows_at_kilmalkedar.jpg" alt=""></a>
+    <figcaption>Touching thumbs through a hole in the ogham stone for good luck.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/quin_abbey_inside2.jpg"><img src="/images/ireland/quin_abbey_inside2.jpg" alt=""></a>
+    <a href="/images/ireland/quin_abbey_inside3.jpg"><img src="/images/ireland/quin_abbey_inside3.jpg" alt=""></a>
+    <figcaption>Some of the graves inside of Quin Abbey</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/connor_pass_pano.jpg"><img src="/images/ireland/connor_pass_pano.jpg" alt=""></a>
+    <figcaption>Connor Pass</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/ireland/laura_at_beach_in_dingle.jpg"><img src="/images/ireland/laura_at_beach_in_dingle.jpg" alt=""></a>
+    <a href="/images/ireland/v_with_mom_bob_and_seegers.jpg"><img src="/images/ireland/v_with_mom_bob_and_seegers.jpg" alt=""></a>
+</figure>
+
+
+## Dublin
+
+Our last day in Ireland spent a few hours in Dublin, which turned out to be plenty of time. It was nice to see the capital city but we enjoyed the countryside more. We had one last delicious Irish stew and Guinness for dinner, said goodbye to Vesper’s parents, and then it was off to Scotland! 
+
+<figure class="half">
+    <a href="/images/ireland/trinity_college_sculpture.jpg"><img src="/images/ireland/trinity_college_sculpture.jpg" alt=""></a>
+    <a href="/images/ireland/trinity_college_tower.jpg"><img src="/images/ireland/trinity_college_tower.jpg" alt=""></a>
+    <figcaption>Around Trinity College</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/ireland/guinness_mustache.jpg"><img src="/images/ireland/guinness_mustache.jpg" alt=""></a>
+    <figcaption>The proper way to drink a Guinness. Cheers!</figcaption>
+</figure>

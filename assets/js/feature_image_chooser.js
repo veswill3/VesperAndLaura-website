@@ -389,12 +389,42 @@
             "path": "poland/library_garden.jpg",
             "info": "The library at the Univeristy of Warsaw in Poland",
             "link": "Poland"
+        },
+        {
+            "path": "poland/yarn_art.jpg",
+            "info": "Art in Kraków, Poland",
+            "link": "Poland"
+        },
+        {
+            "path": "ireland/slieve_league_pilgrams_path.jpg",
+            "info": "Pilgrams Path to Slieve League in Donegal, Ireland",
+            "link": "Ireland"
+        },
+        {
+            "path": "ireland/slieve_league_clifs_lookout_pano.jpg",
+            "info": "Slieve League in Donegal, Ireland",
+            "link": "Ireland"
+        },
+        {
+            "path": "ireland/giants_causeway_finns_chimney_pano.jpg",
+            "info": "Finn's Chimney near Giant’s Causeway in Northern Ireland",
+            "link": "Ireland"
+        },
+        {
+            "path": "ireland/causeway_coastal_countryside_pano.jpg",
+            "info": "View along the Causeway Coastal in Northern Ireland",
+            "link": "Ireland"
+        },
+        {
+            "path": "ireland/connor_pass_pano.jpg",
+            "info": "Connor Pass in Dingle, Ireland",
+            "link": "Ireland"
         }
         // ,
         // {
-        //     "path": "poland/yarn_art.jpg",
-        //     "info": "Art in Kraków, Poland",
-        //     "link": "Poland"
+        //     "path": "ireland/kylemore_abbey_pano.jpg",
+        //     "info": "Kylemore Abbey in Galway, Ireland",
+        //     "link": "Ireland"
         // }
         // ,
         // {
