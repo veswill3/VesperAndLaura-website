@@ -2249,7 +2249,15 @@ travel_log = [
         "name": "Udiapur",
         "country_name": "India",
         "latLng": [24.58544, 73.71247],
-        "dates_visited": "2016-10-20",
+        "dates_visited": "2016-10-20:2016-10-21",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Jodhpur",
+        "country_name": "India",
+        "latLng": [26.23894, 73.0243],
+        "dates_visited": "2016-10-22",
         "add_to_map": true,
         "area_group": true
     }
