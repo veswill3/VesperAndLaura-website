@@ -2,7 +2,7 @@
 layout: post
 title: Nine Months of Traveling Complete
 description: "A recap of the ninth month of our trip around the world, including a recap of Eurpoe and intro to India!"
-modified: 2016-10-22
+modified: 2016-10-23
 tags: [Review, Europe, India]
 image:
     feature: nine-month-feature-photo.jpg
@@ -49,13 +49,16 @@ In lieu of our normal monthly post, here are some overall observations from our 
 - It's not uncommon for men to hold hands or drape their arms around one another while they are talking or spending time together.
 - As a result of bathroom hygiene, there are social rules regarding your left and right hands. For example, you should always greet someone with with your right hand as your left is seen as unclean and very rude.
 - We see a lot of cows, sheep, and goats in odd places - like the middle of the highway, city street corners, alley dumpsters, or sleeping behind a rickshaw.
-- Little kids love to yell "Hello!!" at us and get the biggest smiles when we say hi back. 
+- Little kids love to yell "Hello!!" at us and get the biggest smiles when we say hi back.
+- Men (and apparently women) love their mustaches.
+- Handshakes from an Indian does not necessarily involve any amount of grip, just a limp hand.
 
 ### Transportation
 - Drivers here are insane. Seriously. The worst we've seen this trip.
 - Indians are *supposed* to drive on the left side of the road. Then again, it seems like traffic laws are optional so anything goes!
 - We were surprised to find that Uber is very popular here, which is awesome because explaining where we want to go is half the battle. This also means we don't have to haggle for cabs, and we still get a crazy cheap deal.
 - Getting from city to city can be complicated and very slow. In their defense, India has the largest and most complicated rail network in the world.
+- Addresses are sometimes in relation to a landmark rather than a specific point. Instead of a numbered building on a named street, it would say something like "Hotel White House, near Marway bus stand, Pushkar."
 
 ### Money
 - With very few exceptions, cash is the only accepted form of payment.
