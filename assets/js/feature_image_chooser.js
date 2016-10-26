@@ -419,12 +419,52 @@
             "path": "ireland/connor_pass_pano.jpg",
             "info": "Connor Pass in Dingle, Ireland",
             "link": "Ireland"
+        },
+        {
+            "path": "ireland/kylemore_abbey_pano.jpg",
+            "info": "Kylemore Abbey in Galway, Ireland",
+            "link": "Ireland"
+        },
+        {
+            "path": "scotland/castle_eilean_donan_pano.jpg",
+            "info": "Eilean Donan Castle in Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/quiraing_hike_pano2.jpg",
+            "info": "Quiraing Hike in Portree, Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/old_man_of_storr_hike_pano.jpg",
+            "info": "Old Man of Storr in Portree, Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/glenfinnan_viaduct_pano.jpg",
+            "info": "Glenfinnan Viaduct near Fort William, Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/three_sisters_pano2.jpg",
+            "info": "Three Sisters in Glencoe, Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/hidden_valley_above_three_sisters_pano.jpg",
+            "info": "The Hidden Valley at the top of the Three Sisters in Glencoe, Scotland",
+            "link": "Scotland"
+        },
+        {
+            "path": "scotland/loch_lomond_pano.jpg",
+            "info": "Loch Lomond, Scotland",
+            "link": "Scotland"
         }
         // ,
         // {
-        //     "path": "ireland/kylemore_abbey_pano.jpg",
-        //     "info": "Kylemore Abbey in Galway, Ireland",
-        //     "link": "Ireland"
+        //     "path": "scotland/scottish_highlands_pano.jpg",
+        //     "info": "Scottish Highlands",
+        //     "link": "Scotland"
         // }
         // ,
         // {

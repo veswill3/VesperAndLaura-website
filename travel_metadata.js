@@ -1902,20 +1902,13 @@ travel_log = [
         "image_path": "ireland/trinity_college_sculpture.jpg"
     },
     {
-        "name": "Edinburgh",
-        "country_name": "Scotland",
-        "latLng": [55.95325, -3.18826],
-        "dates_visited": "2016-9-15",
-        "add_to_map": true,
-        "area_group": true
-    },
-    {
         "name": "Inverness",
         "country_name": "Scotland",
         "latLng": [57.47777, -4.22472],
         "dates_visited": "2016-9-15",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Scotland"
     },
     {
         "name": "Rogi Falls",
@@ -1923,7 +1916,9 @@ travel_log = [
         "latLng": [57.58916, -4.60241],
         "dates_visited": "2016-9-15",
         "add_to_map": true,
-        "area_group": "Inverness"
+        "area_group": "Inverness",
+        "blog_url": "Scotland",
+        "image_path": "scotland/rogie_falls.jpg"
     },
     {
         "name": "Loch Achilty",
@@ -1931,7 +1926,9 @@ travel_log = [
         "latLng": [57.56982, -4.63105],
         "dates_visited": "2016-9-15",
         "add_to_map": true,
-        "area_group": "Inverness"
+        "area_group": "Inverness",
+        "blog_url": "Scotland",
+        "image_path": "scotland/loch_achilty.jpg"
     },
     {
         "name": "Lock Ness",
@@ -1939,7 +1936,9 @@ travel_log = [
         "latLng": [57.32285, -4.42438],
         "dates_visited": "2016-9-16",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Scotland",
+        "image_path": "scotland/loch_ness_and_castle.jpg"
     },
     {
         "name": "Quiraing",
@@ -1947,7 +1946,9 @@ travel_log = [
         "latLng": [57.64361, -6.26527],
         "dates_visited": "2016-9-16",
         "add_to_map": true,
-        "area_group": "Portree"
+        "area_group": "Portree",
+        "blog_url": "Scotland",
+        "image_path": "scotland/quiraing_hike2.jpg"
     },
     {
         "name": "Kilt Rock",
@@ -1955,7 +1956,9 @@ travel_log = [
         "latLng": [57.61319, -6.17896],
         "dates_visited": "2016-9-16",
         "add_to_map": true,
-        "area_group": "Portree"
+        "area_group": "Portree",
+        "blog_url": "Scotland",
+        "image_path": "scotland/kilt_rock_tent_and_waterfall.jpg"
     },
     {
         "name": "Old Man of Storr",
@@ -1963,7 +1966,9 @@ travel_log = [
         "latLng": [57.50683, -6.17461],
         "dates_visited": "2016-9-17",
         "add_to_map": true,
-        "area_group": "Portree"
+        "area_group": "Portree",
+        "blog_url": "Scotland",
+        "image_path": "scotland/old_man_of_storr_hike3.jpg"
     },
     {
         "name": "Cuillin Brewery",
@@ -1971,7 +1976,8 @@ travel_log = [
         "latLng": [57.28986, -6.17494],
         "dates_visited": "2016-9-17",
         "add_to_map": true,
-        "area_group": "Sligachan"
+        "area_group": "Sligachan",
+        "blog_url": "Scotland"
     },
     {
         "name": "Sligachan Camping",
@@ -1979,7 +1985,9 @@ travel_log = [
         "latLng": [57.2925, -6.1754],
         "dates_visited": "2016-9-17",
         "add_to_map": true,
-        "area_group": "Sligachan"
+        "area_group": "Sligachan",
+        "blog_url": "Scotland",
+        "image_path": "scotland/camping_across_from_brewery.jpg"
     },
     {
         "name": "Glenfinnan Viaduct",
@@ -1987,7 +1995,9 @@ travel_log = [
         "latLng": [56.8763, -5.43185],
         "dates_visited": "2016-9-18",
         "add_to_map": true,
-        "area_group": "Fort William"
+        "area_group": "Fort William",
+        "blog_url": "Scotland",
+        "image_path": "scotland/glenfinnan_viaduct_with_train.jpg"
     },
     {
         "name": "Fort William",
@@ -1995,7 +2005,8 @@ travel_log = [
         "latLng": [56.81981, -5.10521],
         "dates_visited": "2016-9-18",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Scotland"
     },
     {
         "name": "Glen Nevis",
@@ -2003,7 +2014,9 @@ travel_log = [
         "latLng": [56.79221, -5.06042],
         "dates_visited": "2016-9-18",
         "add_to_map": true,
-        "area_group": "Fort William"
+        "area_group": "Fort William",
+        "blog_url": "Scotland",
+        "image_path": "scotland/glen_nevis_campsite.jpg"
     },
     {
         "name": "Three Sisters",
@@ -2011,7 +2024,9 @@ travel_log = [
         "latLng": [56.66781, -4.9865],
         "dates_visited": "2016-9-19",
         "add_to_map": true,
-        "area_group": "Glencoe"
+        "area_group": "Glencoe",
+        "blog_url": "Scotland",
+        "image_path": "scotland/three_sisters_pano2.jpg"
     },
     {
         "name": "Falloch Falls",
@@ -2019,7 +2034,9 @@ travel_log = [
         "latLng": [56.34893, -4.69449],
         "dates_visited": "2016-9-19",
         "add_to_map": true,
-        "area_group": "Loch Lomond"
+        "area_group": "Loch Lomond",
+        "blog_url": "Scotland",
+        "image_path": "scotland/falloch_falls.jpg"
     },
     {
         "name": "The Drovers Inn",
@@ -2027,7 +2044,8 @@ travel_log = [
         "latLng": [56.32838, -4.72164],
         "dates_visited": "2016-9-19",
         "add_to_map": true,
-        "area_group": "Loch Lomond"
+        "area_group": "Loch Lomond",
+        "blog_url": "Scotland"
     },
     {
         "name": "Loch Lomond campsite",
@@ -2035,15 +2053,19 @@ travel_log = [
         "latLng": [56.10519, -4.63868],
         "dates_visited": "2016-9-19",
         "add_to_map": true,
-        "area_group": "Loch Lomond"
+        "area_group": "Loch Lomond",
+        "blog_url": "Scotland",
+        "image_path": "scotland/after_a_dip_in_loch_lomond.jpg"
     },
     {
         "name": "Edinburgh",
         "country_name": "Scotland",
         "latLng": [55.95325, -3.18826],
-        "dates_visited": "2016-9-20",
+        "dates_visited": "2016-9-15,2016-9-20",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Scotland",
+        "image_path": "scotland/donating_our_camping_gear.jpg"
     },
     {
         "name": "Munich",

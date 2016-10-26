@@ -11,7 +11,7 @@ image:
 
 Can you believe we have already been gone 3/4 of a year?! At this rate it doesn’t look like we’ll be making it back to the US in 2016... oops. Sorry, mom and dad!
 
-In the last month we have traveled to fifteen cities/regions in four countries: [Kraków and Warsaw]({% post_url 2016-10-14-Poland %}) in Poland; [Derry, Bushmills, Ballintoy, Cushendun, and Belfast]({% post_url 2016-10-21-Ireland %}) in Northern Ireland; [County Donegal, Galway, the Cliffs of Moher, the Dingle Peninsula, and Dublin]({% post_url 2016-10-21-Ireland %}) in Ireland; Inverness, Isle of Skye, Fort William, Glencoe, Loch Lomond, and Edinburgh in Scotland; and last but not least Munich, Germany for Oktoberfest! We spent a week in Ireland with Vesper’s parents, and now we’re traveling with Laura’s parents for a while. 
+In the last month we have traveled to fifteen cities/regions in four countries: [Kraków and Warsaw]({% post_url 2016-10-14-Poland %}) in Poland; Derry, Bushmills, Ballintoy, Cushendun, and Belfast in [Northern Ireland]({% post_url 2016-10-21-Ireland %}); County Donegal, Galway, the Cliffs of Moher, the Dingle Peninsula, and Dublin in [Ireland]({% post_url 2016-10-21-Ireland %}); Inverness, Isle of Skye, Fort William, Glencoe, Loch Lomond, and Edinburgh in [Scotland]({% post_url 2016-10-26-Scotland %}); and last but not least Munich, Germany for Oktoberfest! We spent a week in Ireland with Vesper’s parents, and now we’re traveling with Laura’s parents for a while. 
 
 
 ### Month 8 Observations
