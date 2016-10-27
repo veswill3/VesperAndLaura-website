@@ -13,10 +13,10 @@
 {% include navigation.html %}
 
 <div class="entry-header">
+  <button id="feature-img-previous-btn" class="mfp-arrow mfp-arrow-left mfp-prevent-close"></button>
   <div class="image-credit"><a id="feature-img-info" href=""></a></div>
     <div class="entry-image">
       <img id="feature-img" alt="{{ page.title }}" data-img-base="{{ site.url }}/images/">
-      <script src="{{ site.url }}/assets/js/feature_image_chooser.js" type="text/javascript"></script>
     </div><!-- /.entry-image -->
   <div class="header-title">
     <div class="header-title-wrap">
@@ -24,6 +24,8 @@
       <h2>{{ page.title }}</h2>
     </div><!-- /.header-title-wrap -->
   </div><!-- /.header-title -->
+  <button id="feature-img-next-btn" class="mfp-arrow mfp-arrow-right mfp-prevent-close"></button>
+  <script src="{{ site.url }}/assets/js/feature_image_chooser.js" type="text/javascript"></script>
 </div><!-- /.entry-header -->
 
 <div id="main" role="main">

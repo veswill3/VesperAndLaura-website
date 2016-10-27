@@ -473,18 +473,60 @@
         //     "link": ""
         // }
     ];
+
+    // http://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976
+    function shuffle(array) {
+      var currentIndex = array.length, temporaryValue, randomIndex;
+
+      // While there remain elements to shuffle...
+      while (0 !== currentIndex) {
+
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+
+        // And swap it with the current element.
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+      }
+
+      return array;
+    }
+
+    imgs = shuffle(imgs);
+
     var featImg = document.getElementById("feature-img"),
-        featImgInfo = document.getElementById("feature-img-info");
+        featImgInfo = document.getElementById("feature-img-info"),
+        prevBtn = document.getElementById("feature-img-previous-btn"),
+        nextBtn = document.getElementById("feature-img-next-btn"),
+        numImages = imgs.length,
+        index = -1,
+        timer = null; // so we can clear it
+
+    prevBtn.onclick = function() {
+        clearTimeout(timer);
+        index -= 2; // back 2 because loadNextImage will add 1
+        if (index < 0) {
+            index = numImages + index;
+        }
+        loadNextImage();
+    };
+
+    nextBtn.onclick = function() {
+        clearTimeout(timer);
+        loadNextImage();
+    };
 
     var loadNextImage = function() {
-        // Choose an image at random
-        var img = imgs[Math.floor(Math.random() * imgs.length)];
+        index = (index + 1) % numImages;
+        var img = imgs[index];
         var downloadingImage = new Image();
         downloadingImage.onload = function() {
             featImgInfo.innerHTML = img.info;
             featImgInfo.setAttribute("href", "/" + img.link);
             featImg.src = this.src;
-            setTimeout(loadNextImage, 10000);
+            timer = setTimeout(loadNextImage, 10000);
         };
         downloadingImage.src = featImg.getAttribute("data-img-base") + img.path;
     };
