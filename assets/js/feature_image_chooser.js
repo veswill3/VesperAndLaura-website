@@ -473,12 +473,20 @@
         //     "link": ""
         // }
     ];
-    // Choose an image at random
-    var i = Math.floor(Math.random() * imgs.length),
-        featImg = document.getElementById("feature-img"),
-        choosenImg = featImg.getAttribute("src") + imgs[i].path;
+    var featImg = document.getElementById("feature-img"),
         featImgInfo = document.getElementById("feature-img-info");
-    featImg.setAttribute("src", choosenImg);
-    featImgInfo.innerHTML = imgs[i].info;
-    featImgInfo.setAttribute("href", "/" + imgs[i].link);
+
+    var loadNextImage = function() {
+        // Choose an image at random
+        var img = imgs[Math.floor(Math.random() * imgs.length)];
+        var downloadingImage = new Image();
+        downloadingImage.onload = function() {
+            featImgInfo.innerHTML = img.info;
+            featImgInfo.setAttribute("href", "/" + img.link);
+            featImg.src = this.src;
+            setTimeout(loadNextImage, 10000);
+        };
+        downloadingImage.src = featImg.getAttribute("data-img-base") + img.path;
+    };
+    loadNextImage();
 })();
