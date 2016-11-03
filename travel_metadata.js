@@ -2113,7 +2113,9 @@ travel_log = [
         "latLng": [46.68634, 7.8632],
         "dates_visited": "2016-9-23:2016-9-30",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/paragliding_interlaken_above.jpg"
     },
     {
         "name": "Grindelwald",
@@ -2121,7 +2123,8 @@ travel_log = [
         "latLng": [46.62416, 8.04139],
         "dates_visited": "2016-9-24",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps"
     },
     {
         "name": "Lake Brienz",
@@ -2129,7 +2132,9 @@ travel_log = [
         "latLng": [46.72674, 7.96747],
         "dates_visited": "2016-9-25",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/brienzsee_pano2.jpg"
     },
     {
         "name": "Bern",
@@ -2137,7 +2142,9 @@ travel_log = [
         "latLng": [46.94797, 7.44744],
         "dates_visited": "2016-9-26",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/bern_clock_tower.jpg"
     },
     {
         "name": "Mürren",
@@ -2145,7 +2152,8 @@ travel_log = [
         "latLng": [46.55875, 7.89182],
         "dates_visited": "2016-9-27",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps"
     },
     {
         "name": "Lauterbrunnen",
@@ -2153,7 +2161,9 @@ travel_log = [
         "latLng": [46.5935, 7.90909],
         "dates_visited": "2016-9-27",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/valley4.jpg"
     },
     {
         "name": "Wengen",
@@ -2161,7 +2171,8 @@ travel_log = [
         "latLng": [46.60543, 7.92153],
         "dates_visited": "2016-9-27",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps"
     },
     {
         "name": "Männlichen",
@@ -2169,7 +2180,9 @@ travel_log = [
         "latLng": [46.61814, 7.93806],
         "dates_visited": "2016-9-27",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/mannlichen_pano.jpg"
     },
     {
         "name": "Kleine Scheidegg",
@@ -2177,7 +2190,9 @@ travel_log = [
         "latLng": [46.585, 7.96111],
         "dates_visited": "2016-9-28",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/train.jpg"
     },
     {
         "name": "Jungfraujoch",
@@ -2185,7 +2200,9 @@ travel_log = [
         "latLng": [46.54827, 7.98064],
         "dates_visited": "2016-9-28",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/jungfraujoch.jpg"
     },
     {
         "name": "Beatenberg",
@@ -2193,7 +2210,8 @@ travel_log = [
         "latLng": [46.70354, 7.80955],
         "dates_visited": "2016-9-29",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps"
     },
     {
         "name": "Schynige Platte",
@@ -2201,7 +2219,9 @@ travel_log = [
         "latLng": [46.6562, 7.90693],
         "dates_visited": "2016-9-29",
         "add_to_map": true,
-        "area_group": "Interlaken"
+        "area_group": "Interlaken",
+        "blog_url": "Swiss-Alps",
+        "image_path": "swiss_alps/schynige_platte_pano2.jpg"
     },
     {
         "name": "Munich",

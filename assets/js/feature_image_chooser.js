@@ -459,12 +459,37 @@
             "path": "scotland/loch_lomond_pano.jpg",
             "info": "Loch Lomond, Scotland",
             "link": "Scotland"
+        },
+        {
+            "path": "scotland/scottish_highlands_pano.jpg",
+            "info": "Scottish Highlands",
+            "link": "Scotland"
+        },
+        {
+            "path": "swiss_alps/sun_through_clouds.jpg",
+            "info": "Lake Thun in Interlaken, Switzerland",
+            "link": "Swiss-Alps"
+        },
+        {
+            "path": "swiss_alps/brienzsee_pano.jpg",
+            "info": "Lake Brienz in Interlaken, Switzerland",
+            "link": "Swiss-Alps"
+        },
+        {
+            "path": "swiss_alps/brienzsee_pano2.jpg",
+            "info": "Lake Brienz in Interlaken, Switzerland",
+            "link": "Swiss-Alps"
+        },
+        {
+            "path": "swiss_alps/mannlichen_pano.jpg",
+            "info": "The view from Männlichen near Interlaken, Switzerland",
+            "link": "Swiss-Alps"
         }
         // ,
         // {
-        //     "path": "scotland/scottish_highlands_pano.jpg",
-        //     "info": "Scottish Highlands",
-        //     "link": "Scotland"
+        //     "path": "swiss_alps/schynige_platte_pano2.jpg",
+        //     "info": "The view from Schynige Platte near Interlaken, Switzerland",
+        //     "link": "Swiss-Alps"
         // }
         // ,
         // {

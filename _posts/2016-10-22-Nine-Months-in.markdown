@@ -11,7 +11,7 @@ image:
 
 We just wrapped up nine months of traveling - that's enough time to have a baby! Too bad we are having too much fun gallivanting around the world!
 
-In the last month we have traveled to nine cities in five countries: Interlaken and Bern in Switzerland; Prague in the Czech Republic; Rüdesheim and Frankfurt in Germany; Paris, France; and Mumbai, Udiapur, and Jodhpur in India. As a bonus, we also spent six hours in King Abdulaziz International Airport in Jeddah, which is probably as close as we will ever get to visiting Saudi Arabia unless they start issuing tourist visas or we decide to go on a pilgrimage to Mecca.
+In the last month we have traveled to nine cities in five countries: Interlaken and Bern in [Switzerland]({% post_url 2016-11-03-Swiss-Alps %}); Prague in the Czech Republic; Rüdesheim and Frankfurt in Germany; Paris, France; and Mumbai, Udiapur, and Jodhpur in India. As a bonus, we also spent six hours in King Abdulaziz International Airport in Jeddah, which is probably as close as we will ever get to visiting Saudi Arabia unless they start issuing tourist visas or we decide to go on a pilgrimage to Mecca.
 
 In lieu of our normal monthly post, here are some overall observations from our three months in Europe and our initial impressions of India.
 
