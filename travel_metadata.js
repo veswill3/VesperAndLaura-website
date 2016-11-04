@@ -2315,7 +2315,135 @@ travel_log = [
         "name": "Jaipur",
         "country_name": "India",
         "latLng": [26.91243, 75.78727],
-        "dates_visited": "2016-10-27",
+        "dates_visited": "2016-10-27:2016-11-03",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Nahargarh Fort",
+        "country_name": "India",
+        "latLng": [26.9375997, 75.81585410000002],
+        "dates_visited": "2016-10-30",
+        "add_to_map": true,
+        "area_group": "Jaipur"
+    },
+    {
+        "name": "Charan Mandir",
+        "country_name": "India",
+        "latLng": [26.9528062, 75.82683959999997],
+        "dates_visited": "2016-10-30",
+        "add_to_map": true,
+        "area_group": "Jaipur"
+    },
+    {
+        "name": "Sagar",
+        "country_name": "India",
+        "latLng": [26.9907048, 75.84762449999994],
+        "dates_visited": "2016-10-30",
+        "add_to_map": true,
+        "area_group": "Jaipur"
+    },
+    {
+        "name": "Step Well",
+        "country_name": "India",
+        "latLng": [26.9911093, 75.85123050000004],
+        "dates_visited": "2016-10-30",
+        "add_to_map": true,
+        "area_group": "Jaipur"
+    },
+    {
+        "name": "Amber Palace",
+        "country_name": "India",
+        "latLng": [26.9854865, 75.85134540000001],
+        "dates_visited": "2016-10-30",
+        "add_to_map": true,
+        "area_group": "Jaipur"
+    },
+    {
+        "name": "Todaraisingh",
+        "country_name": "India",
+        "latLng": [26.0245037, 75.48382590000006],
+        "dates_visited": "2016-11-01",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Stepwell 1 - Todaraisingh",
+        "country_name": "India",
+        "latLng": [26.023779, 75.48071400000003],
+        "dates_visited": "2016-11-01",
+        "add_to_map": false,
+        "area_group": "Todaraisingh"
+    },
+    {
+        "name": "Stepwell 2 - Todaraisingh",
+        "country_name": "India",
+        "latLng": [26.024374, 75.480456],
+        "dates_visited": "2016-11-01",
+        "add_to_map": false,
+        "area_group": "Todaraisingh"
+    },
+    {
+        "name": "Hadhi Rani Kund",
+        "country_name": "India",
+        "latLng": [26.02048199999999, 75.47850829999993],
+        "dates_visited": "2016-11-01",
+        "add_to_map": true,
+        "area_group": "Todaraisingh"
+    },
+    {
+        "name": "Todaraisingh broken fort",
+        "country_name": "India",
+        "latLng": [26.020056, 75.48785299999997],
+        "dates_visited": "2016-11-01",
+        "add_to_map": true,
+        "area_group": "Todaraisingh"
+    },
+    {
+        "name": "Jain Nasia Todaraisingh",
+        "country_name": "India",
+        "latLng": [26.0198068, 75.48413690000007],
+        "dates_visited": "2016-11-01",
+        "add_to_map": true,
+        "area_group": "Todaraisingh"
+    },
+    {
+        "name": "Bundi",
+        "country_name": "India",
+        "latLng": [25.4305144, 75.64990250000005],
+        "dates_visited": "2016-11-02",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Garh Palace",
+        "country_name": "India",
+        "latLng": [25.44881999999999, 75.635538],
+        "dates_visited": "2016-11-02",
+        "add_to_map": true,
+        "area_group": "Bundi"
+    },
+    {
+        "name": "Raniji Ki Baori",
+        "country_name": "India",
+        "latLng": [25.4403893, 75.63922730000002],
+        "dates_visited": "2016-11-02",
+        "add_to_map": true,
+        "area_group": "Bundi"
+    },
+    {
+        "name": "Rameshwar Mahadev",
+        "country_name": "India",
+        "latLng": [25.5249891, 75.68369059999998],
+        "dates_visited": "2016-11-02",
+        "add_to_map": true,
+        "area_group": "Bundi"
+    },
+    {
+        "name": "Agra",
+        "country_name": "India",
+        "latLng": [27.1766701, 78.00807450000002],
+        "dates_visited": "2016-11-04",
         "add_to_map": true,
         "area_group": true
     }
