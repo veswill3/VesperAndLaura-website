@@ -2443,9 +2443,17 @@ travel_log = [
         "name": "Agra",
         "country_name": "India",
         "latLng": [27.1766701, 78.00807450000002],
-        "dates_visited": "2016-11-04",
+        "dates_visited": "2016-11-04:2016-11-05",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Taj Mahal",
+        "country_name": "India",
+        "latLng": [27.1750151, 78.04215520000002],
+        "dates_visited": "2016-11-05",
+        "add_to_map": true,
+        "area_group": "Agra"
     }
 
     // ,
