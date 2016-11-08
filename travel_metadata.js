@@ -2454,6 +2454,46 @@ travel_log = [
         "dates_visited": "2016-11-05",
         "add_to_map": true,
         "area_group": "Agra"
+    },
+    {
+        "name": "New Delhi",
+        "country_name": "India",
+        "latLng": [28.61393, 77.20902],
+        "dates_visited": "2016-11-5:2016-11-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Akshardham",
+        "country_name": "India",
+        "latLng": [28.61267, 77.27726],
+        "dates_visited": "2016-11-6",
+        "add_to_map": true,
+        "area_group": "New Delhi"
+    },
+    {
+        "name": "Red Fort",
+        "country_name": "India",
+        "latLng": [28.65615, 77.24102],
+        "dates_visited": "2016-11-6",
+        "add_to_map": true,
+        "area_group": "New Delhi"
+    },
+    {
+        "name": "Chandni Chowk Market",
+        "country_name": "India",
+        "latLng": [28.65059, 77.23032],
+        "dates_visited": "2016-11-6",
+        "add_to_map": true,
+        "area_group": "New Delhi"
+    },
+    {
+        "name": "Varanasi",
+        "country_name": "India",
+        "latLng": [25.30467, 83.00831],
+        "dates_visited": "2016-11-07",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
