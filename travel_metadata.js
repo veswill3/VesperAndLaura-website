@@ -2491,7 +2491,15 @@ travel_log = [
         "name": "Varanasi",
         "country_name": "India",
         "latLng": [25.30467, 83.00831],
-        "dates_visited": "2016-11-07",
+        "dates_visited": "2016-11-07:2016-11-10",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Kolkata",
+        "country_name": "India",
+        "latLng": [22.57264, 88.36389],
+        "dates_visited": "2016-11-10",
         "add_to_map": true,
         "area_group": true
     }
