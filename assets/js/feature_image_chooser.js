@@ -484,12 +484,17 @@
             "path": "swiss_alps/mannlichen_pano.jpg",
             "info": "The view from Männlichen near Interlaken, Switzerland",
             "link": "Swiss-Alps"
+        },
+        {
+            "path": "swiss_alps/schynige_platte_pano2.jpg",
+            "info": "The view from Schynige Platte near Interlaken, Switzerland",
+            "link": "Swiss-Alps"
         }
         // ,
         // {
-        //     "path": "swiss_alps/schynige_platte_pano2.jpg",
-        //     "info": "The view from Schynige Platte near Interlaken, Switzerland",
-        //     "link": "Swiss-Alps"
+        //     "path": "prague/vltava_pano.jpg",
+        //     "info": "Prague from the Vltava river",
+        //     "link": "Prague-Czech-Republic"
         // }
         // ,
         // {

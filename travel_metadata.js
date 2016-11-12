@@ -2237,7 +2237,9 @@ travel_log = [
         "latLng": [50.0755381, 14.437800499999982],
         "dates_visited": "2016-9-30:2016-10-4",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Prague-Czech-Republic",
+        "image_path": "prague/vesper_and_laura_old_town_square.jpg"
     },
     {
         "name": "Munich",
