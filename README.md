@@ -42,4 +42,25 @@ $ git merge temp-branch
 $ git branch -d temp-branch
 ```
 
+# First time install
+
+Install node and npm, then update npm packages
+```sh
+$ npm install
+```
+
+Install [rbenv](https://github.com/rbenv/rbenv), then ruby and ruby gems
+```sh
+$ rbenv install 2.3.1 # or whatever the latest version is
+$ rbenv global 2.3.1
+$ gem install bundler
+$ rbenv rehash
+```
+
+Install gems (including Jekyll)
+```sh
+$ bundle install
+```
+
+---
 I started with the [HPSTR Jekyll Theme](https://mademistakes.com/work/hpstr-jekyll-theme/)
