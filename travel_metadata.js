@@ -2501,7 +2501,15 @@ travel_log = [
         "name": "Kolkata",
         "country_name": "India",
         "latLng": [22.57264, 88.36389],
-        "dates_visited": "2016-11-10",
+        "dates_visited": "2016-11-10-11-14",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Bangkok",
+        "country_name": "Thailand",
+        "latLng": [13.75633, 100.50176],
+        "dates_visited": "2016-11-15",
         "add_to_map": true,
         "area_group": true
     }
