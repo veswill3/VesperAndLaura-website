@@ -62,5 +62,10 @@ Install gems (including Jekyll)
 $ bundle install
 ```
 
+To run grunt tasks
+```sh
+$ npm run build
+```
+
 ---
 I started with the [HPSTR Jekyll Theme](https://mademistakes.com/work/hpstr-jekyll-theme/)

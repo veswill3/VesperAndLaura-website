@@ -1,24 +1,29 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "vesperandlaura",
+  "description": "Vesper and Laura's travel blog",
+  "author": "Vesper Williams <veswill3@gmail.com>",
+  "homepage": "http://vesperandlaura.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
+    "url": "https://github.com/veswill3/VesperAndLaura-website.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
+    "url": "https://github.com/veswill3/VesperAndLaura-website/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.6.3",
     "grunt-contrib-uglify": "~0.2.2",
     "grunt-contrib-watch": "~0.5.2",
-    "grunt-contrib-imagemin": "~0.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
     "grunt-svgmin": "~0.2.0"
+  },
+  "scripts": {
+    "build": "grunt"
   }
 }
