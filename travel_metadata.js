@@ -2073,7 +2073,9 @@ travel_log = [
         "latLng": [48.1351253, 11.581980599999952],
         "dates_visited": "2016-9-20:2016-9-23",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Germany",
+        "image_path": "germany/marinplatz.jpg"
     },
     {
         "name": "Oktoberfest",
@@ -2081,23 +2083,9 @@ travel_log = [
         "latLng": [48.1316, 11.54967],
         "dates_visited": "2016-9-21",
         "add_to_map": true,
-        "area_group": "Munich"
-    },
-    {
-        "name": "Karlsplatz",
-        "country_name": "Germany",
-        "latLng": [48.1396, 11.56594],
-        "dates_visited": "2016-9-22",
-        "add_to_map": true,
-        "area_group": "Munich"
-    },
-    {
-        "name": "Marienplatz",
-        "country_name": "Germany",
-        "latLng": [48.13739, 11.57544],
-        "dates_visited": "2016-9-22",
-        "add_to_map": true,
-        "area_group": "Munich"
+        "area_group": "Munich",
+        "blog_url": "Germany",
+        "image_path": "germany/oktoberfest_hofbrau_tent.jpg"
     },
     {
         "name": "Dachau Concentration Camp Memorial",
@@ -2105,7 +2093,9 @@ travel_log = [
         "latLng": [48.27012, 11.46827],
         "dates_visited": "2016-9-23",
         "add_to_map": true,
-        "area_group": "Munich"
+        "area_group": "Munich",
+        "blog_url": "Germany",
+        "image_path": "germany/dachau_memorial.jpg"
     },
     {
         "name": "Interlaken",
@@ -2247,7 +2237,9 @@ travel_log = [
         "latLng": [48.1351253, 11.581980599999952],
         "dates_visited": "2016-10-4:2016-10-9",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Germany",
+        "image_path": "germany/selfie_with_kim_infront_of_hofbrau_haus.jpg"
     },
     {
         "name": "Rüdesheim",
@@ -2255,7 +2247,9 @@ travel_log = [
         "latLng": [49.98214, 7.93011],
         "dates_visited": "2016-10-9:2016-10-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Germany",
+        "image_path": "germany/rudesheimer_pano.jpg"
     },
     {
         "name": "Frankfurt",
@@ -2263,7 +2257,9 @@ travel_log = [
         "latLng": [50.11092, 8.68212],
         "dates_visited": "2016-10-11:2016-10-13",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Germany",
+        "image_path": "germany/frankfurt_skyline_pano.jpg"
     },
     {
         "name": "Paris",

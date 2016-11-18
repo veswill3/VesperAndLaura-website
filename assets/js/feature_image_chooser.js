@@ -489,12 +489,27 @@
             "path": "swiss_alps/schynige_platte_pano2.jpg",
             "info": "The view from Schynige Platte near Interlaken, Switzerland",
             "link": "Swiss-Alps"
+        },
+        {
+            "path": "prague/vltava_pano.jpg",
+            "info": "Prague from the Vltava river",
+            "link": "Prague-Czech-Republic"
+        },
+        {
+            "path": "germany/frankfurt_skyline_pano.jpg",
+            "info": "Frankfurt, Germany",
+            "link": "Germany"
+        },
+        {
+            "path": "germany/oktoberfest_hofbrau_tent.jpg",
+            "info": "Inside the Hofbräu tent at Oktoberfest in Munich, Germany",
+            "link": "Germany"
         }
         // ,
         // {
-        //     "path": "prague/vltava_pano.jpg",
-        //     "info": "Prague from the Vltava river",
-        //     "link": "Prague-Czech-Republic"
+        //     "path": "germany/rudesheimer_pano.jpg",
+        //     "info": "The vineyards of Rüdesheim am Rhein, Germany",
+        //     "link": "Germany"
         // }
         // ,
         // {

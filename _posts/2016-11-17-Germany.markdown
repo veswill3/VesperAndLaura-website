@@ -1,0 +1,129 @@
+---
+layout: post
+title: "Beer and Wine in Germany"
+description: "Touring around Germany with family and friends."
+visitinfo:
+    start: 2016-09-20
+    end: 2016-09-23
+    start2: 2016-10-04
+    end2: 2016-10-13
+tags: [Europe, Germany, Beer]
+image:
+    feature: /germany/rudesheimer_pano.jpg
+    credit: The vineyards of Rüdesheim am Rhein
+---
+
+We ended up visiting Germany twice within a few weeks. The first was to meet Laura’s parents in Munich before we headed off to [Interlaken]({% post_url 2016-11-03-Swiss-Alps %}), and then again later to meet up with our friend Kim for her birthday!
+
+
+## Munich Round 1: Oktoberfest & Dachau 
+
+We weren’t planning on going to Oktoberfest since we’ve already been (twice), but then Laura’s parents got flights in/out of Munich so twist our arm! From our previous stints at Oktoberfest, we knew that it's easiest to go for lunch and leave before it gets super crowded and crazy. But in true Oktoberfest fashion, you might have so much fun that you forget to leave! After all, you can’t have only one stein! You have to make the rounds, check out all the beautifully decorated tents, and - of course - try all the delicious food and beer. We recommend everyone add Oktoberfest to their bucket list. It’s an amazing atmosphere with people from all over the world who are all happy, drunk, and rocking lederhosen and dirndls. Our friend Bryant was also in Munich for Oktoberfest, and it was great to catch up with him and share a few steins. 
+
+<figure class="half">
+    <a href="/images/germany/oktoberfest_hofbrau_tent_brian_and_kris.jpg"><img src="/images/germany/oktoberfest_hofbrau_tent_brian_and_kris.jpg" alt=""></a>
+    <a href="/images/germany/oktoberfest_hofbrau_tent_laura_and_vesper.jpg"><img src="/images/germany/oktoberfest_hofbrau_tent_laura_and_vesper.jpg" alt=""></a>
+    <figcaption>Cheers from Oktoberfest!</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/oktoberfest_hofbrau_tent.jpg"><img src="/images/germany/oktoberfest_hofbrau_tent.jpg" alt=""></a>
+    <figcaption>Inside the Hofbräu tent.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/oktoberfest_spaten_tent.jpg"><img src="/images/germany/oktoberfest_spaten_tent.jpg" alt=""></a>
+    <a href="/images/germany/oktoberfest_chicken.jpg"><img src="/images/germany/oktoberfest_chicken.jpg" alt=""></a>
+    <figcaption>Inside the Spaten tent and what we have dubbed "crack chicken" because it's so tasty!</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/hofbrau_haus_with_bryant.jpg"><img src="/images/germany/hofbrau_haus_with_bryant.jpg" alt=""></a>
+    <figcaption>Catching up with Bryant at the Hofbräuhaus.</figcaption>
+</figure>
+
+After oktoberfest, we visited Dachau just outside of Munich. Dachau was the first concentration camp set up by the Nazis in World War II. Although we had visited this site a few years ago, it was interesting to go back since we had toured [Auschwitz]({% post_url 2016-10-14-Poland %}) only a month prior.  
+
+<figure class="half">
+    <a href="/images/germany/dachau_fence.jpg"><img src="/images/germany/dachau_fence.jpg" alt=""></a>
+    <a href="/images/germany/dachau_barracks.jpg"><img src="/images/germany/dachau_barracks.jpg" alt=""></a>
+    <figcaption>The entrance gate and inside a bunker.</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/dachau_memorial.jpg"><img src="/images/germany/dachau_memorial.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/dachau_cremetorium.jpg"><img src="/images/germany/dachau_cremetorium.jpg" alt=""></a>
+    <a href="/images/germany/dachau_furnace.jpg"><img src="/images/germany/dachau_furnace.jpg" alt=""></a>
+    <figcaption>The building that housed the gas chamber and crematoriums.</figcaption>
+</figure>
+
+
+## Munich Round 2: Happy birthday, Kim!
+
+After saying goodbye to Laura’s parents, we came back to Munich to meet up with Kim. We have only ever been to Munich during Oktoberfest, so it was interesting for us to see the contrast. Kim arrived on her birthday, so in addition to seeing the sights around town, we celebrated in classic style at Hofbräuhaus.
+
+<figure>
+    <a href="/images/germany/selfie_with_kim_infront_of_hofbrau_haus.jpg"><img src="/images/germany/selfie_with_kim_infront_of_hofbrau_haus.jpg" alt=""></a>
+    <figcaption>Ready for some birthday beers at Hofbräu!</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/shopping.jpg"><img src="/images/germany/shopping.jpg" alt=""></a>
+    <a href="/images/germany/lobster.jpg"><img src="/images/germany/lobster.jpg" alt=""></a>
+    <figcaption>This is what happens when we visit a market.</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/marinplatz.jpg"><img src="/images/germany/marinplatz.jpg" alt=""></a>
+    <figcaption>Marienplatz, the main square in Munich.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/lion_statues.jpg"><img src="/images/germany/lion_statues.jpg" alt=""></a>
+    <a href="/images/germany/lucky_lion.jpg"><img src="/images/germany/lucky_lion.jpg" alt=""></a>
+    <figcaption>Lions at the Feldherrnhalle and the lucky lions of the Residenz.</figcaption>
+</figure>
+
+
+## Rüdesheim am Rhein
+
+To shake things up a bit, we took a break from beer and headed to wine country. Germany is known for their rieslings and some pinots too. We spent a few days touring various wineries, enjoying the countryside, and walking along the Rhine River.
+
+<figure>
+    <a href="/images/germany/rudesheimer_from_cable_car.jpg"><img src="/images/germany/rudesheimer_from_cable_car.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/fall_decorations.jpg"><img src="/images/germany/fall_decorations.jpg" alt=""></a>
+    <a href="/images/germany/gross_sweet_wine.jpg"><img src="/images/germany/gross_sweet_wine.jpg" alt=""></a>
+    <figcaption>We found buckeyes and street wine walking through the city!</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/rhyne_river_from_hill.jpg"><img src="/images/germany/rhyne_river_from_hill.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/germany/wine_barrels.jpg"><img src="/images/germany/wine_barrels.jpg" alt=""></a>
+    <a href="/images/germany/rudesheimer_selfie_from_hill.jpg"><img src="/images/germany/rudesheimer_selfie_from_hill.jpg" alt=""></a>
+</figure>
+
+
+## Frankfurt
+
+Our final stop with Kim was Frankfurt, a city with a very metropolitan feel. It too has a charming Old Town, but the city is dominated by skyscrapers since it is the financial capital of Germany. We enjoyed a few more beer gardens, checked out the skyline along the river and splurged on… Chipotle! We haven’t had it since we left the US, but it happened to be located right next to our hotel. It wasn’t quite what you would expect for our last meal in Germany, but it was delicious nevertheless!
+
+<figure class="half">
+    <a href="/images/germany/frankfurt_old_town.jpg"><img src="/images/germany/frankfurt_old_town.jpg" alt=""></a>
+    <a href="/images/germany/chipotle.jpg"><img src="/images/germany/chipotle.jpg" alt=""></a>
+    <figcaption>Frankfurt's Old Town, and hooray CHIPOTLE!</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/germany/frankfurt_skyline_pano.jpg"><img src="/images/germany/frankfurt_skyline_pano.jpg" alt=""></a>
+</figure>
+
+Auf Wiedersehen, Germany! Until next time!

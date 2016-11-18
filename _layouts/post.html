@@ -44,7 +44,15 @@
       {% if page.visitinfo %}
         <div class="visit-meta-block">
           <div class="visit-meta-dates">
-            <time datetime="{{ page.visitinfo.start | date_to_xmlschema }}">{{ page.visitinfo.start | date: "%B %d, %Y" }}</time> - <time datetime="{{ page.visitinfo.end | date_to_xmlschema }}">{{ page.visitinfo.end | date: "%B %d, %Y" }}</time>
+            <time datetime="{{ page.visitinfo.start | date_to_xmlschema }}">{{ page.visitinfo.start | date: "%B %d, %Y" }}</time>
+            -
+            <time datetime="{{ page.visitinfo.end | date_to_xmlschema }}">{{ page.visitinfo.end | date: "%B %d, %Y" }}</time>
+            {% if page.visitinfo.start2 %}
+              and
+              <time datetime="{{ page.visitinfo.start2 | date_to_xmlschema }}">{{ page.visitinfo.start2 | date: "%B %d, %Y" }}</time>
+              -
+              <time datetime="{{ page.visitinfo.end2 | date_to_xmlschema }}">{{ page.visitinfo.end2 | date: "%B %d, %Y" }}</time>
+            {% endif %}
           </div>
         </div>
       {% endif %}
