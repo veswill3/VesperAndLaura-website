@@ -2505,7 +2505,15 @@ travel_log = [
         "name": "Bangkok",
         "country_name": "Thailand",
         "latLng": [13.75633, 100.50176],
-        "dates_visited": "2016-11-15",
+        "dates_visited": "2016-11-15:2016-11-18",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Phra Nakhon Si Ayutthaya",
+        "country_name": "Thailand",
+        "latLng": [14.35321, 100.56895],
+        "dates_visited": "2016-11-18",
         "add_to_map": true,
         "area_group": true
     }
