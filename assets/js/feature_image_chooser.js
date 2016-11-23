@@ -2,12 +2,12 @@
     var imgs = [
         {
             "path": "china/pagoda.jpg",
-            "info": "Bejing, China",
+            "info": "Beijing, China",
             "link": "Our-first-adventure-in-asia"
         },
         {
             "path": "st_martin/beach_with_moon.jpg",
-            "info": "St Marten",
+            "info": "St. Martin",
             "link": "st-martin"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "path": "antigua/volcano_sunset.jpg",
-            "info": "From Pacaya volcano, Guatemala",
+            "info": "From Pacaya Volcano, Guatemala",
             "link": "Antigua-Guatemala"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "path": "huaraz/top_of_wilcacocha.jpg",
-            "info": "Above lake Wilcacocha near Huaraz Peru",
+            "info": "Above Lake Wilcacocha near Huaraz, Peru",
             "link": "Huaraz-Peru"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "path": "lima/cooking_class_food.jpg",
-            "info": "Cooking with chef Hector in Lima, Peru",
+            "info": "Cooking with Chef Hector in Lima, Peru",
             "link": "Lima-Peru"
         },
         {
@@ -192,12 +192,12 @@
         },
         {
             "path": "ushuaia/beagle_channel_pano.jpg",
-            "info": "On the Beagle channel in Tierra del Fuego",
+            "info": "On the Beagle Channel in Tierra del Fuego",
             "link": "Ushuaia-Argentina"
         },
         {
             "path": "ushuaia/beagle_channel_sunset.jpg",
-            "info": "Islands of Tierra del Fuego in the Beagle channel",
+            "info": "Islands of Tierra del Fuego in the Beagle Channel",
             "link": "Ushuaia-Argentina"
         },
         {
@@ -212,7 +212,7 @@
         },
         {
             "path": "ushuaia/laguna_esmerelda_pano.jpg",
-            "info": "Laguna Esmeralda near Ushuaia Argentina",
+            "info": "Laguna Esmeralda near Ushuaia, Argentina",
             "link": "Ushuaia-Argentina"
         },
         {
@@ -297,7 +297,7 @@
         },
             {
             "path": "rio/ipanema_beach_pano.jpg",
-            "info": "Ipanema beach in Rio de Janeiro, Brazil",
+            "info": "Ipanema Beach in Rio de Janeiro, Brazil",
             "link": "Rio-de-Janeiro-Brazil"
         },
         {
@@ -307,12 +307,12 @@
         },
         {
             "path": "copenhagen/nyhavn.jpg",
-            "info": "Nyhavn canal in Copenhagen, Denmark",
+            "info": "Nyhavn in Copenhagen, Denmark",
             "link": "Copenhagen-Denmark"
         },
         {
             "path": "norway/frogner_wide.jpg",
-            "info": "Frogner park in Oslo, Norway",
+            "info": "Frogner Park in Oslo, Norway",
             "link": "Norway"
         },
         {
@@ -367,7 +367,7 @@
         },
         {
             "path": "budapest/danube_above_pano.jpg",
-            "info": "Looking out over the Danube river in Budapest, Hungary",
+            "info": "Looking out over the Danube River in Budapest, Hungary",
             "link": "Budapest-Hungary"
         },
         {
@@ -377,7 +377,7 @@
         },
         {
             "path": "budapest/danube_from_buda_castle_pano.jpg",
-            "info": "Looking out over the Danube river from Buda Castle in Budapest, Hungary",
+            "info": "Looking out over the Danube River from Buda Castle in Budapest, Hungary",
             "link": "Budapest-Hungary"
         },
         {
@@ -432,12 +432,12 @@
         },
         {
             "path": "scotland/quiraing_hike_pano2.jpg",
-            "info": "Quiraing Hike in Portree, Scotland",
+            "info": "Quiraing Hike on the Isle of Skye, Scotland",
             "link": "Scotland"
         },
         {
             "path": "scotland/old_man_of_storr_hike_pano.jpg",
-            "info": "Old Man of Storr in Portree, Scotland",
+            "info": "Old Man of Storr on the Isle of Skye, Scotland",
             "link": "Scotland"
         },
         {
@@ -492,7 +492,7 @@
         },
         {
             "path": "prague/vltava_pano.jpg",
-            "info": "Prague from the Vltava river",
+            "info": "Prague from the Vltava River",
             "link": "Prague-Czech-Republic"
         },
         {
