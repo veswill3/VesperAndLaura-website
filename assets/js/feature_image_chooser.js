@@ -505,11 +505,17 @@
             "info": "Inside the Hofbräu tent at Oktoberfest in Munich, Germany",
             "link": "Germany"
         }
+        ,
+        {
+            "path": "germany/rudesheimer_pano.jpg",
+            "info": "The vineyards of Rüdesheim am Rhein, Germany",
+            "link": "Germany"
+        }
         // ,
         // {
-        //     "path": "germany/rudesheimer_pano.jpg",
-        //     "info": "The vineyards of Rüdesheim am Rhein, Germany",
-        //     "link": "Germany"
+        //     "path": "paris/eiffel_tower_and_river.jpg",
+        //     "info": "Under the Eiffel Tower in Paris, France",
+        //     "link": "Paris-France"
         // }
         // ,
         // {

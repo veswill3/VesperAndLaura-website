@@ -2267,7 +2267,9 @@ travel_log = [
         "latLng": [48.85661, 2.35222],
         "dates_visited": "2016-10-13:2016-10-17",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Paris-France",
+        "image_path": "paris/eiffel_tower_with_champagne.jpg"
     },
     {
         "name": "King Abdulaziz International Airport",
