@@ -2536,6 +2536,14 @@ travel_log = [
         "dates_visited": "2016-11-28:2016-12-02",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Chiang Rai",
+        "country_name": "Thailand",
+        "latLng": [19.91047, 99.84057],
+        "dates_visited": "2016-12-07",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
