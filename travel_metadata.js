@@ -2285,7 +2285,9 @@ travel_log = [
         "latLng": [19.07598, 72.87765],
         "dates_visited": "2016-10-18:2016-10-20",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Mumbai-India",
+        "image_path": "mumbai/gateway_to_india_selfie.jpg"
     },
     {
         "name": "Udiapur",

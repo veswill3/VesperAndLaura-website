@@ -510,12 +510,17 @@
             "path": "germany/rudesheimer_pano.jpg",
             "info": "The vineyards of Rüdesheim am Rhein, Germany",
             "link": "Germany"
+        },
+        {
+            "path": "paris/eiffel_tower_and_river.jpg",
+            "info": "Under the Eiffel Tower in Paris, France",
+            "link": "Paris-France"
         }
         // ,
         // {
-        //     "path": "paris/eiffel_tower_and_river.jpg",
-        //     "info": "Under the Eiffel Tower in Paris, France",
-        //     "link": "Paris-France"
+        //     "path": "mumbai/looking_out_from_the_gate_of_india_pano.jpg",
+        //     "info": "Overlooking the Arabian Sea near the Gateway of India in Mumbai",
+        //     "link": "Mumbai-India"
         // }
         // ,
         // {
