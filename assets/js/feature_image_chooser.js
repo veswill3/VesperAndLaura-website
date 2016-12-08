@@ -515,12 +515,17 @@
             "path": "paris/eiffel_tower_and_river.jpg",
             "info": "Under the Eiffel Tower in Paris, France",
             "link": "Paris-France"
+        },
+        {
+            "path": "mumbai/looking_out_from_the_gate_of_india_pano.jpg",
+            "info": "Overlooking the Arabian Sea near the Gateway of India in Mumbai",
+            "link": "Mumbai-India"
         }
         // ,
         // {
-        //     "path": "mumbai/looking_out_from_the_gate_of_india_pano.jpg",
-        //     "info": "Overlooking the Arabian Sea near the Gateway of India in Mumbai",
-        //     "link": "Mumbai-India"
+        //     "path": "udaipur/palace_in_udaipur_pano.jpg",
+        //     "info": "Udaipur, India",
+        //     "link": "Udaipur-India"
         // }
         // ,
         // {

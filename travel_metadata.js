@@ -2290,12 +2290,14 @@ travel_log = [
         "image_path": "mumbai/gateway_to_india_selfie.jpg"
     },
     {
-        "name": "Udiapur",
+        "name": "Udaipur",
         "country_name": "India",
         "latLng": [24.58544, 73.71247],
         "dates_visited": "2016-10-20:2016-10-21",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Udaipur-India",
+        "image_path": "udaipur/temple_in_udaipur.jpg"
     },
     {
         "name": "Jodhpur",
