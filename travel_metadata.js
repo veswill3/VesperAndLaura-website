@@ -2519,7 +2519,7 @@ travel_log = [
         "name": "Phra Nakhon Si Ayutthaya",
         "country_name": "Thailand",
         "latLng": [14.35321, 100.56895],
-        "dates_visited": "2016-11-18",
+        "dates_visited": "2016-11-18:2016-11-19",
         "add_to_map": true,
         "area_group": true
     },
