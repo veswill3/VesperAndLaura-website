@@ -24,6 +24,8 @@ select yn in "Yes" "No"; do
     esac
 done
 
+echo "<figure class=\"third\">"
 for f in *; do
-    echo "<a href=\"/images/$DIRECTORY/$f\"><img src=\"/images/$DIRECTORY/$f\" alt=\"\"></a>"
+    echo "    <a href=\"/images/$DIRECTORY/$f\"><img src=\"/images/$DIRECTORY/$f\" alt=\"\"></a>"
 done)
+echo "</figure>"
