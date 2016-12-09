@@ -520,12 +520,17 @@
             "path": "mumbai/looking_out_from_the_gate_of_india_pano.jpg",
             "info": "Overlooking the Arabian Sea near the Gateway of India in Mumbai",
             "link": "Mumbai-India"
+        },
+        {
+            "path": "udaipur/palace_in_udaipur_pano.jpg",
+            "info": "Udaipur, India",
+            "link": "Udaipur-India"
         }
         // ,
         // {
-        //     "path": "udaipur/palace_in_udaipur_pano.jpg",
-        //     "info": "Udaipur, India",
-        //     "link": "Udaipur-India"
+        //     "path": "jodhpur/overlooking_jodhpur_pano.jpg",
+        //     "info": "Overlooking the blue city in Jodhpur, India",
+        //     "link": "Jodhpur-India"
         // }
         // ,
         // {

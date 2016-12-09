@@ -2305,7 +2305,9 @@ travel_log = [
         "latLng": [26.23894, 73.0243],
         "dates_visited": "2016-10-22:2016-10-23",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Jodhpur-India",
+        "image_path": "jodhpur/blue_city.jpg"
     },
     {
         "name": "Pushkar",
