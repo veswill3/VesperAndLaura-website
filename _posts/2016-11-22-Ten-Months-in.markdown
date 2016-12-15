@@ -24,8 +24,8 @@ Given what we said about India, it’s easy to see why Thailand is a breath of f
 
 ## Fast Facts:
 
-Favorite city in India: Pushkar?
-Favorite attraction name: Jantar Mantar
-Smoggiest city: New Delhi
-Favorite new hashtag: #Delhismelly
-Best food in Thailand: Everything!
+- Favorite city in India: Pushkar, India
+- Favorite attraction name: Jantar Mantar
+- Smoggiest city: New Delhi
+- Favorite new hashtag: #Delhismelly
+- Best food in Thailand: Everything!
