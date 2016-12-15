@@ -2545,7 +2545,31 @@ travel_log = [
         "name": "Chiang Rai",
         "country_name": "Thailand",
         "latLng": [19.91047, 99.84057],
-        "dates_visited": "2016-12-07",
+        "dates_visited": "2016-12-07:2016-12-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Huay Xai",
+        "country_name": "Laos",
+        "latLng": [20.26281, 100.43403],
+        "dates_visited": "2016-12-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Pak Beng",
+        "country_name": "Laos",
+        "latLng": [19.89898, 101.14191],
+        "dates_visited": "2016-12-12",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Luang Prabang",
+        "country_name": "Laos",
+        "latLng": [19.88339, 102.13468],
+        "dates_visited": "2016-12-13",
         "add_to_map": true,
         "area_group": true
     }
