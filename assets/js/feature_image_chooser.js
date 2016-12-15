@@ -525,12 +525,22 @@
             "path": "udaipur/palace_in_udaipur_pano.jpg",
             "info": "Udaipur, India",
             "link": "Udaipur-India"
+        },
+        {
+            "path": "jodhpur/overlooking_jodhpur_pano.jpg",
+            "info": "Overlooking the blue city in Jodhpur, India",
+            "link": "Jodhpur-India"
+        },
+        {
+            "path": "pushkar/color_powder.jpg",
+            "info": "Street market in Pushkar, India",
+            "link": "Pushkar-India"
         }
         // ,
         // {
-        //     "path": "jodhpur/overlooking_jodhpur_pano.jpg",
-        //     "info": "Overlooking the blue city in Jodhpur, India",
-        //     "link": "Jodhpur-India"
+        //     "path": "pushkar/pushkar_sunset_pano.jpg",
+        //     "info": "Sunset over Pushkar, India",
+        //     "link": "Pushkar-India"
         // }
         // ,
         // {

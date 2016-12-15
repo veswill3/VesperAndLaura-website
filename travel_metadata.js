@@ -2315,7 +2315,9 @@ travel_log = [
         "latLng": [26.48974, 74.55108],
         "dates_visited": "2016-10-24:2016-10-27",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Pushkar-India",
+        "image_path": "pushkar/pushkar_lake.jpg"
     },
     {
         "name": "Jaipur",

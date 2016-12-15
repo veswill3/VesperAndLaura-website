@@ -9,7 +9,7 @@ image:
     credit: 
 ---
 
-In the last month we have traveled to nine cities in two countries: Pushkar, Jaipur, Agra, New Delhi, Varanasi, and Kolkata in India; and Bangkok, Ayutthaya, and Chiang Mai in Thailand. We’ve only been in Thailand a week now, but so far we are in love with it. Maybe we’ll end up extending our 30 day tourist visa!
+In the last month we have traveled to nine cities in two countries: [Pushkar]({% post_url 2016-12-15-Pushkar-India %}), Jaipur, Agra, New Delhi, Varanasi, and Kolkata in India; and Bangkok, Ayutthaya, and Chiang Mai in Thailand. We’ve only been in Thailand a week now, but so far we are in love with it. Maybe we’ll end up extending our 30 day tourist visa!
 
 
 ## One Month in India
@@ -24,7 +24,7 @@ Given what we said about India, it’s easy to see why Thailand is a breath of f
 
 ## Fast Facts:
 
-- Favorite city in India: Pushkar, India
+- Favorite city in India: [Pushkar]({% post_url 2016-12-15-Pushkar-India %}), India
 - Favorite attraction name: Jantar Mantar
 - Smoggiest city: New Delhi
 - Favorite new hashtag: #Delhismelly
