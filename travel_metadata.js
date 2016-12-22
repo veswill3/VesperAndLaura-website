@@ -2571,7 +2571,23 @@ travel_log = [
         "name": "Luang Prabang",
         "country_name": "Laos",
         "latLng": [19.88339, 102.13468],
-        "dates_visited": "2016-12-13",
+        "dates_visited": "2016-12-13:2016-12-18",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Vang Vieng",
+        "country_name": "Laos",
+        "latLng": [18.95009, 102.44379],
+        "dates_visited": "2016-12-18:2016-12-22",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Vientiane",
+        "country_name": "Laos",
+        "latLng": [17.9757, 102.6331],
+        "dates_visited": "2016-12-22",
         "add_to_map": true,
         "area_group": true
     }
