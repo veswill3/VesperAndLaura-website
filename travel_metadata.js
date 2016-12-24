@@ -2587,7 +2587,15 @@ travel_log = [
         "name": "Vientiane",
         "country_name": "Laos",
         "latLng": [17.9757, 102.6331],
-        "dates_visited": "2016-12-22",
+        "dates_visited": "2016-12-22:2016-12-23",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Hanoi",
+        "country_name": "Vietnam",
+        "latLng": [21.02776, 105.83415],
+        "dates_visited": "2016-12-23",
         "add_to_map": true,
         "area_group": true
     }
