@@ -2595,10 +2595,34 @@ travel_log = [
         "name": "Hanoi",
         "country_name": "Vietnam",
         "latLng": [21.02776, 105.83415],
-        "dates_visited": "2016-12-23",
+        "dates_visited": "2016-12-23:2016-12-27,2016-12-31",
         "add_to_map": true,
         "area_group": true
-    }
+    },
+    {
+        "name": "Ta Van",
+        "country_name": "Vietnam",
+        "latLng": [22.30054, 103.89303],
+        "dates_visited": "2016-12-28",
+        "add_to_map": true,
+        "area_group": "Sapa"
+    },
+    {
+        "name": "Bản Hồ",
+        "country_name": "Vietnam",
+        "latLng": [22.21572, 103.9492],
+        "dates_visited": "2016-12-29",
+        "add_to_map": true,
+        "area_group": "Sapa"
+    },
+    {
+        "name": "Sa Pa",
+        "country_name": "Vietnam",
+        "latLng": [22.33636, 103.84378],
+        "dates_visited": "2016-12-30",
+        "add_to_map": true,
+        "area_group": "Sapa"
+    },
 
     // ,
     // {
