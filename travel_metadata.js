@@ -2595,7 +2595,7 @@ travel_log = [
         "name": "Hanoi",
         "country_name": "Vietnam",
         "latLng": [21.02776, 105.83415],
-        "dates_visited": "2016-12-23:2016-12-27,2016-12-31",
+        "dates_visited": "2016-12-23:2016-12-27,2016-12-31:2017-1-1",
         "add_to_map": true,
         "area_group": true
     },
@@ -2623,13 +2623,21 @@ travel_log = [
         "add_to_map": true,
         "area_group": "Sapa"
     },
+    {
+        "name": "Cát Bà Island",
+        "country_name": "Vietnam",
+        "latLng": [20.8, 106.99972],
+        "dates_visited": "2017-1-2",
+        "add_to_map": true,
+        "area_group": true
+    }
 
     // ,
     // {
     //     "name": "",
     //     "country_name": "",
     //     "latLng": [],
-    //     "dates_visited": "2016-",
+    //     "dates_visited": "2017-",
     //     "add_to_map": true,
     //     "area_group": true/false
     // }
