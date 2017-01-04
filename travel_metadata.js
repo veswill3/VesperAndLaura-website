@@ -2325,7 +2325,9 @@ travel_log = [
         "latLng": [26.91243, 75.78727],
         "dates_visited": "2016-10-27:2016-11-03",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/diwali_decorations3.jpg"
     },
     {
         "name": "Nahargarh Fort",
@@ -2333,7 +2335,9 @@ travel_log = [
         "latLng": [26.9375997, 75.81585410000002],
         "dates_visited": "2016-10-30",
         "add_to_map": true,
-        "area_group": "Jaipur"
+        "area_group": "Jaipur",
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/jaipur_sunrise2.jpg"
     },
     {
         "name": "Charan Mandir",
@@ -2341,7 +2345,9 @@ travel_log = [
         "latLng": [26.9528062, 75.82683959999997],
         "dates_visited": "2016-10-30",
         "add_to_map": true,
-        "area_group": "Jaipur"
+        "area_group": "Jaipur",
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/view_from_top_of_hindu_temple_pano.jpg"
     },
     {
         "name": "Sagar",
@@ -2349,7 +2355,9 @@ travel_log = [
         "latLng": [26.9907048, 75.84762449999994],
         "dates_visited": "2016-10-30",
         "add_to_map": true,
-        "area_group": "Jaipur"
+        "area_group": "Jaipur",
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/sagar_above.jpg"
     },
     {
         "name": "Step Well",
@@ -2357,7 +2365,9 @@ travel_log = [
         "latLng": [26.9911093, 75.85123050000004],
         "dates_visited": "2016-10-30",
         "add_to_map": true,
-        "area_group": "Jaipur"
+        "area_group": "Jaipur",
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/stepwell2.jpg"
     },
     {
         "name": "Amber Palace",
@@ -2365,7 +2375,9 @@ travel_log = [
         "latLng": [26.9854865, 75.85134540000001],
         "dates_visited": "2016-10-30",
         "add_to_map": true,
-        "area_group": "Jaipur"
+        "area_group": "Jaipur",
+        "blog_url": "Jaipur-India",
+        "image_path": "jaipur/amber_fort.jpg"
     },
     {
         "name": "Todaraisingh",

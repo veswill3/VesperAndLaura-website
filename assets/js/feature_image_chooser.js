@@ -535,12 +535,32 @@
             "path": "pushkar/color_powder.jpg",
             "info": "Street market in Pushkar, India",
             "link": "Pushkar-India"
+        },
+        {
+            "path": "pushkar/pushkar_sunset_pano.jpg",
+            "info": "Sunset over Pushkar, India",
+            "link": "Pushkar-India"
+        },
+        {
+            "path": "jaipur/view_from_top_of_hindu_temple_pano.jpg",
+            "info": "Looking out from atop a Hindu temple near Jaipur, India",
+            "link": "Jaipur-India"
+        },
+        {
+            "path": "jaipur/sagar_pano.jpg",
+            "info": "Sagar, a water reservoir near Jaipur, India",
+            "link": "Jaipur-India"
+        },
+        {
+            "path": "jaipur/stepwell_pano.jpg",
+            "info": "A stepwell near Jaipur, India",
+            "link": "Jaipur-India"
         }
         // ,
         // {
-        //     "path": "pushkar/pushkar_sunset_pano.jpg",
-        //     "info": "Sunset over Pushkar, India",
-        //     "link": "Pushkar-India"
+        //     "path": "jaipur/wall_above_sagar_pano.jpg",
+        //     "info": "The wall above Sagar with views of the Amber Fort near Jaipur, India",
+        //     "link": "Jaipur-India"
         // }
         // ,
         // {
