@@ -555,12 +555,38 @@
             "path": "jaipur/stepwell_pano.jpg",
             "info": "A stepwell near Jaipur, India",
             "link": "Jaipur-India"
+        },
+        {
+            "path": "jaipur/wall_above_sagar_pano.jpg",
+            "info": "The wall above Sagar with views of the Amber Fort near Jaipur, India",
+            "link": "Jaipur-India"
+        }
+        ,
+        {
+            "path": "bundi/todaraisingh_step_well_pano.jpg",
+            "info": "Hadi Rani Ki Baori in Todaraisingh, India",
+            "link": "Bundi-India"
+        },
+        {
+            "path": "bundi/bundi_palace_garden_pano.jpg",
+            "info": "Garh Palace garden in Bundi, India",
+            "link": "Bundi-India"
+        },
+        {
+            "path": "bundi/bundi_from_palace_pano.jpg",
+            "info": "Looking out from Garh Palace in Bundi, India",
+            "link": "Bundi-India"
+        },
+        {
+            "path": "bundi/bundi_from_across_pond_pano.jpg",
+            "info": "Bundi, India",
+            "link": "Bundi-India"
         }
         // ,
         // {
-        //     "path": "jaipur/wall_above_sagar_pano.jpg",
-        //     "info": "The wall above Sagar with views of the Amber Fort near Jaipur, India",
-        //     "link": "Jaipur-India"
+        //     "path": "bundi/todaraisingh_fort_pano2.jpg",
+        //     "info": "An abandoned in Todaraisingh, India",
+        //     "link": "Bundi-India"
         // }
         // ,
         // {

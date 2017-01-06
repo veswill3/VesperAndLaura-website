@@ -2385,7 +2385,8 @@ travel_log = [
         "latLng": [26.0245037, 75.48382590000006],
         "dates_visited": "2016-11-01",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Bundi-India"
     },
     {
         "name": "Stepwell 1 - Todaraisingh",
@@ -2393,7 +2394,8 @@ travel_log = [
         "latLng": [26.023779, 75.48071400000003],
         "dates_visited": "2016-11-01",
         "add_to_map": false,
-        "area_group": "Todaraisingh"
+        "area_group": "Todaraisingh",
+        "blog_url": "Bundi-India"
     },
     {
         "name": "Stepwell 2 - Todaraisingh",
@@ -2401,7 +2403,8 @@ travel_log = [
         "latLng": [26.024374, 75.480456],
         "dates_visited": "2016-11-01",
         "add_to_map": false,
-        "area_group": "Todaraisingh"
+        "area_group": "Todaraisingh",
+        "blog_url": "Bundi-India"
     },
     {
         "name": "Hadhi Rani Kund",
@@ -2409,7 +2412,9 @@ travel_log = [
         "latLng": [26.02048199999999, 75.47850829999993],
         "dates_visited": "2016-11-01",
         "add_to_map": true,
-        "area_group": "Todaraisingh"
+        "area_group": "Todaraisingh",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/todaraisingh_step_well_pano.jpg"
     },
     {
         "name": "Todaraisingh broken fort",
@@ -2417,7 +2422,9 @@ travel_log = [
         "latLng": [26.020056, 75.48785299999997],
         "dates_visited": "2016-11-01",
         "add_to_map": true,
-        "area_group": "Todaraisingh"
+        "area_group": "Todaraisingh",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/todaraisingh_fort_pano2.jpg"
     },
     {
         "name": "Jain Nasia Todaraisingh",
@@ -2425,7 +2432,9 @@ travel_log = [
         "latLng": [26.0198068, 75.48413690000007],
         "dates_visited": "2016-11-01",
         "add_to_map": true,
-        "area_group": "Todaraisingh"
+        "area_group": "Todaraisingh",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/todaraisingh_sunset.jpg"
     },
     {
         "name": "Bundi",
@@ -2433,7 +2442,9 @@ travel_log = [
         "latLng": [25.4305144, 75.64990250000005],
         "dates_visited": "2016-11-02",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/bundi_from_palace_pano.jpg"
     },
     {
         "name": "Garh Palace",
@@ -2441,7 +2452,9 @@ travel_log = [
         "latLng": [25.44881999999999, 75.635538],
         "dates_visited": "2016-11-02",
         "add_to_map": true,
-        "area_group": "Bundi"
+        "area_group": "Bundi",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/bundi_palace_garden_pano.jpg"
     },
     {
         "name": "Raniji Ki Baori",
@@ -2449,7 +2462,9 @@ travel_log = [
         "latLng": [25.4403893, 75.63922730000002],
         "dates_visited": "2016-11-02",
         "add_to_map": true,
-        "area_group": "Bundi"
+        "area_group": "Bundi",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/bundi_stepwell.jpg"
     },
     {
         "name": "Rameshwar Mahadev",
@@ -2457,7 +2472,9 @@ travel_log = [
         "latLng": [25.5249891, 75.68369059999998],
         "dates_visited": "2016-11-02",
         "add_to_map": true,
-        "area_group": "Bundi"
+        "area_group": "Bundi",
+        "blog_url": "Bundi-India",
+        "image_path": "bundi/rameshwar_mahadev_waterfall_bathing.jpg"
     },
     {
         "name": "Agra",
