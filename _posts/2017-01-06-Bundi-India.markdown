@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "36 Hours in Bundi & Todaraisingh"
+date: 2017-01-06 14:30
 description: "A spur of the moment road trip to explore small towns outside of Jaipur."
 visitinfo:
     start: 2016-11-01

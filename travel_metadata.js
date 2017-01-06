@@ -2482,7 +2482,8 @@ travel_log = [
         "latLng": [27.1766701, 78.00807450000002],
         "dates_visited": "2016-11-04:2016-11-05",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Agra-India"
     },
     {
         "name": "Taj Mahal",
@@ -2490,7 +2491,9 @@ travel_log = [
         "latLng": [27.1750151, 78.04215520000002],
         "dates_visited": "2016-11-05",
         "add_to_map": true,
-        "area_group": "Agra"
+        "area_group": "Agra",
+        "blog_url": "Agra-India",
+        "image_path": "agra/taj_from_mirror_pool2.jpg"
     },
     {
         "name": "New Delhi",

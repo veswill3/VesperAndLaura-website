@@ -581,12 +581,17 @@
             "path": "bundi/bundi_from_across_pond_pano.jpg",
             "info": "Bundi, India",
             "link": "Bundi-India"
+        },
+        {
+            "path": "bundi/todaraisingh_fort_pano2.jpg",
+            "info": "An abandoned in Todaraisingh, India",
+            "link": "Bundi-India"
         }
         // ,
         // {
-        //     "path": "bundi/todaraisingh_fort_pano2.jpg",
-        //     "info": "An abandoned in Todaraisingh, India",
-        //     "link": "Bundi-India"
+        //     "path": "agra/taj_first_view.jpg",
+        //     "info": "The Taj Mahal near Agra, India",
+        //     "link": "Agra-India"
         // }
         // ,
         // {
