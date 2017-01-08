@@ -2659,7 +2659,15 @@ travel_log = [
         "name": "Cát Bà Island",
         "country_name": "Vietnam",
         "latLng": [20.8, 106.99972],
-        "dates_visited": "2017-1-2",
+        "dates_visited": "2017-1-2:2017-1-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Ninh Bình",
+        "country_name": "Vietnam",
+        "latLng": [20.25061, 105.97445],
+        "dates_visited": "2017-1-7:2017-1-8",
         "add_to_map": true,
         "area_group": true
     }
