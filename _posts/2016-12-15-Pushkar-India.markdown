@@ -33,6 +33,7 @@ The first thing we noticed about Pushkar was that it was noticeably cleaner than
 
 <figure>
     <a href="/images/pushkar/color_powder.jpg"><img src="/images/pushkar/color_powder.jpg" alt=""></a>
+    <figcaption>Powder to use durring the Hindu spring festival of Holi.</figcaption>
 </figure>
 
 The part we enjoyed most about Pushkar was that it was the most laid back and least pushy city we had been to yet. We were free to walk down the street without having to triple decline rickshaws or turn down offers for hotels, restaurants, etc. The part about Pushkar that we did not like were the scams around the lake. We had been warned so we were prepared, but we have never met such pushy “priests” before. Like it or not, they try to give you a blessing and then insist that you give a donation of $30-50 per person. Don’t worry - they take credit card! That being said, this was easy to escape by simply avoiding the lake. It’s sad that this tainted the most important part of the city for us. We basically went our first day, took a few pictures between forcefully replying “no” to inquiries about blessings, ignored the group of six “priests” ready to make sure we gave a large donation, and never went back to the ghats.
