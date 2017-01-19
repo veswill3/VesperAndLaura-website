@@ -2670,6 +2670,54 @@ travel_log = [
         "dates_visited": "2017-1-7:2017-1-8",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Đồng Hới",
+        "country_name": "Vietnam",
+        "latLng": [17.46593, 106.59839],
+        "dates_visited": "2017-1-9",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Phong Nha - Ke Bang National Park",
+        "country_name": "Vietnam",
+        "latLng": [17.59113, 106.28331],
+        "dates_visited": "2017-1-10:2017-1-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Phong Nha cave",
+        "country_name": "Vietnam",
+        "latLng": [17.58169, 106.28305],
+        "dates_visited": "2017-1-10",
+        "add_to_map": true,
+        "area_group": "Phong Nha"
+    },
+    {
+        "name": "Paradise Cave",
+        "country_name": "Vietnam",
+        "latLng": [17.53032, 106.22789],
+        "dates_visited": "2017-1-11",
+        "add_to_map": true,
+        "area_group": "Phong Nha"
+    },
+    {
+        "name": "Huế",
+        "country_name": "Vietnam",
+        "latLng": [16.4498, 107.56235],
+        "dates_visited": "2017-1-11:2017-1-16",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Hội An",
+        "country_name": "Vietnam",
+        "latLng": [15.88005, 108.33804],
+        "dates_visited": "2017-1-16",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
