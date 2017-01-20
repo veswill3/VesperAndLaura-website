@@ -2501,7 +2501,9 @@ travel_log = [
         "latLng": [28.61393, 77.20902],
         "dates_visited": "2016-11-5:2016-11-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "New-Delhi-India",
+        "image_path": "delhi/group_picture.jpg"
     },
     {
         "name": "Akshardham",
@@ -2509,7 +2511,8 @@ travel_log = [
         "latLng": [28.61267, 77.27726],
         "dates_visited": "2016-11-6",
         "add_to_map": true,
-        "area_group": "New Delhi"
+        "area_group": "New Delhi",
+        "blog_url": "New-Delhi-India"
     },
     {
         "name": "Red Fort",
@@ -2517,7 +2520,8 @@ travel_log = [
         "latLng": [28.65615, 77.24102],
         "dates_visited": "2016-11-6",
         "add_to_map": true,
-        "area_group": "New Delhi"
+        "area_group": "New Delhi",
+        "blog_url": "New-Delhi-India"
     },
     {
         "name": "Chandni Chowk Market",
@@ -2525,7 +2529,8 @@ travel_log = [
         "latLng": [28.65059, 77.23032],
         "dates_visited": "2016-11-6",
         "add_to_map": true,
-        "area_group": "New Delhi"
+        "area_group": "New Delhi",
+        "blog_url": "New-Delhi-India"
     },
     {
         "name": "Varanasi",

@@ -9,7 +9,7 @@ image:
     credit: 
 ---
 
-In the last month we have traveled to nine cities in two countries: [Pushkar]({% post_url 2016-12-15-Pushkar-India %}), [Jaipur]({% post_url 2017-01-04-Jaipur-India %}), [Agra]({% post_url 2017-01-06-Agra-India %}), New Delhi, Varanasi, and Kolkata in India; and Bangkok, Ayutthaya, and Chiang Mai in Thailand. We’ve only been in Thailand a week now, but so far we are in love with it. Maybe we’ll end up extending our 30 day tourist visa!
+In the last month we have traveled to nine cities in two countries: [Pushkar]({% post_url 2016-12-15-Pushkar-India %}), [Jaipur]({% post_url 2017-01-04-Jaipur-India %}), [Agra]({% post_url 2017-01-06-Agra-India %}), [New Delhi]({% post_url 2017-01-20-New-Delhi-India %}), Varanasi, and Kolkata in India; and Bangkok, Ayutthaya, and Chiang Mai in Thailand. We’ve only been in Thailand a week now, but so far we are in love with it. Maybe we’ll end up extending our 30 day tourist visa!
 
 
 ## One Month in India
