@@ -594,6 +594,12 @@
         }
         // ,
         // {
+        //     "path": "varanasi/ceremony_cover.jpg",
+        //     "info": "Nightly ceremony along the Ganges in Varanasi, India",
+        //     "link": "Varanasi-India"
+        // }
+        // ,
+        // {
         //     "path": "",
         //     "info": "",
         //     "link": ""

@@ -2538,7 +2538,9 @@ travel_log = [
         "latLng": [25.30467, 83.00831],
         "dates_visited": "2016-11-07:2016-11-10",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Varanasi-India",
+        "image_path": "varanasi/ganges2.jpg"
     },
     {
         "name": "Kolkata",
