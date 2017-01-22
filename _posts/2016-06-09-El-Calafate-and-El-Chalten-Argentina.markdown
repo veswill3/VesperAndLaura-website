@@ -6,7 +6,7 @@ modified: 2016-06-23
 visitinfo:
     start: 2016-05-18
     end: 2016-05-21
-tags: [South-America, Argentina, Hiking]
+tags: [South-America, Argentina, Hiking, Patagonia]
 image:
     feature: /calafate_chalten/laguna_de_los_tres_with_fitzroy_pano.jpg
     credit: Monte Fitz Roy

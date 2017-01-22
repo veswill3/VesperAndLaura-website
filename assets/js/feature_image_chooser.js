@@ -596,13 +596,12 @@
             "path": "varanasi/ceremony_cover.jpg",
             "info": "Nightly ceremony along the Ganges in Varanasi, India",
             "link": "Varanasi-India"
+        },
+        {
+            "path": "kolkata/victoria_memorial.jpg",
+            "info": "The Victoria Memorial in Kolkata, India",
+            "link": "Kolkata-India"
         }
-        // ,
-        // {
-        //     "path": "kolkata/victoria_memorial.jpg",
-        //     "info": "The Victoria Memorial in Kolkata, India",
-        //     "link": "Kolkata-India"
-        // }
         // ,
         // {
         //     "path": "",

@@ -6,7 +6,7 @@ modified: 2016-06-07
 visitinfo:
     start: 2016-05-14
     end: 2016-05-17
-tags: [South-America, Argentina, Hiking]
+tags: [South-America, Argentina, Hiking, Patagonia]
 image:
     feature: /ushuaia/ushuaia_overlook.jpg
 ---

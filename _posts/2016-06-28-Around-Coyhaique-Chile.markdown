@@ -6,7 +6,7 @@ modified: 2016-06-28
 visitinfo:
     start: 2016-5-22
     end: 2016-6-12
-tags: [South-America, Chile, Beer, Hiking]
+tags: [South-America, Chile, Beer, Hiking, Patagonia]
 image:
     feature: /around_coyhaique/laguna_cerro_castillo_pano2.jpg
     credit: Laguna Cerro Castillo
