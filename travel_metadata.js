@@ -2546,9 +2546,11 @@ travel_log = [
         "name": "Kolkata",
         "country_name": "India",
         "latLng": [22.57264, 88.36389],
-        "dates_visited": "2016-11-10-11-14",
+        "dates_visited": "2016-11-10:2016-11-14",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Kolkata-India",
+        "image_path": "kolkata/victoria_memorial.jpg"
     },
     {
         "name": "Bangkok",
