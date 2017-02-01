@@ -2732,7 +2732,15 @@ travel_log = [
         "name": "Da Nang",
         "country_name": "Vietnam",
         "latLng": [16.0544, 108.20216],
-        "dates_visited": "2017-1-22",
+        "dates_visited": "2017-1-22:2017-1-29",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Ho Chi Minh City",
+        "country_name": "Vietnam",
+        "latLng": [10.82309, 106.62966],
+        "dates_visited": "2017-1-30",
         "add_to_map": true,
         "area_group": true
     }
