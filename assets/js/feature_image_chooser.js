@@ -601,6 +601,11 @@
             "path": "kolkata/victoria_memorial.jpg",
             "info": "The Victoria Memorial in Kolkata, India",
             "link": "Kolkata-India"
+        },
+        {
+            "path": "bangkok/wat_in_thailand.jpg",
+            "info": "Ruins in Ayutthaya, Thailand",
+            "link": "Bangkok-Thailand"
         }
         // ,
         // {

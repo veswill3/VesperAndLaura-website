@@ -2558,7 +2558,9 @@ travel_log = [
         "latLng": [13.75633, 100.50176],
         "dates_visited": "2016-11-15:2016-11-18,2016-11-20",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Bangkok-Thailand",
+        "image_path": "bangkok/china_town_food.jpg"
     },
     {
         "name": "Phra Nakhon Si Ayutthaya",
@@ -2566,7 +2568,9 @@ travel_log = [
         "latLng": [14.35321, 100.56895],
         "dates_visited": "2016-11-18:2016-11-19",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Bangkok-Thailand",
+        "image_path": "bangkok/buddha_head_in_tree.jpg"
     },
     {
         "name": "Chiang Mai",
