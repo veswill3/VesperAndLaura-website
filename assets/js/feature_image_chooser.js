@@ -609,6 +609,12 @@
         }
         // ,
         // {
+        //     "path": "chiang_mai/view_from_doi_suthep_temple.jpg",
+        //     "info": "Overlooking Chiang Mai from Doi Suthep in Thailand",
+        //     "link": "Chiang-Mai-Thailand"
+        // }
+        // ,
+        // {
         //     "path": "",
         //     "info": "",
         //     "link": ""

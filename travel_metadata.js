@@ -2578,7 +2578,9 @@ travel_log = [
         "latLng": [18.78622, 98.98715],
         "dates_visited": "2016-11-21:2016-11-27,2016-12-03:2016-12-06",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Chiang-Mai-Thailand",
+        "image_path": "chiang_mai/lady_boy_cabarat3.jpg"
     },
     {
         "name": "Pai",
