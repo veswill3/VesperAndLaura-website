@@ -2588,7 +2588,9 @@ travel_log = [
         "latLng": [19.35821, 98.44048],
         "dates_visited": "2016-11-28:2016-12-02",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Pai-Chiang-Rai-Thailand",
+        "image_path": "pai_chiang_rai/chinese_village_lookout_pano.jpg"
     },
     {
         "name": "Chiang Rai",
@@ -2596,7 +2598,9 @@ travel_log = [
         "latLng": [19.91047, 99.84057],
         "dates_visited": "2016-12-07:2016-12-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Pai-Chiang-Rai-Thailand",
+        "image_path": "pai_chiang_rai/white_temple_pano.jpg"
     },
     {
         "name": "Huay Xai",

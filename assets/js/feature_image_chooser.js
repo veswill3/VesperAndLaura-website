@@ -606,12 +606,27 @@
             "path": "bangkok/wat_in_thailand.jpg",
             "info": "Ruins in Ayutthaya, Thailand",
             "link": "Bangkok-Thailand"
+        },
+        {
+            "path": "chiang_mai/view_from_doi_suthep_temple.jpg",
+            "info": "Overlooking Chiang Mai from Doi Suthep in Thailand",
+            "link": "Chiang-Mai-Thailand"
+        },
+        {
+            "path": "pai_chiang_rai/pai_canyon_sunset_pano.jpg",
+            "info": "Sunset from the canyons in Pai, Thailand",
+            "link": "Pai-Chiang-Rai-Thailand"
+        },
+        {
+            "path": "pai_chiang_rai/white_temple_pano.jpg",
+            "info": "Wat Rong Khun outside Chiang Rai, Thailand",
+            "link": "Pai-Chiang-Rai-Thailand"
         }
         // ,
         // {
-        //     "path": "chiang_mai/view_from_doi_suthep_temple.jpg",
-        //     "info": "Overlooking Chiang Mai from Doi Suthep in Thailand",
-        //     "link": "Chiang-Mai-Thailand"
+        //     "path": "pai_chiang_rai/chinese_village_lookout_pano.jpg",
+        //     "info": "Looking out from the Chinese Village near Pai, Thailand",
+        //     "link": "Pai-Chiang-Rai-Thailand"
         // }
         // ,
         // {
