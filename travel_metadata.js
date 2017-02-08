@@ -2758,7 +2758,15 @@ travel_log = [
         "name": "Dalat",
         "country_name": "Vietnam",
         "latLng": [11.94041, 108.45831],
-        "dates_visited": "2017-2-4",
+        "dates_visited": "2017-2-4:2017-2-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Can Tho",
+        "country_name": "Vietnam",
+        "latLng": [10.04516, 105.74685],
+        "dates_visited": "2017-2-8",
         "add_to_map": true,
         "area_group": true
     }
