@@ -621,12 +621,32 @@
             "path": "pai_chiang_rai/white_temple_pano.jpg",
             "info": "Wat Rong Khun outside Chiang Rai, Thailand",
             "link": "Pai-Chiang-Rai-Thailand"
+        },
+        {
+            "path": "pai_chiang_rai/chinese_village_lookout_pano.jpg",
+            "info": "Looking out from the Chinese Village near Pai, Thailand",
+            "link": "Pai-Chiang-Rai-Thailand"
+        },
+        {
+            "path": "laos/overlooking_luang_probang_from_mt_phousi_pano.jpg",
+            "info": "The view from Mt. Phouse in Luang Probang, Laos",
+            "link": "Laos"
+        },
+        {
+            "path": "laos/vang_vieng_pano2.jpg",
+            "info": "The countryside near Vang Vieng, Laos",
+            "link": "Laos"
+        },
+        {
+            "path": "laos/from_hot_air_balloon_pano.jpg",
+            "info": "Looking down from a hot air balloon over Vang Vieng, Laos",
+            "link": "Laos"
         }
         // ,
         // {
-        //     "path": "pai_chiang_rai/chinese_village_lookout_pano.jpg",
-        //     "info": "Looking out from the Chinese Village near Pai, Thailand",
-        //     "link": "Pai-Chiang-Rai-Thailand"
+        //     "path": "laos/viewpoint_near_vang_vieng_pano.jpg",
+        //     "info": "The countryside near Vang Vieng, Laos",
+        //     "link": "Laos"
         // }
         // ,
         // {

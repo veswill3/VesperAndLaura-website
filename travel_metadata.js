@@ -2608,7 +2608,9 @@ travel_log = [
         "latLng": [20.26281, 100.43403],
         "dates_visited": "2016-12-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Laos",
+        "image_path": "laos/sunset.jpg"
     },
     {
         "name": "Pak Beng",
@@ -2616,7 +2618,9 @@ travel_log = [
         "latLng": [19.89898, 101.14191],
         "dates_visited": "2016-12-12",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Laos",
+        "image_path": "laos/mekong_koozie.jpg"
     },
     {
         "name": "Luang Prabang",
@@ -2624,7 +2628,9 @@ travel_log = [
         "latLng": [19.88339, 102.13468],
         "dates_visited": "2016-12-13:2016-12-18",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Laos",
+        "image_path": "laos/luang_probang_wat.jpg"
     },
     {
         "name": "Vang Vieng",
@@ -2632,7 +2638,9 @@ travel_log = [
         "latLng": [18.95009, 102.44379],
         "dates_visited": "2016-12-18:2016-12-22",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Laos",
+        "image_path": "laos/hot_air_balloon3.jpg"
     },
     {
         "name": "Vientiane",
@@ -2640,7 +2648,8 @@ travel_log = [
         "latLng": [17.9757, 102.6331],
         "dates_visited": "2016-12-22:2016-12-23",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Laos"
     },
     {
         "name": "Hanoi",

@@ -9,7 +9,7 @@ image:
     credit: 
 ---
 
-In the last month we have traveled to seven cities in two countries: [Pai and Chiang Rai]({% post_url 2017-02-06-Pai-Chiang-Rai-Thailand %}) in Thailand; and Huay Xai, Pak Beng, Luang Prabang, Vang Vieng, and Vientiane in Laos. Today is our last full day in Laos before we fly to Hanoi, Vietnam!
+In the last month we have traveled to seven cities in two countries: [Pai and Chiang Rai]({% post_url 2017-02-06-Pai-Chiang-Rai-Thailand %}) in Thailand; and [Huay Xai, Pak Beng, Luang Prabang, Vang Vieng, and Vientiane in Laos]({% post_url 2017-02-09-Laos %}). Today is our last full day in Laos before we fly to Hanoi, Vietnam!
 
 
 ### Month 11 Observations
