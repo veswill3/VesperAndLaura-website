@@ -2775,7 +2775,31 @@ travel_log = [
         "name": "Can Tho",
         "country_name": "Vietnam",
         "latLng": [10.04516, 105.74685],
-        "dates_visited": "2017-2-8",
+        "dates_visited": "2017-2-8:2017-2-9",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Châu Đốc",
+        "country_name": "Vietnam",
+        "latLng": [10.68208, 105.08239],
+        "dates_visited": "2017-2-10",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Phnom Penh",
+        "country_name": "Cambodia",
+        "latLng": [11.54487, 104.89216],
+        "dates_visited": "2017-2-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Siem Reap",
+        "country_name": "Cambodia",
+        "latLng": [13.36709, 103.84481],
+        "dates_visited": "2017-2-12",
         "add_to_map": true,
         "area_group": true
     }
