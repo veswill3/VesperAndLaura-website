@@ -2799,7 +2799,23 @@ travel_log = [
         "name": "Siem Reap",
         "country_name": "Cambodia",
         "latLng": [13.36709, 103.84481],
-        "dates_visited": "2017-2-12",
+        "dates_visited": "2017-2-12:2017-2-15",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Bangkok",
+        "country_name": "Thailand",
+        "latLng": [13.75633, 100.50176],
+        "dates_visited": "2017-2-15:2017-2-16",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Phuket",
+        "country_name": "Thailand",
+        "latLng": [7.8317, 98.40124],
+        "dates_visited": "2017-2-17",
         "add_to_map": true,
         "area_group": true
     }
