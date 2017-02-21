@@ -2812,12 +2812,28 @@ travel_log = [
         "area_group": true
     },
     {
-        "name": "Phuket",
+        "name": "Panwa beack",
         "country_name": "Thailand",
-        "latLng": [7.8317, 98.40124],
-        "dates_visited": "2017-2-17",
+        "latLng": [7.83193, 98.40102],
+        "dates_visited": "2017-2-17:2017-2-20",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Phuket"
+    },
+    {
+        "name": "Ao Yon beach",
+        "country_name": "Thailand",
+        "latLng": [7.81157, 98.39017],
+        "dates_visited": "2017-2-17,2017-2-18,2017-2-20",
+        "add_to_map": true,
+        "area_group": "Phuket"
+    },
+    {
+        "name": "Phuket Town",
+        "country_name": "Thailand",
+        "latLng": [7.88044, 98.39225],
+        "dates_visited": "2017-2-21",
+        "add_to_map": true,
+        "area_group": "Phuket"
     }
 
     // ,
