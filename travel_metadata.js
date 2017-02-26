@@ -2831,9 +2831,33 @@ travel_log = [
         "name": "Phuket Town",
         "country_name": "Thailand",
         "latLng": [7.88044, 98.39225],
-        "dates_visited": "2017-2-21",
+        "dates_visited": "2017-2-21:2017-2-23",
         "add_to_map": true,
         "area_group": "Phuket"
+    },
+    {
+        "name": "Patong Beach",
+        "country_name": "Thailand",
+        "latLng": [7.89619, 98.29541],
+        "dates_visited": "2017-2-22",
+        "add_to_map": true,
+        "area_group": "Phuket"
+    },
+    {
+        "name": "Kata Beach",
+        "country_name": "Thailand",
+        "latLng": [7.82069, 98.29764],
+        "dates_visited": "2017-2-23",
+        "add_to_map": true,
+        "area_group": "Phuket"
+    },
+    {
+        "name": "Ko Tao",
+        "country_name": "Thailand",
+        "latLng": [10.09561, 99.84039],
+        "dates_visited": "2017-2-24",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
