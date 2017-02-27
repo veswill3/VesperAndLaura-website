@@ -641,12 +641,17 @@
             "path": "laos/from_hot_air_balloon_pano.jpg",
             "info": "Looking down from a hot air balloon over Vang Vieng, Laos",
             "link": "Laos"
+        },
+        {
+            "path": "laos/viewpoint_near_vang_vieng_pano.jpg",
+            "info": "The countryside near Vang Vieng, Laos",
+            "link": "Laos"
         }
         // ,
         // {
-        //     "path": "laos/viewpoint_near_vang_vieng_pano.jpg",
-        //     "info": "The countryside near Vang Vieng, Laos",
-        //     "link": "Laos"
+        //     "path": "hanoi/vietnam_war_museum_pano.jpg",
+        //     "info": "The Vietnam War Museum in Hanoi, Vietnam",
+        //     "link": "Hanoi-Vietnam"
         // }
         // ,
         // {

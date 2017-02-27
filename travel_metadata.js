@@ -2657,7 +2657,9 @@ travel_log = [
         "latLng": [21.02776, 105.83415],
         "dates_visited": "2016-12-23:2016-12-27,2016-12-31:2017-1-1",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Hanoi-Vietnam",
+        "image_path": "hanoi/vietnam_war_museum_memorial.jpg"
     },
     {
         "name": "Ta Van",
