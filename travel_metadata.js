@@ -2857,7 +2857,15 @@ travel_log = [
         "name": "Ko Tao",
         "country_name": "Thailand",
         "latLng": [10.09561, 99.84039],
-        "dates_visited": "2017-2-24",
+        "dates_visited": "2017-2-24:2017-2-28",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Bangkok",
+        "country_name": "Thailand",
+        "latLng": [13.75633, 100.50176],
+        "dates_visited": "2017-3-1",
         "add_to_map": true,
         "area_group": true
     }
