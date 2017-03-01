@@ -6,9 +6,9 @@
         zoom: 2,
         maxBounds: L.latLngBounds([-90, -180], [90, 180])
     });
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoidmVzd2lsbDMiLCJhIjoiY2lqZDJ3OHVyMDAzdnYxbTBuNmhneDVvdSJ9.hoP6Xpo2MeGLnMHd7p8_sw', {
-        id: 'mapbox.emerald',
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+
+    L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012',
         minZoom: 2
     }).addTo(map);
 
