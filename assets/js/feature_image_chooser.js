@@ -646,14 +646,48 @@
             "path": "laos/viewpoint_near_vang_vieng_pano.jpg",
             "info": "The countryside near Vang Vieng, Laos",
             "link": "Laos"
+        },
+        {
+            "path": "hanoi/vietnam_war_museum_pano.jpg",
+            "info": "The Vietnam War Museum in Hanoi, Vietnam",
+            "link": "Hanoi-Vietnam"
+        },
+        {
+            "path": "sapa_catba/sapa_hike3_pano.jpg",
+            "info": "Rice paddies in Sa Pa, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/sapa_hike1_pano.jpg",
+            "info": "Rice paddies in Sa Pa, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/sapa_water_fall_pano.jpg",
+            "info": "Near Sa Pa, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/lan_ha_pano.jpg",
+            "info": "Lan Ha Bay, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/view_from_cat_ba_cannon_fort2_pano.jpg",
+            "info": "View from the Cannon Fort on Cát Bà, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/cat_ba_national_park_viewpoint2_pano.jpg",
+            "info": "Cát Bà National Park, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
         }
         // ,
         // {
-        //     "path": "hanoi/vietnam_war_museum_pano.jpg",
-        //     "info": "The Vietnam War Museum in Hanoi, Vietnam",
-        //     "link": "Hanoi-Vietnam"
+        //     "path": "sapa_catba/lan_ha_pano3.jpg",
+        //     "info": "Lan Ha Bay, Vietnam",
+        //     "link": "SaPa-and-CatBa-Vietnam"
         // }
-        // ,
         // {
         //     "path": "",
         //     "info": "",

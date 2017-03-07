@@ -2667,7 +2667,8 @@ travel_log = [
         "latLng": [22.30054, 103.89303],
         "dates_visited": "2016-12-28",
         "add_to_map": true,
-        "area_group": "Sapa"
+        "area_group": "Sapa",
+        "blog_url": "SaPa-and-CatBa-Vietnam"
     },
     {
         "name": "Bản Hồ",
@@ -2675,7 +2676,8 @@ travel_log = [
         "latLng": [22.21572, 103.9492],
         "dates_visited": "2016-12-29",
         "add_to_map": true,
-        "area_group": "Sapa"
+        "area_group": "Sapa",
+        "blog_url": "SaPa-and-CatBa-Vietnam"
     },
     {
         "name": "Sa Pa",
@@ -2683,7 +2685,9 @@ travel_log = [
         "latLng": [22.33636, 103.84378],
         "dates_visited": "2016-12-30",
         "add_to_map": true,
-        "area_group": "Sapa"
+        "area_group": "Sapa",
+        "blog_url": "SaPa-and-CatBa-Vietnam",
+        "image_path": "sapa_catba/sapa_02.jpg"
     },
     {
         "name": "Cát Bà Island",
@@ -2691,7 +2695,9 @@ travel_log = [
         "latLng": [20.8, 106.99972],
         "dates_visited": "2017-1-2:2017-1-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "SaPa-and-CatBa-Vietnam",
+        "image_path": "sapa_catba/catba_01.jpg"
     },
     {
         "name": "Ninh Bình",
