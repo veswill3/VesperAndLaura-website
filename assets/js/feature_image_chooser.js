@@ -681,12 +681,16 @@
             "path": "sapa_catba/cat_ba_national_park_viewpoint2_pano.jpg",
             "info": "Cát Bà National Park, Vietnam",
             "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "sapa_catba/lan_ha_pano3.jpg",
+            "info": "Lan Ha Bay, Vietnam",
+            "link": "SaPa-and-CatBa-Vietnam"
         }
-        // ,
         // {
-        //     "path": "sapa_catba/lan_ha_pano3.jpg",
-        //     "info": "Lan Ha Bay, Vietnam",
-        //     "link": "SaPa-and-CatBa-Vietnam"
+        //     "path": "tam_coc_phong_nha/phong_nha_jungle.jpg",
+        //     "info": "Phong Nha-Kẻ Bàng National Park, Vietnam",
+        //     "link": "TamCoc-and-PhongNha-Vietnam"
         // }
         // {
         //     "path": "",

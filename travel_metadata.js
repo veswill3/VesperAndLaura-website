@@ -2700,12 +2700,14 @@ travel_log = [
         "image_path": "sapa_catba/catba_01.jpg"
     },
     {
-        "name": "Ninh Bình",
+        "name": "Tam Coc/Ninh Bình",
         "country_name": "Vietnam",
-        "latLng": [20.25061, 105.97445],
+        "latLng": [20.21656, 105.93749],
         "dates_visited": "2017-1-7:2017-1-8",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url" : "TamCoc-and-PhongNha-Vietnam",
+        "image_path": "tam_coc_phong_nha/tam_coc_boats.jpg"
     },
     {
         "name": "Đồng Hới",
@@ -2713,7 +2715,8 @@ travel_log = [
         "latLng": [17.46593, 106.59839],
         "dates_visited": "2017-1-9",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url" : "TamCoc-and-PhongNha-Vietnam"
     },
     {
         "name": "Phong Nha - Ke Bang National Park",
@@ -2721,7 +2724,8 @@ travel_log = [
         "latLng": [17.59113, 106.28331],
         "dates_visited": "2017-1-10:2017-1-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Phong Nha",
+        "blog_url" : "TamCoc-and-PhongNha-Vietnam"
     },
     {
         "name": "Phong Nha cave",
@@ -2729,7 +2733,9 @@ travel_log = [
         "latLng": [17.58169, 106.28305],
         "dates_visited": "2017-1-10",
         "add_to_map": true,
-        "area_group": "Phong Nha"
+        "area_group": "Phong Nha",
+        "blog_url" : "TamCoc-and-PhongNha-Vietnam",
+        "image_path": "tam_coc_phong_nha/phong_nha_cave_entrance.jpg"
     },
     {
         "name": "Paradise Cave",
@@ -2737,7 +2743,9 @@ travel_log = [
         "latLng": [17.53032, 106.22789],
         "dates_visited": "2017-1-11",
         "add_to_map": true,
-        "area_group": "Phong Nha"
+        "area_group": "Phong Nha",
+        "blog_url" : "TamCoc-and-PhongNha-Vietnam",
+        "image_path": "tam_coc_phong_nha/phong_nha_paradice_cave.jpg"
     },
     {
         "name": "Huế",
