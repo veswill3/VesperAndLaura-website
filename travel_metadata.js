@@ -2753,7 +2753,9 @@ travel_log = [
         "latLng": [16.4498, 107.56235],
         "dates_visited": "2017-1-11:2017-1-16",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url" : "Hue-Vietnam",
+        "image_path": "hue/pagoda04.jpg"
     },
     {
         "name": "Hội An",

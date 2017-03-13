@@ -686,11 +686,22 @@
             "path": "sapa_catba/lan_ha_pano3.jpg",
             "info": "Lan Ha Bay, Vietnam",
             "link": "SaPa-and-CatBa-Vietnam"
+        },
+        {
+            "path": "tam_coc_phong_nha/phong_nha_jungle.jpg",
+            "info": "Phong Nha-Kẻ Bàng National Park, Vietnam",
+            "link": "TamCoc-and-PhongNha-Vietnam"
+        },
+        {
+            "path": "hue/citadel13.jpg",
+            "info": "Inside the Imperial City in Huế, Vietnam",
+            "link": "Hue-Vietnam"
         }
+        // ,
         // {
-        //     "path": "tam_coc_phong_nha/phong_nha_jungle.jpg",
-        //     "info": "Phong Nha-Kẻ Bàng National Park, Vietnam",
-        //     "link": "TamCoc-and-PhongNha-Vietnam"
+        //     "path": "hue/tomb_feature.jpg",
+        //     "info": "Near the tomb of Minh Mang, second emperor of Nguyen dynasty in Huế, Vietnam",
+        //     "link": "Hue-Vietnam"
         // }
         // {
         //     "path": "",
