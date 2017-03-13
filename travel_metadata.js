@@ -2887,7 +2887,7 @@ travel_log = [
         "name": "Kuala Lumpur",
         "country_name": "Malaysia",
         "latLng": [3.139, 101.68685],
-        "dates_visited": "2017-3-3:2017-3-4",
+        "dates_visited": "2017-3-3:2017-3-4,2017-3-11",
         "add_to_map": true,
         "area_group": true
     },
@@ -2895,7 +2895,7 @@ travel_log = [
         "name": "Georgetown",
         "country_name": "Malaysia",
         "latLng": [5.41716, 100.33762],
-        "dates_visited": "2017-3-5",
+        "dates_visited": "2017-3-5:2017-3-10",
         "add_to_map": true,
         "area_group": "Penang"
     }
