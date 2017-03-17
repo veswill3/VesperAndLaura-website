@@ -2893,7 +2893,7 @@ travel_log = [
         "name": "Kuala Lumpur",
         "country_name": "Malaysia",
         "latLng": [3.139, 101.68685],
-        "dates_visited": "2017-3-3:2017-3-4,2017-3-11",
+        "dates_visited": "2017-3-3:2017-3-4,2017-3-11:2017-3-16",
         "add_to_map": true,
         "area_group": true
     },
@@ -2904,6 +2904,22 @@ travel_log = [
         "dates_visited": "2017-3-5:2017-3-10",
         "add_to_map": true,
         "area_group": "Penang"
+    },
+    {
+        "name": "Kuala Tahan",
+        "country_name": "Malaysia",
+        "latLng": [4.38189, 102.40158],
+        "dates_visited": "2017-3-17",
+        "add_to_map": true,
+        "area_group": "Taman Negara"
+    },
+    {
+        "name": "Taman Negara National Park",
+        "country_name": "Malaysia",
+        "latLng": [4.38478, 102.4005],
+        "dates_visited": "2017-3-17",
+        "add_to_map": true,
+        "area_group": "Taman Negara"
     }
 
     // ,
