@@ -696,12 +696,32 @@
             "path": "hue/citadel13.jpg",
             "info": "Inside the Imperial City in Huế, Vietnam",
             "link": "Hue-Vietnam"
+        },
+        {
+            "path": "hue/tomb_feature.jpg",
+            "info": "Near the tomb of Minh Mang, second emperor of Nguyen dynasty in Huế, Vietnam",
+            "link": "Hue-Vietnam"
+        },
+        {
+            "path": "hoian_danang/japanese_covered_bridge.jpg",
+            "info": "The Japanese Covered Bridge in Hoi An, Vietnam",
+            "link": "HoiAn-and-DaNang-Vietnam"
+        },
+        {
+            "path": "hoian_danang/sun_through_the_rocks.jpg",
+            "info": "Inside a cave temple of the Marble Mountains near Da Nang, Vietnam",
+            "link": "HoiAn-and-DaNang-Vietnam"
+        },
+        {
+            "path": "hoian_danang/marble_mountains_pano.jpg",
+            "info": "From the top of the Marble Mountains near Da Nang, Vietnam",
+            "link": "HoiAn-and-DaNang-Vietnam"
         }
         // ,
         // {
-        //     "path": "hue/tomb_feature.jpg",
-        //     "info": "Near the tomb of Minh Mang, second emperor of Nguyen dynasty in Huế, Vietnam",
-        //     "link": "Hue-Vietnam"
+        //     "path": "hoian_danang/marble_mountains_pano2.jpg",
+        //     "info": "From the top of the Marble Mountains near Da Nang, Vietnam",
+        //     "link": "HoiAn-and-DaNang-Vietnam"
         // }
         // {
         //     "path": "",

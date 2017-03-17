@@ -2734,7 +2734,7 @@ travel_log = [
         "dates_visited": "2017-1-10",
         "add_to_map": true,
         "area_group": "Phong Nha",
-        "blog_url" : "TamCoc-and-PhongNha-Vietnam",
+        "blog_url": "TamCoc-and-PhongNha-Vietnam",
         "image_path": "tam_coc_phong_nha/phong_nha_cave_entrance.jpg"
     },
     {
@@ -2744,7 +2744,7 @@ travel_log = [
         "dates_visited": "2017-1-11",
         "add_to_map": true,
         "area_group": "Phong Nha",
-        "blog_url" : "TamCoc-and-PhongNha-Vietnam",
+        "blog_url": "TamCoc-and-PhongNha-Vietnam",
         "image_path": "tam_coc_phong_nha/phong_nha_paradice_cave.jpg"
     },
     {
@@ -2754,7 +2754,7 @@ travel_log = [
         "dates_visited": "2017-1-11:2017-1-16",
         "add_to_map": true,
         "area_group": true,
-        "blog_url" : "Hue-Vietnam",
+        "blog_url": "Hue-Vietnam",
         "image_path": "hue/pagoda04.jpg"
     },
     {
@@ -2763,7 +2763,9 @@ travel_log = [
         "latLng": [15.88005, 108.33804],
         "dates_visited": "2017-1-16:2017-1-22",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "HoiAn-and-DaNang-Vietnam",
+        "image_path": "hoian_danang/beer_from_across_the_street.jpg"
     },
     {
         "name": "Da Nang",
@@ -2771,7 +2773,9 @@ travel_log = [
         "latLng": [16.0544, 108.20216],
         "dates_visited": "2017-1-22:2017-1-29",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "HoiAn-and-DaNang-Vietnam",
+        "image_path": "hoian_danang/dragon_bridge.jpg"
     },
     {
         "name": "Ho Chi Minh City",
