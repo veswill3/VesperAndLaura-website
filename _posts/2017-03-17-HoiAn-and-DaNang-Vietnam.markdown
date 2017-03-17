@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hoi An & Da Nang"
-description: ""
+description: "Hanging out in central Vietnam for Tet, the Lunar New Year."
 visitinfo:
     start: 2017-1-16
     end: 2017-1-29
