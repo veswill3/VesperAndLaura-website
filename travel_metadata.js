@@ -2906,14 +2906,6 @@ travel_log = [
         "area_group": "Penang"
     },
     {
-        "name": "Kuala Tahan",
-        "country_name": "Malaysia",
-        "latLng": [4.38189, 102.40158],
-        "dates_visited": "2017-3-17",
-        "add_to_map": true,
-        "area_group": "Taman Negara"
-    },
-    {
         "name": "Taman Negara National Park",
         "country_name": "Malaysia",
         "latLng": [4.38478, 102.4005],
