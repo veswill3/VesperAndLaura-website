@@ -716,13 +716,17 @@
             "path": "hoian_danang/marble_mountains_pano.jpg",
             "info": "From the top of the Marble Mountains near Da Nang, Vietnam",
             "link": "HoiAn-and-DaNang-Vietnam"
+        },
+        {
+            "path": "hoian_danang/marble_mountains_pano2.jpg",
+            "info": "From the top of the Marble Mountains near Da Nang, Vietnam",
+            "link": "HoiAn-and-DaNang-Vietnam"
+        },
+        {
+            "path": "hcmc/laura_excited_about_beer.jpg",
+            "info": "Excited about beer in Ho Chi Minh City, Vietnam",
+            "link": "Ho-Chi-Minh-City-Vietnam"
         }
-        // ,
-        // {
-        //     "path": "hoian_danang/marble_mountains_pano2.jpg",
-        //     "info": "From the top of the Marble Mountains near Da Nang, Vietnam",
-        //     "link": "HoiAn-and-DaNang-Vietnam"
-        // }
         // {
         //     "path": "",
         //     "info": "",

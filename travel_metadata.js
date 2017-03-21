@@ -2783,7 +2783,9 @@ travel_log = [
         "latLng": [10.82309, 106.62966],
         "dates_visited": "2017-1-30:2017-2-3",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Ho-Chi-Minh-City-Vietnam",
+        "image_path": "hcmc/post_office.jpg"
     },
     {
         "name": "Dalat",
