@@ -2895,7 +2895,7 @@ travel_log = [
         "name": "Kuala Lumpur",
         "country_name": "Malaysia",
         "latLng": [3.139, 101.68685],
-        "dates_visited": "2017-3-3:2017-3-4,2017-3-11:2017-3-16",
+        "dates_visited": "2017-3-3:2017-3-4,2017-3-11:2017-3-16,2017-3-19:2017-3-22",
         "add_to_map": true,
         "area_group": true
     },
@@ -2908,12 +2908,36 @@ travel_log = [
         "area_group": "Penang"
     },
     {
-        "name": "Taman Negara National Park",
+        "name": "Taman Negara Kuala Tahan (National Park)",
         "country_name": "Malaysia",
         "latLng": [4.38478, 102.4005],
-        "dates_visited": "2017-3-17",
+        "dates_visited": "2017-3-17:2017-3-18",
         "add_to_map": true,
-        "area_group": "Taman Negara"
+        "area_group": "Kuala Tahan"
+    },
+    {
+        "name": "Malacca",
+        "country_name": "Malaysia",
+        "latLng": [2.18959, 102.25008],
+        "dates_visited": "2017-3-22:2017-324",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Singapore",
+        "country_name": "Singapore",
+        "latLng": [1.35208, 103.81983],
+        "dates_visited": "2017-3-24:2017-3-26",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Kuching",
+        "country_name": "Malaysia",
+        "latLng": [1.60768, 110.37854],
+        "dates_visited": "2017-3-26",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
