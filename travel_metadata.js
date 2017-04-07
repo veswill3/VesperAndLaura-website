@@ -2788,12 +2788,14 @@ travel_log = [
         "image_path": "hcmc/post_office.jpg"
     },
     {
-        "name": "Dalat",
+        "name": "Đà Lạt",
         "country_name": "Vietnam",
         "latLng": [11.94041, 108.45831],
         "dates_visited": "2017-2-4:2017-2-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "DaLat-and-CanTho-Vietnam",
+        "image_path": "dalat_cantho/eiffel_tower.jpg"
     },
     {
         "name": "Can Tho",
@@ -2801,7 +2803,9 @@ travel_log = [
         "latLng": [10.04516, 105.74685],
         "dates_visited": "2017-2-8:2017-2-9",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "DaLat-and-CanTho-Vietnam",
+        "image_path": "dalat_cantho/mekong_river_tour04.jpg"
     },
     {
         "name": "Châu Đốc",
@@ -2809,7 +2813,8 @@ travel_log = [
         "latLng": [10.68208, 105.08239],
         "dates_visited": "2017-2-10",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "DaLat-and-CanTho-Vietnam"
     },
     {
         "name": "Phnom Penh",
