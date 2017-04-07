@@ -2959,6 +2959,22 @@ travel_log = [
         "dates_visited": "2017-4-3:2017-4-7",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Manila (airport)",
+        "country_name": "Philippines",
+        "latLng": [14.51227, 121.0165],
+        "dates_visited": "2017-4-7",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Cebu City",
+        "country_name": "Philippines",
+        "latLng": [10.31569, 123.88543],
+        "dates_visited": "2017-4-7",
+        "add_to_map": true,
+        "area_group": "Cebu"
     }
 
     // ,
