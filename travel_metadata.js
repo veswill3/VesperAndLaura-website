@@ -2940,7 +2940,23 @@ travel_log = [
         "name": "Kuching",
         "country_name": "Malaysia",
         "latLng": [1.60768, 110.37854],
-        "dates_visited": "2017-3-26",
+        "dates_visited": "2017-3-26:2017-3-31",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Mulu National Park",
+        "country_name": "Malaysia",
+        "latLng": [4.04225, 114.81165],
+        "dates_visited": "2017-3-31:2017-4-3",
+        "add_to_map": true,
+        "area_group": "Mulu"
+    },
+    {
+        "name": "Kota Kinabalu",
+        "country_name": "Malaysia",
+        "latLng": [5.9804, 116.07345],
+        "dates_visited": "2017-4-3:2017-4-7",
         "add_to_map": true,
         "area_group": true
     }
