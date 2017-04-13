@@ -2942,7 +2942,7 @@ travel_log = [
         "latLng": [1.60768, 110.37854],
         "dates_visited": "2017-3-26:2017-3-31",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Borneo"
     },
     {
         "name": "Mulu National Park",
@@ -2950,7 +2950,7 @@ travel_log = [
         "latLng": [4.04225, 114.81165],
         "dates_visited": "2017-3-31:2017-4-3",
         "add_to_map": true,
-        "area_group": "Mulu"
+        "area_group": "Borneo"
     },
     {
         "name": "Kota Kinabalu",
@@ -2958,7 +2958,7 @@ travel_log = [
         "latLng": [5.9804, 116.07345],
         "dates_visited": "2017-4-3:2017-4-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Borneo"
     },
     {
         "name": "Manila (airport)",
@@ -2966,7 +2966,7 @@ travel_log = [
         "latLng": [14.51227, 121.0165],
         "dates_visited": "2017-4-7",
         "add_to_map": true,
-        "area_group": true
+        "area_group": "Manila"
     },
     {
         "name": "Cebu City",
@@ -2974,7 +2974,31 @@ travel_log = [
         "latLng": [10.31569, 123.88543],
         "dates_visited": "2017-4-7",
         "add_to_map": true,
-        "area_group": "Cebu"
+        "area_group": "Cebu Island"
+    },
+    {
+        "name": "Panglao",
+        "country_name": "Philippines",
+        "latLng": [9.57314, 123.76294],
+        "dates_visited": "2017-4-8:2017-4-10",
+        "add_to_map": true,
+        "area_group": "Bohol Island"
+    },
+    {
+        "name": "San Juan",
+        "country_name": "Philippines",
+        "latLng": [9.16044, 123.5168],
+        "dates_visited": "2017-4-10:2017-4-12",
+        "add_to_map": true,
+        "area_group": "Siquijor Island"
+    },
+    {
+        "name": "Dumaguete",
+        "country_name": "Philippines",
+        "latLng": [9.30684, 123.30544],
+        "dates_visited": "2017-4-12",
+        "add_to_map": true,
+        "area_group": "Negros Island"
     }
 
     // ,
