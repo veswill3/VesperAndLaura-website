@@ -2996,9 +2996,25 @@ travel_log = [
         "name": "Dumaguete",
         "country_name": "Philippines",
         "latLng": [9.30684, 123.30544],
-        "dates_visited": "2017-4-12",
+        "dates_visited": "2017-4-12:2017-4-13",
         "add_to_map": true,
         "area_group": "Negros Island"
+    },
+    {
+        "name": "Oslob Whale Shark Watching",
+        "country_name": "Philippines",
+        "latLng": [9.46322, 123.38007],
+        "dates_visited": "2017-4-13:2017-4-15",
+        "add_to_map": true,
+        "area_group": "Cebu Island"
+    },
+    {
+        "name": "Moalboal",
+        "country_name": "Philippines",
+        "latLng": [9.95566, 123.40075],
+        "dates_visited": "2017-4-15",
+        "add_to_map": true,
+        "area_group": "Cebu Island"
     }
 
     // ,
