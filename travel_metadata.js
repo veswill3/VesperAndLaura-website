@@ -3012,9 +3012,25 @@ travel_log = [
         "name": "Moalboal",
         "country_name": "Philippines",
         "latLng": [9.95566, 123.40075],
-        "dates_visited": "2017-4-15",
+        "dates_visited": "2017-4-15:2017-4-17",
         "add_to_map": true,
         "area_group": "Cebu Island"
+    },
+    {
+        "name": "Cebu City",
+        "country_name": "Philippines",
+        "latLng": [10.31569, 123.88543]],
+        "dates_visited": "2017-4-17",
+        "add_to_map": true,
+        "area_group": "Cebu Island"
+    },
+    {
+        "name": "Jakarta",
+        "country_name": "Indonesia",
+        "latLng": [-6.17446, 106.82274],
+        "dates_visited": "2017-4-18",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
