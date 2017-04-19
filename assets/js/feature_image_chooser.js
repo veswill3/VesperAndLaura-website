@@ -584,7 +584,7 @@
         },
         {
             "path": "bundi/todaraisingh_fort_pano2.jpg",
-            "info": "An abandoned in Todaraisingh, India",
+            "info": "An abandoned fort in Todaraisingh, India",
             "link": "Bundi-India"
         },
         {
