@@ -732,7 +732,7 @@
         //     "path": "dalat_cantho/roadside_lookout_dalat.jpg",
         //     "info": "The hills surrounding Đà Lạt, Vietnam",
         //     "link": "DaLat-and-CanTho-Vietnam"
-        }
+        // }
         // {
         //     "path": "",
         //     "info": "",
