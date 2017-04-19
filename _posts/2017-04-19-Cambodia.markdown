@@ -1,0 +1,116 @@
+---
+layout: post
+title: "A Quick Stop in Cambodia"
+description: "A quick trip through Cambodia to visit Phnom Penh and Angkor Wat."
+visitinfo:
+    start: 2017-2-11
+    end: 2017-2-15
+tags: [South-East-Asia, Cambodia]
+image:
+    feature: /cambodia/independence_monument.jpg
+    credit: Independence Monument in Phnom Penh
+---
+
+Our time in Cambodia had a comical start. Our plan was to get Vesper a new passport in Bangkok because it was getting full and expiring soon, but we figured he had plenty of room to get one last stamp.
+
+Unfortunately, Cambodia’s visa is a full page sticker and requires a minimum of three entirely blank pages because why not? On the boat to Phnom Penh, one of the crew informed us that Vesper might need to pay a $30 “fine” in addition to the visa fee since he only had one blank page left. We did not have that much cash but luckily they accepted the $18 USD we did have along with the rest of our Vietnamese Dong, plus a written letter pleading to the customs official to place Vesper’s visa over a full page of stamps. Our first bribe of the trip!
+
+<figure class="half">
+    <a href="/images/cambodia/bribe.jpg"><img src="/images/cambodia/bribe.jpg" alt=""></a>
+    <a href="/images/cambodia/border.jpg"><img src="/images/cambodia/border.jpg" alt=""></a>
+</figure>
+
+
+We only spent a day in Phnom Penh which we used to visit the [Tuol Sleng Genocide Museum](http://www.tuolslenggenocidemuseum.com/tuol-sleng-genocide-museum.html), an intensely powerful museum detailing the atrocities that occurred at Security Prison 21 (S-21) by the [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge) during their regime in the 1970s. The site was a former high school that was transformed into an execution center where over 17,000 people were imprisoned, tortured until they named family members, friends or associates conspiring against the Khmer Rouge, and then ultimately killed either on site or at the [Killing Fields](https://en.wikipedia.org/wiki/Khmer_Rouge_Killing_Fields). This massive genocide of the Cambodian people resulted in the deaths of around two million people, a quarter of the country’s population.
+
+<figure class="half">
+    <a href="/images/cambodia/genocide_museum_cages.jpg"><img src="/images/cambodia/genocide_museum_cages.jpg" alt=""></a>
+    <a href="/images/cambodia/genocide_museum_memorial.jpg"><img src="/images/cambodia/genocide_museum_memorial.jpg" alt=""></a>
+    <figcaption>Inside the Tuol Sleng Genocide Museum.</figcaption>
+</figure>
+
+
+From Phnom Penh, we bused north to Siem Reap to explore [Angkor Wat](https://en.wikipedia.org/wiki/Angkor_Wat), the world's largest religious monument, before our flight back to Bangkok. We opted to do a DIY bicycle tour of the park, which was a fun and relaxing way to explore the many temples and ruins. Despite the heat of the day, we had an awesome time climbing up giant stone staircases, pretending to be Indiana Jones and Lara Croft, and eavesdropping on tour guides we were too cheap to pay for. Since the complex was originally Hindu but converted into a Buddhist temple, there is an interesting juxtaposition of the many Hindu gods alongside Buddha images.
+
+<figure>
+    <a href="/images/cambodia/angkor_wat9.jpg"><img src="/images/cambodia/angkor_wat9.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/angkor_wat6.jpg"><img src="/images/cambodia/angkor_wat6.jpg" alt=""></a>
+    <a href="/images/cambodia/angkor_wat4.jpg"><img src="/images/cambodia/angkor_wat4.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/angkor_wat3.jpg"><img src="/images/cambodia/angkor_wat3.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/banteay_kdei_temple2.jpg"><img src="/images/cambodia/banteay_kdei_temple2.jpg" alt=""></a>
+    <a href="/images/cambodia/banteay_kdei_temple5.jpg"><img src="/images/cambodia/banteay_kdei_temple5.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/banteay_kdei_temple.jpg"><img src="/images/cambodia/banteay_kdei_temple.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/banteay_kdei_temple6.jpg"><img src="/images/cambodia/banteay_kdei_temple6.jpg" alt=""></a>
+    <a href="/images/cambodia/banteay_kdei_temple7.jpg"><img src="/images/cambodia/banteay_kdei_temple7.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/banteay_kdei_temple10.jpg"><img src="/images/cambodia/banteay_kdei_temple10.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/srah_srang.jpg"><img src="/images/cambodia/srah_srang.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/ta_prohm2.jpg"><img src="/images/cambodia/ta_prohm2.jpg" alt=""></a>
+    <a href="/images/cambodia/relief3.jpg"><img src="/images/cambodia/relief3.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/ta_prohm.jpg"><img src="/images/cambodia/ta_prohm.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/relief2.jpg"><img src="/images/cambodia/relief2.jpg" alt=""></a>
+    <a href="/images/cambodia/ta_keo2.jpg"><img src="/images/cambodia/ta_keo2.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/ta_keo.jpg"><img src="/images/cambodia/ta_keo.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/victory_gate.jpg"><img src="/images/cambodia/victory_gate.jpg" alt=""></a>
+    <a href="/images/cambodia/victory_gate2.jpg"><img src="/images/cambodia/victory_gate2.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/phimeanakas.jpg"><img src="/images/cambodia/phimeanakas.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/bayon_temple5.jpg"><img src="/images/cambodia/bayon_temple5.jpg" alt=""></a>
+    <a href="/images/cambodia/bayon_temple4.jpg"><img src="/images/cambodia/bayon_temple4.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/cambodia/bayon_temple7.jpg"><img src="/images/cambodia/bayon_temple7.jpg" alt=""></a>
+</figure>
+
+
+Outside of Angkor Wat in Siem Reap, we made to sure to try the one local brewery, strolled down the hyper touristy Pub Street, and laughed at other tourists eating deep fried tarantulas.
+
+<figure>
+    <a href="/images/cambodia/pub_street.jpg"><img src="/images/cambodia/pub_street.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/cambodia/siem_reap_brew_pub.jpg"><img src="/images/cambodia/siem_reap_brew_pub.jpg" alt=""></a>
+    <a href="/images/cambodia/food.jpg"><img src="/images/cambodia/food.jpg" alt=""></a>
+</figure>

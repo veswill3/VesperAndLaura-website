@@ -726,13 +726,17 @@
             "path": "hcmc/laura_excited_about_beer.jpg",
             "info": "Excited about beer in Ho Chi Minh City, Vietnam",
             "link": "Ho-Chi-Minh-City-Vietnam"
+        },
+        {
+            "path": "dalat_cantho/roadside_lookout_dalat.jpg",
+            "info": "The hills surrounding Đà Lạt, Vietnam",
+            "link": "DaLat-and-CanTho-Vietnam"
+        },
+        {
+            "path": "cambodia/angkor_wat3.jpg",
+            "info": "Angkor Wat, Cambodia",
+            "link": "Cambodia"
         }
-        // ,
-        // {
-        //     "path": "dalat_cantho/roadside_lookout_dalat.jpg",
-        //     "info": "The hills surrounding Đà Lạt, Vietnam",
-        //     "link": "DaLat-and-CanTho-Vietnam"
-        // }
         // {
         //     "path": "",
         //     "info": "",

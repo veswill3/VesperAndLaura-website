@@ -2822,7 +2822,9 @@ travel_log = [
         "latLng": [11.54487, 104.89216],
         "dates_visited": "2017-2-11",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Cambodia",
+        "image_path": "cambodia/independence_monument.jpg"
     },
     {
         "name": "Siem Reap",
@@ -2830,7 +2832,19 @@ travel_log = [
         "latLng": [13.36709, 103.84481],
         "dates_visited": "2017-2-12:2017-2-15",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Cambodia",
+        "image_path": "cambodia/pub_street.jpg"
+    },
+    {
+        "name": "Angkor Wat",
+        "country_name": "Cambodia",
+        "latLng": [13.41246, 103.86698],
+        "dates_visited": "2017-2-14",
+        "add_to_map": true,
+        "area_group": "Siem Reap",
+        "blog_url": "Cambodia",
+        "image_path": "cambodia/angkor_wat3.jpg"
     },
     {
         "name": "Bangkok",
@@ -3019,7 +3033,7 @@ travel_log = [
     {
         "name": "Cebu City",
         "country_name": "Philippines",
-        "latLng": [10.31569, 123.88543]],
+        "latLng": [10.31569, 123.88543],
         "dates_visited": "2017-4-17",
         "add_to_map": true,
         "area_group": "Cebu Island"
