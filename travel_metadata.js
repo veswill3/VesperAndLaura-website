@@ -3042,9 +3042,17 @@ travel_log = [
         "name": "Jakarta",
         "country_name": "Indonesia",
         "latLng": [-6.17446, 106.82274],
-        "dates_visited": "2017-4-18",
+        "dates_visited": "2017-4-18:2017-4-19",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Senggigi",
+        "country_name": "Indonesia",
+        "latLng": [-8.48546, 116.04729],
+        "dates_visited": "2017-4-20:2017-4-21",
+        "add_to_map": true,
+        "area_group": "Lombok"
     }
 
     // ,
