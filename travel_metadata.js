@@ -3055,6 +3055,22 @@ travel_log = [
         "dates_visited": "2017-4-20:2017-4-21",
         "add_to_map": true,
         "area_group": "Lombok"
+    },
+    {
+        "name": "Senaru",
+        "country_name": "Indonesia",
+        "latLng": [-8.29019, 116.40168],
+        "dates_visited": "2017-4-21:2017-4-22",
+        "add_to_map": true,
+        "area_group": "Lombok"
+    },
+    {
+        "name": "Gili Trawangan",
+        "country_name": "Indonesia",
+        "latLng": [-8.34829, 116.03843],
+        "dates_visited": "2017-4-23",
+        "add_to_map": true,
+        "area_group": "Gili Islands"
     }
 
     // ,
