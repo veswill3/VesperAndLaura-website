@@ -2850,9 +2850,11 @@ travel_log = [
         "name": "Bangkok",
         "country_name": "Thailand",
         "latLng": [13.75633, 100.50176],
-        "dates_visited": "2017-2-15:2017-2-16",
+        "dates_visited": "2017-2-15:2017-2-16,2017-3-1:2017-3-3",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Thai-Islands",
+        "image_path": "thai_islands/bangkok_skyline_pano.jpg"
     },
     {
         "name": "Panwa beack",
@@ -2860,7 +2862,8 @@ travel_log = [
         "latLng": [7.83193, 98.40102],
         "dates_visited": "2017-2-17:2017-2-20",
         "add_to_map": true,
-        "area_group": "Phuket"
+        "area_group": "Phuket",
+        "blog_url": "Thai-Islands"
     },
     {
         "name": "Ao Yon beach",
@@ -2868,7 +2871,9 @@ travel_log = [
         "latLng": [7.81157, 98.39017],
         "dates_visited": "2017-2-17,2017-2-18,2017-2-20",
         "add_to_map": true,
-        "area_group": "Phuket"
+        "area_group": "Phuket",
+        "blog_url": "Thai-Islands",
+        "image_path": "thai_islands/ao_yon_beach_vesper.jpg"
     },
     {
         "name": "Phuket Town",
@@ -2876,7 +2881,8 @@ travel_log = [
         "latLng": [7.88044, 98.39225],
         "dates_visited": "2017-2-21:2017-2-23",
         "add_to_map": true,
-        "area_group": "Phuket"
+        "area_group": "Phuket",
+        "blog_url": "Thai-Islands"
     },
     {
         "name": "Patong Beach",
@@ -2884,7 +2890,8 @@ travel_log = [
         "latLng": [7.89619, 98.29541],
         "dates_visited": "2017-2-22",
         "add_to_map": true,
-        "area_group": "Phuket"
+        "area_group": "Phuket",
+        "blog_url": "Thai-Islands"
     },
     {
         "name": "Kata Beach",
@@ -2892,23 +2899,18 @@ travel_log = [
         "latLng": [7.82069, 98.29764],
         "dates_visited": "2017-2-23",
         "add_to_map": true,
-        "area_group": "Phuket"
+        "area_group": "Phuket",
+        "blog_url": "Thai-Islands"
     },
     {
-        "name": "Ko Tao",
+        "name": "Koh Tao",
         "country_name": "Thailand",
         "latLng": [10.09561, 99.84039],
         "dates_visited": "2017-2-24:2017-2-28",
         "add_to_map": true,
-        "area_group": true
-    },
-    {
-        "name": "Bangkok",
-        "country_name": "Thailand",
-        "latLng": [13.75633, 100.50176],
-        "dates_visited": "2017-3-1:2017-3-3",
-        "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Thai-Islands",
+        "image_path": "thai_islands/koh_tao_island_hopping2.jpg"
     },
     {
         "name": "Kuala Lumpur",

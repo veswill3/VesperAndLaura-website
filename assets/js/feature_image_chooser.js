@@ -736,7 +736,28 @@
             "path": "cambodia/angkor_wat3.jpg",
             "info": "Angkor Wat, Cambodia",
             "link": "Cambodia"
+        },
+        {
+            "path": "thai_islands/ao_yon_beach_pano.jpg",
+            "info": "Ao Yon beach on Phuket, Thailand",
+            "link": "Thai-Islands"
+        },
+        {
+            "path": "thai_islands/koh_tao_beachfront_night_pano.jpg",
+            "info": "Koh Tao beachfront, Thailand",
+            "link": "Thai-Islands"
+        },
+        {
+            "path": "thai_islands/koh_tao_beach_palm2.jpg",
+            "info": "Koh Tao, Thailand",
+            "link": "Thai-Islands"
         }
+        // ,
+        // {
+        //     "path": "thai_islands/koh_tao_beach_sunset_pano.jpg",
+        //     "info": "Sunset off the island of Koh Tao in souther Thailand.",
+        //     "link": "Thai-Islands"
+        // }
         // {
         //     "path": "",
         //     "info": "",
