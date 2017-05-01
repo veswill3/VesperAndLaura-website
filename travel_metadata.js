@@ -3068,9 +3068,33 @@ travel_log = [
         "name": "Gili Trawangan",
         "country_name": "Indonesia",
         "latLng": [-8.34829, 116.03843],
-        "dates_visited": "2017-4-23",
+        "dates_visited": "2017-4-23:2017-4-25",
         "add_to_map": true,
         "area_group": "Gili Islands"
+    },
+    {
+        "name": "Gili Air",
+        "country_name": "Indonesia",
+        "latLng": [-8.35904, 116.08128],
+        "dates_visited": "2017-4-26:2016-4-27",
+        "add_to_map": true,
+        "area_group": "Gili Islands"
+    },
+    {
+        "name": "Ubud",
+        "country_name": "Indonesia",
+        "latLng": [-8.50685, 115.26247],
+        "dates_visited": "2017-4-28:2017-4-30",
+        "add_to_map": true,
+        "area_group": "Bali"
+    },
+    {
+        "name": "Padang Bai",
+        "country_name": "Indonesia",
+        "latLng": [-8.53381, 115.50896],
+        "dates_visited": "2017-5-1",
+        "add_to_map": true,
+        "area_group": "Bali"
     }
 
     // ,
