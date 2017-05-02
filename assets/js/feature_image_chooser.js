@@ -751,12 +751,17 @@
             "path": "thai_islands/koh_tao_beach_palm2.jpg",
             "info": "Koh Tao, Thailand",
             "link": "Thai-Islands"
+        },
+        {
+            "path": "thai_islands/koh_tao_beach_sunset_pano.jpg",
+            "info": "Sunset off the island of Koh Tao in souther Thailand.",
+            "link": "Thai-Islands"
         }
         // ,
         // {
-        //     "path": "thai_islands/koh_tao_beach_sunset_pano.jpg",
-        //     "info": "Sunset off the island of Koh Tao in souther Thailand.",
-        //     "link": "Thai-Islands"
+        //     "path": "peninsular_malaysia/melaka_strait_mosque_sunset2.jpg",
+        //     "info": "Sunset over the Strait of Malacca, in Malacca, Malaysia",
+        //     "link": "Peninsular-Malaysia"
         // }
         // {
         //     "path": "",

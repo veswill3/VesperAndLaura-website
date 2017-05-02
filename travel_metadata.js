@@ -2918,7 +2918,9 @@ travel_log = [
         "latLng": [3.139, 101.68685],
         "dates_visited": "2017-3-3:2017-3-4,2017-3-11:2017-3-16,2017-3-19:2017-3-22",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Peninsular-Malaysia",
+        "image_path": "peninsular_malaysia/petronas_twin_towers.jpg"
     },
     {
         "name": "Georgetown",
@@ -2926,7 +2928,9 @@ travel_log = [
         "latLng": [5.41716, 100.33762],
         "dates_visited": "2017-3-5:2017-3-10",
         "add_to_map": true,
-        "area_group": "Penang"
+        "area_group": "Penang",
+        "blog_url": "Peninsular-Malaysia",
+        "image_path": "peninsular_malaysia/georgetown_street_art9.jpg"
     },
     {
         "name": "Taman Negara Kuala Tahan (National Park)",
@@ -2934,15 +2938,19 @@ travel_log = [
         "latLng": [4.38478, 102.4005],
         "dates_visited": "2017-3-17:2017-3-18",
         "add_to_map": true,
-        "area_group": "Kuala Tahan"
+        "area_group": "Kuala Tahan",
+        "blog_url": "Peninsular-Malaysia",
+        "image_path": "peninsular_malaysia/taman_negara2.jpg"
     },
     {
         "name": "Malacca",
         "country_name": "Malaysia",
         "latLng": [2.18959, 102.25008],
-        "dates_visited": "2017-3-22:2017-324",
+        "dates_visited": "2017-3-22:2017-3-24",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Peninsular-Malaysia",
+        "image_path": "peninsular_malaysia/malacca_sunset_selfie.jpg"
     },
     {
         "name": "Singapore",
