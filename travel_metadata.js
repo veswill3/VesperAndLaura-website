@@ -3103,6 +3103,14 @@ travel_log = [
         "dates_visited": "2017-5-1",
         "add_to_map": true,
         "area_group": "Bali"
+    },
+    {
+        "name": "Sanur",
+        "country_name": "Indonesia",
+        "latLng": [-8.70717, 115.26262],
+        "dates_visited": "2017-5-2",
+        "add_to_map": true,
+        "area_group": "Bali"
     }
 
     // ,
