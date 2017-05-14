@@ -3111,6 +3111,70 @@ travel_log = [
         "dates_visited": "2017-5-2",
         "add_to_map": true,
         "area_group": "Bali"
+    },
+    {
+        "name": "Seminyak",
+        "country_name": "Indonesia",
+        "latLng": [-8.69128, 115.16816],
+        "dates_visited": "2017-5-3:2017-5-7",
+        "add_to_map": true,
+        "area_group": "Bali"
+    },
+    {
+        "name": "Cairns",
+        "country_name": "Australia",
+        "latLng": [-16.91855, 145.77805],
+        "dates_visited": "2017-5-8:2017-5-9",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Great Barrier Reef (Flynn Reef)",
+        "country_name": "Australia",
+        "latLng": [-16.72606, 146.27353],
+        "dates_visited": "2017-5-9",
+        "add_to_map": true,
+        "area_group": "Cairns"
+    },
+    {
+        "name": "Noah's beech - Cape Tribulation",
+        "country_name": "Australia",
+        "latLng": [-16.13441, 145.45202],
+        "dates_visited": "2017-5-10:2017-5-11",
+        "add_to_map": true,
+        "area_group": "Daintree National Park"
+    },
+    {
+        "name": "Mossman Gorge",
+        "country_name": "Australia",
+        "latLng": [-16.47441, 145.3483],
+        "dates_visited": "2017-5-11",
+        "add_to_map": true,
+        "area_group": "Daintree National Park"
+    },
+    {
+        "name": "Port Douglas",
+        "country_name": "Australia",
+        "latLng": [-16.48361, 145.46527],
+        "dates_visited": "2017-5-11",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Crystal Cascades",
+        "country_name": "Australia",
+        "latLng": [-16.96195, 145.67971],
+        "dates_visited": "2017-5-12",
+        "add_to_map": true,
+        "area_group": "Cairns"
+    },
+    {
+        "name": "Sydney",
+        "country_name": "Australia",
+        "latLng": [-33.86881, 151.20929],
+        "dates_visited": "2017-5-13",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
