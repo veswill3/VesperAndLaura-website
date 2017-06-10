@@ -3172,9 +3172,249 @@ travel_log = [
         "name": "Sydney",
         "country_name": "Australia",
         "latLng": [-33.86881, 151.20929],
-        "dates_visited": "2017-5-13",
+        "dates_visited": "2017-5-13:2017-5-15",
         "add_to_map": true,
         "area_group": true
+    },
+    {
+        "name": "Melbourne",
+        "country_name": "Australia",
+        "latLng": [-37.81361, 144.96305],
+        "dates_visited": "2017-5-15:2017-5-17,2017-5-20:2017-5-22",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Twelve Apostles",
+        "country_name": "Australia",
+        "latLng": [-38.66459, 143.10298],
+        "dates_visited": "2017-5-18",
+        "add_to_map": true,
+        "area_group": "Great Ocean Road"
+    },
+    {
+        "name": "Warrnambool (on the Great Ocean Road)",
+        "country_name": "Australia",
+        "latLng": [-38.36867, 142.4982],
+        "dates_visited": "2017-5-18",
+        "add_to_map": true,
+        "area_group": "Great Ocean Road"
+    },
+    {
+        "name": "Tower Hill Wildlife Reserve",
+        "country_name": "Australia",
+        "latLng": [-38.31785, 142.36046],
+        "dates_visited": "2017-5-19",
+        "add_to_map": true,
+        "area_group": "Great Ocean Road"
+    },
+    {
+        "name": "Grampians National Park",
+        "country_name": "Australia",
+        "latLng": [-37.21088, 142.39795],
+        "dates_visited": "2017-5-19:2017-5-20",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Ballarat",
+        "country_name": "Australia",
+        "latLng": [-37.56215, 143.85025],
+        "dates_visited": "2017-5-20",
+        "add_to_map": true,
+        "area_group": true
+    },
+    {
+        "name": "Christchurch",
+        "country_name": "New Zealand",
+        "latLng": [-43.53205, 172.63622],
+        "dates_visited": "2017-5-23",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Oamaru (Yellow eyed penguin colony)",
+        "country_name": "New Zealand",
+        "latLng": [170.9802783, -45.1216251],
+        "dates_visited": "2017-5-24",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Dunedin",
+        "country_name": "New Zealand",
+        "latLng": [170.5027976, -45.8787605],
+        "dates_visited": "2017-5-24",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Papatowai",
+        "country_name": "New Zealand",
+        "latLng": [169.4703666, -46.5605319],
+        "dates_visited": "2017-5-24",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Invercargill",
+        "country_name": "New Zealand",
+        "latLng": [168.3537731, -46.4131866],
+        "dates_visited": "2017-5-25",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Te Anau",
+        "country_name": "New Zealand",
+        "latLng": [167.718053, -45.4144515],
+        "dates_visited": "2017-5-25",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Milford Sound",
+        "country_name": "New Zealand",
+        "latLng": [167.8973801, -44.6414024],
+        "dates_visited": "2017-5-26",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Queenstown",
+        "country_name": "New Zealand",
+        "latLng": [168.6626435, -45.0311622],
+        "dates_visited": "2017-5-27",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Fox Glacier",
+        "country_name": "New Zealand",
+        "latLng": [170.0175878, -43.4644799],
+        "dates_visited": "2017-5-29",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Franz Josef Glacier",
+        "country_name": "New Zealand",
+        "latLng": [170.1832884, -43.3873293],
+        "dates_visited": "2017-5-29",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Hokitika",
+        "country_name": "New Zealand",
+        "latLng": [170.9665427, -42.7173686],
+        "dates_visited": "2017-5-30,2017-5-31",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Pancake Rocks and Blowholes",
+        "country_name": "New Zealand",
+        "latLng": [171.3263694, -42.1140508],
+        "dates_visited": "2017-5-31",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Kina Beach Campsite",
+        "country_name": "New Zealand",
+        "latLng": [173.0656482, -41.1845907],
+        "dates_visited": "2017-6-1",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Abel Tasman National Park",
+        "country_name": "New Zealand",
+        "latLng": [172.9721552, -40.9346851],
+        "dates_visited": "2017-6-2",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Nelson",
+        "country_name": "New Zealand",
+        "latLng": [173.2839653, -41.2706319],
+        "dates_visited": "2017-6-2",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Renwick",
+        "country_name": "New Zealand",
+        "latLng": [173.8266791, -41.5080803],
+        "dates_visited": "2017-6-3",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Picton",
+        "country_name": "New Zealand",
+        "latLng": [174.0010044, -41.2905926],
+        "dates_visited": "2017-6-4",
+        "add_to_map": true,
+        "area_group": "NZ South Island"
+    },
+    {
+        "name": "Wellington",
+        "country_name": "New Zealand",
+        "latLng": [174.776236, -41.2864603],
+        "dates_visited": "2017-6-5",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Tongariro National Park",
+        "country_name": "New Zealand",
+        "latLng": [-39.2727, 175.58022],
+        "dates_visited": "2017-6-6",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Wai-O-Tapu Thermal Wonderland",
+        "country_name": "New Zealand",
+        "latLng": [176.3675024, -38.355489],
+        "dates_visited": "2017-6-6",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Hobbiton Movie Set",
+        "country_name": "New Zealand",
+        "latLng": [175.6829325, -37.8721253],
+        "dates_visited": "2017-6-7",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Te Kauwhata",
+        "country_name": "New Zealand",
+        "latLng": [175.1436073, -37.4039806],
+        "dates_visited": "2017-6-7,2017-6-8",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Hot Water Beach",
+        "country_name": "New Zealand",
+        "latLng": [175.8221313, -36.8902497],
+        "dates_visited": "2017-6-8",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
+    },
+    {
+        "name": "Auckland",
+        "country_name": "New Zealand",
+        "latLng": [174.7633315, -36.8484597],
+        "dates_visited": "2017-6-9",
+        "add_to_map": true,
+        "area_group": "NZ North Island"
     }
 
     // ,
