@@ -3235,7 +3235,7 @@ travel_log = [
     {
         "name": "Oamaru (Yellow eyed penguin colony)",
         "country_name": "New Zealand",
-        "latLng": [170.9802783, -45.1216251],
+        "latLng": [-45.1216251, 170.9802783],
         "dates_visited": "2017-5-24",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3243,7 +3243,7 @@ travel_log = [
     {
         "name": "Dunedin",
         "country_name": "New Zealand",
-        "latLng": [170.5027976, -45.8787605],
+        "latLng": [-45.8787605, 170.5027976],
         "dates_visited": "2017-5-24",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3251,7 +3251,7 @@ travel_log = [
     {
         "name": "Papatowai",
         "country_name": "New Zealand",
-        "latLng": [169.4703666, -46.5605319],
+        "latLng": [-46.5605319, 169.4703666],
         "dates_visited": "2017-5-24",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3259,7 +3259,7 @@ travel_log = [
     {
         "name": "Invercargill",
         "country_name": "New Zealand",
-        "latLng": [168.3537731, -46.4131866],
+        "latLng": [-46.4131866, 168.3537731],
         "dates_visited": "2017-5-25",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3267,7 +3267,7 @@ travel_log = [
     {
         "name": "Te Anau",
         "country_name": "New Zealand",
-        "latLng": [167.718053, -45.4144515],
+        "latLng": [-45.4144515, 167.718053],
         "dates_visited": "2017-5-25",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3275,7 +3275,7 @@ travel_log = [
     {
         "name": "Milford Sound",
         "country_name": "New Zealand",
-        "latLng": [167.8973801, -44.6414024],
+        "latLng": [-44.6414024, 167.8973801],
         "dates_visited": "2017-5-26",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3283,7 +3283,7 @@ travel_log = [
     {
         "name": "Queenstown",
         "country_name": "New Zealand",
-        "latLng": [168.6626435, -45.0311622],
+        "latLng": [-45.0311622, 168.6626435],
         "dates_visited": "2017-5-27",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3291,7 +3291,7 @@ travel_log = [
     {
         "name": "Fox Glacier",
         "country_name": "New Zealand",
-        "latLng": [170.0175878, -43.4644799],
+        "latLng": [-43.4644799, 170.0175878],
         "dates_visited": "2017-5-29",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3299,7 +3299,7 @@ travel_log = [
     {
         "name": "Franz Josef Glacier",
         "country_name": "New Zealand",
-        "latLng": [170.1832884, -43.3873293],
+        "latLng": [-43.3873293, 170.1832884],
         "dates_visited": "2017-5-29",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3307,7 +3307,7 @@ travel_log = [
     {
         "name": "Hokitika",
         "country_name": "New Zealand",
-        "latLng": [170.9665427, -42.7173686],
+        "latLng": [-42.7173686, 170.9665427],
         "dates_visited": "2017-5-30,2017-5-31",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3315,7 +3315,7 @@ travel_log = [
     {
         "name": "Pancake Rocks and Blowholes",
         "country_name": "New Zealand",
-        "latLng": [171.3263694, -42.1140508],
+        "latLng": [-42.1140508, 171.3263694],
         "dates_visited": "2017-5-31",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3323,7 +3323,7 @@ travel_log = [
     {
         "name": "Kina Beach Campsite",
         "country_name": "New Zealand",
-        "latLng": [173.0656482, -41.1845907],
+        "latLng": [-41.1845907, 173.0656482],
         "dates_visited": "2017-6-1",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3331,7 +3331,7 @@ travel_log = [
     {
         "name": "Abel Tasman National Park",
         "country_name": "New Zealand",
-        "latLng": [172.9721552, -40.9346851],
+        "latLng": [-40.9346851, 172.9721552],
         "dates_visited": "2017-6-2",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3339,7 +3339,7 @@ travel_log = [
     {
         "name": "Nelson",
         "country_name": "New Zealand",
-        "latLng": [173.2839653, -41.2706319],
+        "latLng": [-41.2706319, 173.2839653],
         "dates_visited": "2017-6-2",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3347,7 +3347,7 @@ travel_log = [
     {
         "name": "Renwick",
         "country_name": "New Zealand",
-        "latLng": [173.8266791, -41.5080803],
+        "latLng": [-41.5080803, 173.8266791],
         "dates_visited": "2017-6-3",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3355,7 +3355,7 @@ travel_log = [
     {
         "name": "Picton",
         "country_name": "New Zealand",
-        "latLng": [174.0010044, -41.2905926],
+        "latLng": [-41.2905926, 174.0010044],
         "dates_visited": "2017-6-4",
         "add_to_map": true,
         "area_group": "NZ South Island"
@@ -3363,7 +3363,7 @@ travel_log = [
     {
         "name": "Wellington",
         "country_name": "New Zealand",
-        "latLng": [174.776236, -41.2864603],
+        "latLng": [-41.2864603, 174.776236],
         "dates_visited": "2017-6-5",
         "add_to_map": true,
         "area_group": "NZ North Island"
@@ -3379,7 +3379,7 @@ travel_log = [
     {
         "name": "Wai-O-Tapu Thermal Wonderland",
         "country_name": "New Zealand",
-        "latLng": [176.3675024, -38.355489],
+        "latLng": [-38.355489, 176.3675024],
         "dates_visited": "2017-6-6",
         "add_to_map": true,
         "area_group": "NZ North Island"
@@ -3387,7 +3387,7 @@ travel_log = [
     {
         "name": "Hobbiton Movie Set",
         "country_name": "New Zealand",
-        "latLng": [175.6829325, -37.8721253],
+        "latLng": [-37.8721253, 175.6829325],
         "dates_visited": "2017-6-7",
         "add_to_map": true,
         "area_group": "NZ North Island"
@@ -3395,7 +3395,7 @@ travel_log = [
     {
         "name": "Te Kauwhata",
         "country_name": "New Zealand",
-        "latLng": [175.1436073, -37.4039806],
+        "latLng": [-37.4039806, 175.1436073],
         "dates_visited": "2017-6-7,2017-6-8",
         "add_to_map": true,
         "area_group": "NZ North Island"
@@ -3403,7 +3403,7 @@ travel_log = [
     {
         "name": "Hot Water Beach",
         "country_name": "New Zealand",
-        "latLng": [175.8221313, -36.8902497],
+        "latLng": [-36.8902497, 175.8221313],
         "dates_visited": "2017-6-8",
         "add_to_map": true,
         "area_group": "NZ North Island"
@@ -3411,7 +3411,7 @@ travel_log = [
     {
         "name": "Auckland",
         "country_name": "New Zealand",
-        "latLng": [174.7633315, -36.8484597],
+        "latLng": [-36.8484597, 174.7633315],
         "dates_visited": "2017-6-9",
         "add_to_map": true,
         "area_group": "NZ North Island"
