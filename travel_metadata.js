@@ -3414,9 +3414,17 @@ travel_log = [
         "name": "Auckland",
         "country_name": "New Zealand",
         "latLng": [-36.8484597, 174.7633315],
-        "dates_visited": "2017-6-9",
+        "dates_visited": "2017-6-9:2017-6-10",
         "add_to_map": true,
         "area_group": "NZ North Island"
+    },
+    {
+        "name": "Sydney",
+        "country_name": "Australia",
+        "latLng": [-33.86881, 151.20929],
+        "dates_visited": "2017-6-11",
+        "add_to_map": true,
+        "area_group": true
     }
 
     // ,
