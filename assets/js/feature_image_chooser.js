@@ -756,12 +756,22 @@
             "path": "thai_islands/koh_tao_beach_sunset_pano.jpg",
             "info": "Sunset off the island of Koh Tao in souther Thailand.",
             "link": "Thai-Islands"
+        },
+        {
+            "path": "peninsular_malaysia/melaka_strait_mosque_sunset2.jpg",
+            "info": "Sunset over the Strait of Malacca, in Malacca, Malaysia",
+            "link": "Peninsular-Malaysia"
+        },
+        {
+            "path": "singapore/singapore_inflatable_course.jpg",
+            "info": "An inflatable course for kids on The Float @ Marina Bay in Singapore",
+            "link": "Singapore"
         }
         // ,
         // {
-        //     "path": "peninsular_malaysia/melaka_strait_mosque_sunset2.jpg",
-        //     "info": "Sunset over the Strait of Malacca, in Malacca, Malaysia",
-        //     "link": "Peninsular-Malaysia"
+        //     "path": "singapore/singapore_skyline5.jpg",
+        //     "info": "The skyline in Singapore",
+        //     "link": "Singapore"
         // }
         // {
         //     "path": "",

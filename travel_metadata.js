@@ -2958,7 +2958,9 @@ travel_log = [
         "latLng": [1.35208, 103.81983],
         "dates_visited": "2017-3-24:2017-3-26",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Singapore",
+        "image_path": "singapore/supertrees.jpg"
     },
     {
         "name": "Kuching",
