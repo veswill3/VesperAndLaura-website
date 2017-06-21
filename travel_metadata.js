@@ -2968,7 +2968,29 @@ travel_log = [
         "latLng": [1.60768, 110.37854],
         "dates_visited": "2017-3-26:2017-3-31",
         "add_to_map": true,
-        "area_group": "Borneo"
+        "area_group": "Borneo",
+        "blog_url": "Borneo",
+        "image_path": "borneo/orangutan_street_art.jpg"
+    },
+    {
+        "name": "Bako National Park",
+        "country_name": "Malaysia",
+        "latLng": [1.71666, 110.46666],
+        "dates_visited": "2017-3-29",
+        "add_to_map": true,
+        "area_group": "Borneo",
+        "blog_url": "Borneo",
+        "image_path": "borneo/probiscus_monkey.jpg"
+    },
+    {
+        "name": "Semenggoh Wildlife centre",
+        "country_name": "Malaysia",
+        "latLng": [1.3999, 110.32449],
+        "dates_visited": "2017-3-31",
+        "add_to_map": true,
+        "area_group": "Borneo",
+        "blog_url": "Borneo",
+        "image_path": "borneo/orangutan.jpg"
     },
     {
         "name": "Mulu National Park",
@@ -2976,7 +2998,9 @@ travel_log = [
         "latLng": [4.04225, 114.81165],
         "dates_visited": "2017-3-31:2017-4-3",
         "add_to_map": true,
-        "area_group": "Borneo"
+        "area_group": "Borneo",
+        "blog_url": "Borneo",
+        "image_path": "borneo/racer_snake.jpg"
     },
     {
         "name": "Kota Kinabalu",
@@ -2984,7 +3008,8 @@ travel_log = [
         "latLng": [5.9804, 116.07345],
         "dates_visited": "2017-4-3:2017-4-7",
         "add_to_map": true,
-        "area_group": "Borneo"
+        "area_group": "Borneo",
+        "blog_url": "Borneo"
     },
     {
         "name": "Manila (airport)",

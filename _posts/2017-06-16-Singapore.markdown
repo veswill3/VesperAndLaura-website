@@ -11,7 +11,7 @@ image:
     credit:
 ---
 
-Before jumping from [Peninsular Malaysia]({% post_url 2017-05-01-Peninsular-Malaysia %}) to Borneo, we had a brief 48 hour interlude in the city state of Singapore. Similar to our transition from South America to [Copenhagen]({% post_url 2016-07-23-Copenhagen-Denmark %}), moving from the third world of Southeast Asia into the ultra modern, high tech, and forward-thinking Singapore was a nice change of pace.
+Before jumping from [Peninsular Malaysia]({% post_url 2017-05-01-Peninsular-Malaysia %}) to [Borneo]({% post_url 2017-06-20-Borneo %}), we had a brief 48 hour interlude in the city state of Singapore. Similar to our transition from South America to [Copenhagen]({% post_url 2016-07-23-Copenhagen-Denmark %}), moving from the third world of Southeast Asia into the ultra modern, high tech, and forward-thinking Singapore was a nice change of pace.
 
 One of the most pleasing aspects of Singapore is its architecture. Despite being a large city with plenty of skyscrapers, the city feels remarkably open, sunny, and livable. We visited the [Singapore City Gallery](https://www.ura.gov.sg/uol/citygallery) to learn more. The exhibit details how the city has evolved over the years and what their extensive urban planning has in store for the future. One of the interesting things we learned is that a large portion of Singapore is on [reclaimed land](https://en.wikipedia.org/wiki/Land_reclamation_in_Singapore); in fact, the city-state has increased its landmass by 22% since 1965 and plans to expand another 7-8% by 2030!
 

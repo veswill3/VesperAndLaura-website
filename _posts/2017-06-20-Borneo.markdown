@@ -1,0 +1,137 @@
+---
+layout: post
+title: "Borneo"
+description: "Exploring the parks and jungles of Borneo."
+visitinfo:
+    start: 2017-3-26
+    end: 2017-4-7
+tags: [South-East-Asia, Malaysia]
+image:
+    feature: /borneo/wading_into_bako.jpg
+    credit: Wading into Bako National Park
+---
+
+After Singapore we flew back to Malaysia, but this time on the island of Borneo, the third largest island in the world (after Greenland and New Guinea). [Borneo](https://en.wikipedia.org/wiki/Borneo) is split up between three countries with Malaysia having about a third, Indonesia having two-thirds, and the tiny sovereign state of Brunei with about 1%.
+
+
+## Kuching
+
+We started our trip to Borneo in the city of Kuching so we could explore the state of Sarawak. We spent our first few days in Kuching relaxing at our hostel, strolling along the city’s river walk, and trying some local pizza and brews.
+
+<figure>
+    <a href="/images/borneo/cat_statue.jpg"><img src="/images/borneo/cat_statue.jpg" alt=""></a>
+    <figcaption>Kuching, known as the Cat City, has numerous statues, gift shops, and even a museum dedicated to cats!</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/orangutan_street_art2.jpg"><img src="/images/borneo/orangutan_street_art2.jpg" alt=""></a>
+    <a href="/images/borneo/colorful_building.jpg"><img src="/images/borneo/colorful_building.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/borneo/orangutan_street_art.jpg"><img src="/images/borneo/orangutan_street_art.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/street_art2.jpg"><img src="/images/borneo/street_art2.jpg" alt=""></a>
+    <a href="/images/borneo/street_art.jpg"><img src="/images/borneo/street_art.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/borneo/river_in_kuching.jpg"><img src="/images/borneo/river_in_kuching.jpg" alt=""></a>
+    <figcaption>Enjoying street art by day and the river walk at night.</figcaption>
+</figure>
+
+Bako National Park is located outside the city and makes a perfect day trip. This park is a bit remote; it’s only accessible by water and doesn’t even have a dock upon arrival. After a fifteen minute boat ride, you need to wade into shore depending on where the tide is - oh, and watch out for crocodiles! While hiking throughout the park we met some animals: a few Bornean bearded pigs and several species of monkeys including the somewhat rare silvered leaf monkey and the funny looking proboscis monkey, which is endemic to Borneo.
+
+<figure>
+    <a href="/images/borneo/hike.jpg"><img src="/images/borneo/hike.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/beach2.jpg"><img src="/images/borneo/beach2.jpg" alt=""></a>
+    <a href="/images/borneo/beach.jpg"><img src="/images/borneo/beach.jpg" alt=""></a>
+    <figcaption>We hiked through the park to several beach overlooks, but no swimming allowed due to crocodiles.</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/borneo/probiscus_monkey.jpg"><img src="/images/borneo/probiscus_monkey.jpg" alt=""></a>
+    <figcaption>The proboscis monkey is known for its <i>unique</i> nose.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/bearded_pig.jpg"><img src="/images/borneo/bearded_pig.jpg" alt=""></a>
+    <a href="/images/borneo/snake.jpg"><img src="/images/borneo/snake.jpg" alt=""></a>
+    <figcaption>The hairy pigs were hard to miss while the snakes were much harder to spot.</figcaption>
+</figure>
+
+<figure>
+    <a href="/images/borneo/silver_leaf_monkey_troup.jpg"><img src="/images/borneo/silver_leaf_monkey_troup.jpg" alt=""></a>
+    <figcaption>How many silvered leaf monkeys can you find?</figcaption>
+</figure>
+
+Our final day in Kuching we woke up early to visit the Semenggoh Wildlife Center in time for the morning orangutan feeding before our flight north. Orangutans are only found in the wild in the rainforests of Borneo and Sumatra.
+
+<figure>
+    <a href="/images/borneo/orangutan.jpg"><img src="/images/borneo/orangutan.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/organgutan2.jpg"><img src="/images/borneo/organgutan2.jpg" alt=""></a>
+    <a href="/images/borneo/organgutan3.jpg"><img src="/images/borneo/organgutan3.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/borneo/morning_feeding.jpg"><img src="/images/borneo/morning_feeding.jpg" alt=""></a>
+    <figcaption>It's a bit hard to see, but the orangutan in the bottom right has unique facial flaps only present on males. They can take up to 20 years to develop and are supposedly quite popular with the ladies.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/pitcher_plant.jpg"><img src="/images/borneo/pitcher_plant.jpg" alt=""></a>
+    <a href="/images/borneo/crocodile.jpg"><img src="/images/borneo/crocodile.jpg" alt=""></a>
+    <figcaption>The park also had several pitcher plants, which are actually carnivorous, as well as a couple crocodiles.</figcaption>
+</figure>
+
+
+## Mulu
+
+After Kuching we flew north to Mulu National Park. This park is in the middle of nowhere, practically requiring a flight in and out. There are a few houses near the park entrance which offer some cheaper but extremely basic accommodation (e.g., cold showers and electricity only during certain hours). The park itself is a bit expensive with most activities being pay-to-play, but it is very well done. We had wanted to do some of the longer hikes but Vesper’s knee was holding us back, so we checked out the caves instead. We did some squeezing, climbing, and rappelling into Racer Cave where we met a bunch of blind crickets, massive plate-sized spiders, bats, and racer snakes, which give the cave its name. These snakes wait in crevasses until a bat flies by and snatch it from the air.
+
+<figure>
+    <a href="/images/borneo/getting_ready_for_racer_cave.jpg"><img src="/images/borneo/getting_ready_for_racer_cave.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/racer_cave_rappel.jpg"><img src="/images/borneo/racer_cave_rappel.jpg" alt=""></a>
+    <a href="/images/borneo/racer_cave_squeeze.jpg"><img src="/images/borneo/racer_cave_squeeze.jpg" alt=""></a>
+</figure>
+
+<figure>
+    <a href="/images/borneo/racer_cave_climb.jpg"><img src="/images/borneo/racer_cave_climb.jpg" alt=""></a>
+</figure>
+
+<figure class="half">
+    <a href="/images/borneo/racer_snake.jpg"><img src="/images/borneo/racer_snake.jpg" alt=""></a>
+    <a href="/images/borneo/spider.jpg"><img src="/images/borneo/spider.jpg" alt=""></a>
+    <figcaption>A race snaker and a giant spider.</figcaption>
+</figure>
+
+
+
+Deer Cave, one of the parks “show caves,” is beyond massive. It has one of the largest cave openings in the world at over 400 feet tall! (For some comparison, the Houston Astrodome - a large sports stadium - is only 208 feet tall; imagine being inside a stadium made of rock!)
+
+<figure>
+    <a href="/images/borneo/deer_cave3.jpg"><img src="/images/borneo/deer_cave3.jpg" alt=""></a>
+</figure>
+
+
+We also learned about the cave’s resident bat population, including how much guano they deposit on the floor each night. In addition to experiencing their smell, you also get to see the bats in action. Each night at dusk, millions of bats leave the cave to go hunting for the night. This is known as the bat exodus, and they stream across the sky in a black horde for about an hour.
+
+<figure>
+    <a href="/images/borneo/bat_exodus.gif"><img src="/images/borneo/bat_exodus.gif" alt=""></a>
+</figure>
+
+
+## Kota Kinabalu
+
+Our final stop on Borneo was to the city of Kota Kinabalu far to the north. We had wanted to head into another national park and hike up Mount Kinabalu, but decided against it to let Vesper’s knee rest a few more days. Instead we opted to use up the rest of Laura’s Hilton points, so we sat by their rooftop pool, enjoyed using good internet, and planned our next stop in the Philippines.

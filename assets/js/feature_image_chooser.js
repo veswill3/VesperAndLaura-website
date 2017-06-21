@@ -766,12 +766,17 @@
             "path": "singapore/singapore_inflatable_course.jpg",
             "info": "An inflatable course for kids on The Float @ Marina Bay in Singapore",
             "link": "Singapore"
+        },
+        {
+            "path": "singapore/singapore_skyline5.jpg",
+            "info": "The skyline in Singapore",
+            "link": "Singapore"
         }
         // ,
         // {
-        //     "path": "singapore/singapore_skyline5.jpg",
-        //     "info": "The skyline in Singapore",
-        //     "link": "Singapore"
+        //     "path": "borneo/wading_into_bako.jpg",
+        //     "info": "Wading into Bako National Park near Kuching, Malaysia",
+        //     "link": "Borneo"
         // }
         // {
         //     "path": "",
