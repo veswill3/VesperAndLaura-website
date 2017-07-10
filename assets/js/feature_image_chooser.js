@@ -771,12 +771,22 @@
             "path": "singapore/singapore_skyline5.jpg",
             "info": "The skyline in Singapore",
             "link": "Singapore"
+        },
+        {
+            "path": "borneo/wading_into_bako.jpg",
+            "info": "Wading into Bako National Park near Kuching, Malaysia",
+            "link": "Borneo"
+        },
+        {
+            "path": "philippines/ferry_clouds.jpg",
+            "info": "Sunset on the ferry from Siquijor to Dumaguete in the Philippines",
+            "link": "Philippines"
         }
         // ,
         // {
-        //     "path": "borneo/wading_into_bako.jpg",
-        //     "info": "Wading into Bako National Park near Kuching, Malaysia",
-        //     "link": "Borneo"
+        //     "path": "philippines/chocolate_hills_pano.jpg",
+        //     "info": "The Chocolate Hills on Bohol Island, the Philippines",
+        //     "link": "Philippines"
         // }
         // {
         //     "path": "",

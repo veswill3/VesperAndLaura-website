@@ -3017,7 +3017,8 @@ travel_log = [
         "latLng": [14.51227, 121.0165],
         "dates_visited": "2017-4-7",
         "add_to_map": true,
-        "area_group": "Manila"
+        "area_group": "Manila",
+        "blog_url": "Philippines"
     },
     {
         "name": "Cebu City",
@@ -3025,7 +3026,8 @@ travel_log = [
         "latLng": [10.31569, 123.88543],
         "dates_visited": "2017-4-7",
         "add_to_map": true,
-        "area_group": "Cebu Island"
+        "area_group": "Cebu Island",
+        "blog_url": "Philippines"
     },
     {
         "name": "Panglao",
@@ -3033,7 +3035,8 @@ travel_log = [
         "latLng": [9.57314, 123.76294],
         "dates_visited": "2017-4-8:2017-4-10",
         "add_to_map": true,
-        "area_group": "Bohol Island"
+        "area_group": "Bohol Island",
+        "blog_url": "Philippines"
     },
     {
         "name": "San Juan",
@@ -3041,7 +3044,9 @@ travel_log = [
         "latLng": [9.16044, 123.5168],
         "dates_visited": "2017-4-10:2017-4-12",
         "add_to_map": true,
-        "area_group": "Siquijor Island"
+        "area_group": "Siquijor Island",
+        "blog_url": "Philippines",
+        "image_path": "philippines/drinking_by_the_pool.jpg"
     },
     {
         "name": "Dumaguete",
@@ -3049,7 +3054,9 @@ travel_log = [
         "latLng": [9.30684, 123.30544],
         "dates_visited": "2017-4-12:2017-4-13",
         "add_to_map": true,
-        "area_group": "Negros Island"
+        "area_group": "Negros Island",
+        "blog_url": "Philippines",
+        "image_path": "philippines/ferry_clouds.jpg"
     },
     {
         "name": "Oslob Whale Shark Watching",
@@ -3057,7 +3064,8 @@ travel_log = [
         "latLng": [9.46322, 123.38007],
         "dates_visited": "2017-4-13:2017-4-15",
         "add_to_map": true,
-        "area_group": "Cebu Island"
+        "area_group": "Cebu Island",
+        "blog_url": "Philippines"
     },
     {
         "name": "Moalboal",
@@ -3065,7 +3073,9 @@ travel_log = [
         "latLng": [9.95566, 123.40075],
         "dates_visited": "2017-4-15:2017-4-17",
         "add_to_map": true,
-        "area_group": "Cebu Island"
+        "area_group": "Cebu Island",
+        "blog_url": "Philippines",
+        "image_path": "philippines/scuba.jpg"
     },
     {
         "name": "Cebu City",
@@ -3073,7 +3083,9 @@ travel_log = [
         "latLng": [10.31569, 123.88543],
         "dates_visited": "2017-4-17",
         "add_to_map": true,
-        "area_group": "Cebu Island"
+        "area_group": "Cebu Island",
+        "blog_url": "Philippines",
+        "image_path": "philippines/turning_wheels_group.jpg"
     },
     {
         "name": "Jakarta",
