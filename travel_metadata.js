@@ -3093,7 +3093,8 @@ travel_log = [
         "latLng": [-6.17446, 106.82274],
         "dates_visited": "2017-4-18:2017-4-19",
         "add_to_map": true,
-        "area_group": true
+        "area_group": true,
+        "blog_url": "Indonesia"
     },
     {
         "name": "Senggigi",
@@ -3101,7 +3102,9 @@ travel_log = [
         "latLng": [-8.48546, 116.04729],
         "dates_visited": "2017-4-20:2017-4-21",
         "add_to_map": true,
-        "area_group": "Lombok"
+        "area_group": "Lombok",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/lombok_boat.jpg"
     },
     {
         "name": "Senaru",
@@ -3109,7 +3112,9 @@ travel_log = [
         "latLng": [-8.29019, 116.40168],
         "dates_visited": "2017-4-21:2017-4-22",
         "add_to_map": true,
-        "area_group": "Lombok"
+        "area_group": "Lombok",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/senaru_pano.jpg"
     },
     {
         "name": "Gili Trawangan",
@@ -3117,7 +3122,9 @@ travel_log = [
         "latLng": [-8.34829, 116.03843],
         "dates_visited": "2017-4-23:2017-4-25",
         "add_to_map": true,
-        "area_group": "Gili Islands"
+        "area_group": "Gili Islands",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/gili_sunset.jpg"
     },
     {
         "name": "Gili Air",
@@ -3125,7 +3132,9 @@ travel_log = [
         "latLng": [-8.35904, 116.08128],
         "dates_visited": "2017-4-26:2016-4-27",
         "add_to_map": true,
-        "area_group": "Gili Islands"
+        "area_group": "Gili Islands",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/boat_anchor.jpg"
     },
     {
         "name": "Ubud",
@@ -3133,7 +3142,9 @@ travel_log = [
         "latLng": [-8.50685, 115.26247],
         "dates_visited": "2017-4-28:2017-4-30",
         "add_to_map": true,
-        "area_group": "Bali"
+        "area_group": "Bali",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/bali_sculpture3.jpg"
     },
     {
         "name": "Padang Bai",
@@ -3141,7 +3152,9 @@ travel_log = [
         "latLng": [-8.53381, 115.50896],
         "dates_visited": "2017-5-1",
         "add_to_map": true,
-        "area_group": "Bali"
+        "area_group": "Bali",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/blue_lagoon.jpg"
     },
     {
         "name": "Sanur",
@@ -3149,7 +3162,8 @@ travel_log = [
         "latLng": [-8.70717, 115.26262],
         "dates_visited": "2017-5-2",
         "add_to_map": true,
-        "area_group": "Bali"
+        "area_group": "Bali",
+        "blog_url": "Indonesia"
     },
     {
         "name": "Seminyak",
@@ -3157,7 +3171,9 @@ travel_log = [
         "latLng": [-8.69128, 115.16816],
         "dates_visited": "2017-5-3:2017-5-7",
         "add_to_map": true,
-        "area_group": "Bali"
+        "area_group": "Bali",
+        "blog_url": "Indonesia",
+        "image_path": "indonesia/pool_selfie.jpg"
     },
     {
         "name": "Cairns",

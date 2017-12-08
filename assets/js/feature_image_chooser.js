@@ -781,12 +781,27 @@
             "path": "philippines/ferry_clouds.jpg",
             "info": "Sunset on the ferry from Siquijor to Dumaguete in the Philippines",
             "link": "Philippines"
+        },
+        {
+            "path": "philippines/chocolate_hills_pano.jpg",
+            "info": "The Chocolate Hills on Bohol Island, the Philippines",
+            "link": "Philippines"
+        },
+        {
+            "path": "indonesia/senaru_pano.jpg",
+            "info": "Senaru on Lombok, Indonesia",
+            "link": "Indonesia"
+        },
+        {
+            "path": "indonesia/padang_bai_harbor.jpg",
+            "info": "Padang Bai harbor on Bali, Indonesia",
+            "link": "Indonesia"
         }
         // ,
         // {
-        //     "path": "philippines/chocolate_hills_pano.jpg",
-        //     "info": "The Chocolate Hills on Bohol Island, the Philippines",
-        //     "link": "Philippines"
+        //     "path": "indonesia/ubud_rice_terraces.jpg",
+        //     "info": "Tegallalang Rice Terraces near Ubud, Bali",
+        //     "link": "Indonesia"
         // }
         // {
         //     "path": "",
