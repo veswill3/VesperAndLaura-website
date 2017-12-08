@@ -8,7 +8,7 @@ visitinfo:
 tags: [South-East-Asia, Philippines]
 image:
     feature: /philippines/chocolate_hills_pano.jpg
-    credit:
+    credit: The Chocolate Hills on the island of Bohol
 ---
 
 Our trip to the Philippines was *supposed* to begin on a Wednesday but when we arrived at the airport we weren’t allowed to board since we didn’t have an outbound flight. We tried but failed to get a ticket prior to check in closing, so instead we had to pay to reschedule our inbound flight and buy outbound flights giving us only ten days in the Philippines. Hoping to make up for lost time, we skipped Manila and flew directly to Cebu to island hop from there.
