@@ -61,7 +61,7 @@ We didn’t really know what to expect from the capital. We had heard good thing
 
 <figure>
     <a href="/images/croatia1/st_marks_church.jpg"><img src="/images/croatia1/st_marks_church.jpg" alt=""></a>
-    <figcaption>St Mark's Church./figcaption>
+    <figcaption>St Mark's Church.</figcaption>
 </figure>
 
 <figure class="half">
